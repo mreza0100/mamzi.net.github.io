@@ -15,7 +15,7 @@ That's your part to fugure it out, each person crave there own questions in the 
 > It just simply reminds my of Matrix when morpheus says: "You take the blue pill, the story ends. You wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in Wonderland, **and I show you how deep the rabbit hole goes**"
 
 <div style="text-align:center">
-      <img src="./assets/matrix.webp" alt="matrix" title="choice" width="45%" height="350px" style="padding: 15px; " />
+      <img src="./assets/matrix.webp" alt="matrix" title="choice" width="65%" height="350px" style="padding: 15px; " />
 </div>
 
 #### These are 2 buttons for you to press and make it easier for you to choose! (they don't do anything, but you can press them if you want to)
