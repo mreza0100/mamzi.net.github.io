@@ -1,3 +1,8 @@
+---
+layout: page
+title: Mamzi's Blog! - The Ultimate Question of Life, the Universe, and Everything
+---
+
 # **Mamzi's Blog!** - The Ultimate Question of Life, the Universe, and Everything
 
 Unlike what you might think, the answer to life, the universe, and everything is not 42. It's actually 43 :D
