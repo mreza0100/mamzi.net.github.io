@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mamzi's Blog! - The Ultimate Question of Life, the Universe, and Everything
+title: Spinoza and Ethics - The ground proof framework
 permalink: /roadmap/ethics.html
 ---
 
@@ -43,16 +43,60 @@ He was trying to prove his ideas in a deduced way of [Euclid](https://en.wikiped
 
 This is the map of how his book is structured, it's not easy to understand, but it's a good way to prove his ideas in a logical way.
 The way it works is that you set some definitions and axioms, and start concluding propositions and corollaries from them.
-Example of deductive reasoning:
 
-#### Time management
+#### Example of deductive reasoning
 
-- Definition: Effective time management includes planning and prioritizing tasks.
-- Axiom: Effective time management increases productivity.
-- Proposition: If you plan and prioritize tasks, you are managing your time effectively.
-- Corollary: Therefore, if you plan and prioritize tasks, your productivity will increase.
+- Definition: A round object has a circular shape that allows it to roll.
+- Axiom 1: An object on a slope will move due to gravity.
+- Axiom 2: Round objects have a shape that facilitates rolling.
+- Axiom 3: Friction can resist the movement of objects.
+- Proposition 1: If an object is round, it has the ability to roll.
+- Proposition 2: If a round object is placed on a sloped surface, it will move due to gravity unless friction is sufficient to stop it.
+- Proposition 3: Friction affects the rolling of objects by resisting motion.
+- Corollary: Therefore, if you place a round object on a hill, it will roll unless the friction is too high.
 
-His language is very difficult to understand, I'm not going to try to explain it here, I just cover abstracts of his ideas and try to make it more understandable for you.
+This deductive reasoning proves that a round object will roll down a hill due to gravity.
+Continuing our example, will lead to more propositions that has chained logic to prove the idea and make a conclusion.
+As you can see we set up some definitions and axioms, and then we can conclude some propositions and corollaries from them.
+
+Now these are some statistics of his book:
+
+- Part I: 8 Definitions, 7 Axioms, 36 Propositions
+- Part II: 8 Definitions, 7 Axioms, 49 Propositions
+- Part III: 11 Definitions, 7 Axioms, 59 Propositions
+- Part IV: 8 Definitions, 1 Axiom, 73 Propositions
+- Part V: 20 Definitions, 7 Axioms, 42 Propositions
+
+#### It's mad! specially when propositions are chained together across the parts!
+
+### What does he say in his book?
+
+I'll try to summarize his book in different parts and restructure it in a way that makes sense to me and you, and I'll try to make it as simple as possible.
+To do that, we need to define some words and concepts that he used in his book, and then we can start to understand his ideas.
+
+## Attributes, Substance, and Modes
+
+One thing to mention, knowing what each of them are is essential to understand the others.
+Because all of them are related to each other and they are the building blocks of his book.
+Basically, each concept is the dependency of the others in a many to many relation.
+
+### Attributes
+
+Attributes are the ways in which the human intellect perceives and understands the essence of substance. Each attribute reflects a different aspect of reality.
+There are 2 attributes that we can perceive and understand:
+
+- Extension (physical world)
+- Thought (mind)
+
+How do you separate them? as he says:
+
+<!-- > 1D4: By attribute, I understand that which the intellect perceives of substance as constituting its essence.
+
+> 1P2: Two substances having different attributes have nothing in common with one another. -->
+
+### Substance
+
+Substance is the fundamental building block of the universe. It is the underlying essence of everything that exists. Substance is eternal, infinite, and unchanging. It is the source of all things and the cause of all effects. Substance is the ultimate reality that underlies all phenomena.
 
 #### Resources:
 

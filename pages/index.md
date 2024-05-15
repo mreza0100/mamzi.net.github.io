@@ -7,9 +7,13 @@ permalink: /
 # **Mamzi's Blog!** - The Ultimate Question of Life, the Universe, and Everything
 
 Unlike what you might think, the answer to life, the universe, and everything is not 42. It's actually 43 :D
-In the story of the [Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy), the answer to the ultimate question of life, the universe, and everything is 42, calculated by a so called supercomputer named Deep Thought.
+In the story of the [Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy), the answer to the ultimate question of life, the universe, and everything is 42, calculated by a so called supercomputer named Deep Thought. Deep thought, thought deeply for 7.5 million years and came up with the answer 42!
 
-### **I found this question as the name of my blog, so I can map any topic to it.**
+### **I found this question as the name of my blog, so I relate any topic, and to use it as a base to start from, a base to understand the world around me from the very fundamentals**
+
+<div style="text-align:center">
+<img src="{{ absolute_url }}/assets/hermes.png" alt="matrix" title="choice" width="50%" height="450px" style="padding: 15px; " />
+</div>
 
 ## Why this question matters anyway?
 
@@ -39,6 +43,10 @@ That's your part to figure it out, each person craves their own questions in the
 I will start from the most basic building blocks in the universe and do my best to make my meaning.
 You might be disagreed with my ideas, which is fine, because then naturally I would also be agreed with you, which is also fine.
 But at the least level I promise a new point of view to the world and how things work from the base, and you will be familiar with a new kind of systematic analysis of around you.
+
+<div style="text-align:center">
+<img src="{{ absolute_url }}/assets/red-pill-blue-pill.jpg" alt="matrix" title="red blue pill" width="100%" height="350px" style="padding: 15px; " />
+</div>
 
 It just simply reminds my of Matrix when morpheus says:
 
