@@ -1,24 +1,22 @@
 title: "My answers to life universe and everything"
-author: "Default Author Name"
-description: "I write my thoughts about life, universe and everything here."
-
-# Email / Social media user names used by the minima theme:
-# All of these are optional and can be removed or commented out
+author: "Mamzi Khosravivala"
 email: "mamzi.khosravivala@gmail.com"
-# twitter_username: "twitteruser"
 github_username: "mreza0100"
 linkedin_username: "mamzi-khosravivala"
+description: >-
+      I write my thoughts about life, universe and everything here.
+
+#########################################################################################
+# twitter_username: "twitteruser"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
-
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
+markdown: kramdown
 
 rss: rss
 
