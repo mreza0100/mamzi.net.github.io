@@ -12,7 +12,14 @@ In the story of the [Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/
 ### **I found this question as the name of my blog, so I relate any topic, and to use it as a base to start from, a base to understand the world around me from the very fundamentals**
 
 <div style="text-align:center">
-<img src="{{ absolute_url }}/assets/hermes.png" alt="matrix" title="choice" width="50%" height="450px" style="padding: 15px; " />
+<img
+src="{{ absolute_url }}/assets/hermes.png"
+alt="matrix"
+title="choice"
+width="50%"
+height="450px"
+style="padding: 15px; "
+/>
 </div>
 
 ## Why this question matters anyway?
@@ -45,10 +52,17 @@ You might be disagreed with my ideas, which is fine, because then naturally I wo
 But at the least level I promise a new point of view to the world and how things work from the base, and you will be familiar with a new kind of systematic analysis of around you.
 
 <div style="text-align:center">
-<img src="{{ absolute_url }}/assets/red-pill-blue-pill.jpg" alt="matrix" title="red blue pill" width="100%" height="350px" style="padding: 15px; " />
+<img
+src="{{ absolute_url }}/assets/red-pill-blue-pill.jpg"
+alt="matrix"
+title="red blue pill"
+width="100%"
+height="350px"
+style="padding: 15px; "
+/>
 </div>
 
-It just simply reminds my of Matrix when morpheus says:
+It just simply reminds my of Matrix when Morpheus says:
 
 > You take the blue pill, the story ends. You wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in Wonderland, **and I show you how deep the rabbit hole goes**
 
@@ -56,7 +70,8 @@ It just simply reminds my of Matrix when morpheus says:
 
 <div style="text-align:center">
 
-<button style="background-color: #f44336; /_ Red _/
+<button style="
+background-color: #f44336;
 border: none;
 color: white;
 text-align: center;
@@ -66,9 +81,11 @@ font-size: 16px;
 margin: 4px 2px;
 cursor: pointer;
 border-radius: 12px;
-padding: 10px 24px;" > Blue Pill</button>
+padding: 10px 24px;"
+onclick="alert('Blue Pill is pressed!')"> Blue Pill</button>
 
-<button style="background-color: #00FF00; /_ Green _/
+<button style="
+background-color: #00FF00;
 border: none;
 background-color: #008CBA;
 color: white;
@@ -79,7 +96,8 @@ font-size: 16px;
 margin: 4px 2px;
 cursor: pointer;
 border-radius: 12px;
-padding: 10px 24px;" >Red Pill</button>
+padding: 10px 24px;"
+onclick="alert('Blue Pill is pressed!')" > Red Pill</button>
 
 </div>
 

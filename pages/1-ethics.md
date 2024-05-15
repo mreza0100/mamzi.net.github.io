@@ -5,7 +5,14 @@ permalink: /roadmap/ethics.html
 ---
 
 <div style="text-align:center">
-<img src="{{ absolute_url }}/assets/spinoza.jpeg" alt="matrix" title="choice" width="100%" height="350px" style="padding: 15px; " />
+<img
+src="{{ absolute_url }}/assets/spinoza.jpeg"
+alt="matrix"
+title="choice"
+width="100%"
+height="350px"
+style="padding: 15px; "
+/>
 </div>
 
 # Spinoza and Ethics - The ground proof framework
@@ -25,7 +32,7 @@ He developed a system of ethics based on the idea that the universe is governed 
 
 ### What happened to him?
 
-He was excommunicated from the Jewish community in Amsterdam at the age of 23, and his books were later put on the Catholic Church's Index of Forbidden Books in 1677. He was also accused of atheism, which was a serious crime at the time. He was a hated person in his time, but he was a great thinker and philosopher who managed to answer this question by good extent.
+He was excommunicated from the Jewish community in Amsterdam at the age of 23, and his books were later put on the Catholic Church's Index of Forbidden Books in 1677. He was also accused of atheism, which was a serious crime at the time. He was a hated person in his time, but he was a great thinker and philosopher who managed to answer this question by good extent. And the Ethics was his last work before he died.
 
 He died at the age of 44.
 
@@ -38,10 +45,20 @@ He was trying to prove his ideas in a deduced way of [Euclid](https://en.wikiped
 ### Just so you get how it looks like:
 
 <div style="text-align:center">
-<img src="{{ absolute_url }}/assets/ethics-map.png" alt="ethics-deductive-map" title="ethics-map" width="100%" height="400px" style="padding: 15px; zoom: 100%;" />
+<img
+src="{{ absolute_url }}/assets/ethics-map.png"
+alt="ethics-deductive-map"
+title="ethics-map"
+width="100%"
+height="400px"
+style="padding: 15px; cursor: pointer;"
+onclick="window.open('https://ethica.bc.edu/#/graph')" />
 </div>
 
-This is the map of how his book is structured, it's not easy to understand, but it's a good way to prove his ideas in a logical way.
+### Don't freak out!
+
+This is the map of how his book is structured.
+It's a [deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning), which is a method of reasoning from the general to the specific based on [logic](https://en.wikipedia.org/wiki/Logic).
 The way it works is that you set some definitions and axioms, and start concluding propositions and corollaries from them.
 
 #### Example of deductive reasoning
