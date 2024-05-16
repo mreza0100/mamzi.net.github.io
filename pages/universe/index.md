@@ -186,6 +186,7 @@ Consider the event of discovering the continent of America by Columbus:
 11. **Drive to Be More and Exist More**:
       - **Why is it the way of all living things?**
            - Because the struggle for existence and improvement is a fundamental characteristic of life.
+           - Read more about life struggle for existence and perfection under life if I wrote about it yet.
 
 So we can see the chain of cause and affect, now let's change it.
 To change this process of causes and affects that lead for Columbus to discover America, we need to change one of the causes in the chain, and the effect will change.

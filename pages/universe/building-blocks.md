@@ -21,7 +21,8 @@ They do not have the same meaning as in English, they are defined by him in his 
 
 - Substance is the abstraction of matter.
 - It's the fundamental building block of the universe.
-- You can call anything that exists in the universe a substance.
+- You can call anything that exists in the nature a substance.
+- The nature itself is one unified substance.
 
 All the nature, is the same substance as one.
 Some examples of substance:

@@ -4,6 +4,8 @@ title: Concerning God or Nature
 permalink: /universe/god/
 ---
 
+#### I do not try to convince you of anything, you can think and believe whatever you want. I'm just trying to show you how deep the rabbit hole goes, and you can decide for yourself what to do with it!
+
 First we need a definition of what we are talking about.
 
 ## Nature
@@ -146,9 +148,8 @@ Our conclusion is the difference of [anthropomorphic](https://en.wikipedia.org/w
 
 ### What's different with Spinoza's God?
 
-- God is not a separate entity from the nature, it's the nature itself.
-- God is not a intelligent agent, it's the cause of everything.
-- God does not make decisions, it's the reason of everything, because of it's nature that makes cause and affect possible.
+- God is **not** a separate entity from the nature, it's the nature itself.
+- God is **not** a intelligent agent, it's the cause of everything.
 
 ## References
 
