@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spinoza and Ethics - The ground proof framework
-permalink: /roadmap/ethics.html
+permalink: /everything/spinoza-and-ethics.html
 ---
 
 <div style="text-align:center">
@@ -86,6 +86,10 @@ Now these are some statistics of his book:
 
 #### It's mad! specially when propositions are chained together across the parts!
 
+#### Key take away
+
+It's like 2 + 2 = 4, but in a very complex way!
+
 ### What does he say in his book?
 
 I'll try to summarize his book in different parts and restructure it in a way that makes sense to me and you, and I'll try to make it as simple as possible.
@@ -93,27 +97,60 @@ To do that, we need to define some words and concepts that he used in his book, 
 
 ## Attributes, Substance, and Modes
 
-One thing to mention, knowing what each of them are is essential to understand the others.
+One thing to mention, knowing what each of them is essential to understand the others.
 Because all of them are related to each other and they are the building blocks of his book.
 Basically, each concept is the dependency of the others in a many to many relation.
+Also, these words do not has the same meaning as we know in our daily life, they are defined by him in his book.
+That's what almost most of philosophers, abstracting concepts and making new meaning for them.
 
-### Attributes
+## Attributes
 
 Attributes are the ways in which the human intellect perceives and understands the essence of substance. Each attribute reflects a different aspect of reality.
-There are 2 attributes that we can perceive and understand:
+There are 2 attributes that we (humans) can perceive and understand:
 
 - Extension (physical world)
 - Thought (mind)
 
-How do you separate them? as he says:
+Because they have nothing in common with each other, and one entity from other can't be shared with other, they are independent from each other.
+You might imagine a physical entity in your mind, but you can't share the physical entity with your mind, and vice versa. Because the environment of each of them is different from the other.
 
-<!-- > 1D4: By attribute, I understand that which the intellect perceives of substance as constituting its essence.
+### Some definitions:
 
-> 1P2: Two substances having different attributes have nothing in common with one another. -->
+---
+
+> 1D4: By attribute, I understand that which the intellect perceives of substance as constituting its essence.
+
+- Intellect: what you understand as a human being.
+- Perceives: what you can see, hear, touch, taste, and smell.
+- Substance: the fundamental building block of the universe (we will get to this later).
+- Essence: the underlying nature of something. (the core of something) (also we will get to this later)
+
+---
+
+> 1P2: Two substances having different attributes have nothing in common with one another.
+
+This is exactly the part that I mentioned above, they are independent from each other, an idea in your mind can't be shared with the physical world, and vice versa.
+
+---
 
 ### Substance
 
 Substance is the fundamental building block of the universe. It is the underlying essence of everything that exists. Substance is eternal, infinite, and unchanging. It is the source of all things and the cause of all effects. Substance is the ultimate reality that underlies all phenomena.
+
+What! yes I know
+Let's start again:
+So you know that the physical world made of matter, like molecules lets say.
+Substance is an abstraction of matter.
+You can call anything that exists in the universe a substance. Just like how you can call anything that exists in the physical world matter. One thing for sure you will hear it a lot in different contexts.
+
+### Some definitions:
+
+> By substance, I mean that which is in itself, and is conceived through itself: in other words, that of which a conception can be formed independently of any other conception.
+
+- What does conceived through itself mean? It means that it doesn't need anything else to exist, it exists by itself, it's the reason of its own existence.
+- What does a conception can be formed independently of any other conception mean? It means that you can think of it without needing to think of anything else. It's the fundamental building block of the universe.
+
+#### Essence of substance
 
 #### Resources:
 
@@ -121,4 +158,4 @@ Substance is the fundamental building block of the universe. It is the underlyin
 
 [Mapping Spinoza's Ethics](https://ethica.bc.edu/#/graph)
 
-<!-- [Standford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/spinoza/) -->
+[Standford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/spinoza/)

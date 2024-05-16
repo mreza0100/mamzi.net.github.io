@@ -22,10 +22,11 @@ style="padding: 15px; "
 />
 </div>
 
-## Why this question matters anyway?
+## Why this question matters?
 
 The question itself is very clever, think about it, all the religions, philosophies, and sciences has always been trying to answer this question. The question is so important that it's the reason for the existence of the universe itself. The question is the reason for the existence.
 
+<!--
 Some relatable examples:
 
 - How and why do things happen?
@@ -35,7 +36,7 @@ Some relatable examples:
 - Is there randomness in the universe!? (this is a good one)
 - How does the mind work?
 - How and why did life start?
-- What is free will? (this one is also good)
+- What is free will? (this one is also good) -->
 
 ## What I will talk about here
 
@@ -44,14 +45,14 @@ Most of them would be philosophical answers to different peaces of the map from 
 Also beside that, I'll write about software and computers, this can be mixed with philosophy or be just technical.
 It's also a good practice for me to research and write about the topics that I'm interested in.
 
-## Why should I want to know?
+<!-- ## Why should I want to know?
 
 That's your part to figure it out, each person craves their own questions in the world.
 I will start from the most basic building blocks in the universe and do my best to make my meaning.
 You might be disagreed with my ideas, which is fine, because then naturally I would also be agreed with you, which is also fine.
-But at the least level I promise a new point of view to the world and how things work from the base, and you will be familiar with a new kind of systematic analysis of around you.
+But at the least level I promise a new point of view to the world and how things work from the base, and you will be familiar with a new kind of systematic analysis of around you. -->
 
-<div style="text-align:center">
+<!-- <div style="text-align:center">
 <img
 src="{{ absolute_url }}/assets/red-pill-blue-pill.jpg"
 alt="matrix"
@@ -60,9 +61,9 @@ width="100%"
 height="350px"
 style="padding: 15px; "
 />
-</div>
+</div> -->
 
-It just simply reminds my of Matrix when Morpheus says:
+<!-- It just simply reminds my of Matrix when Morpheus says:
 
 > You take the blue pill, the story ends. You wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in Wonderland, **and I show you how deep the rabbit hole goes**
 
@@ -81,8 +82,7 @@ font-size: 16px;
 margin: 4px 2px;
 cursor: pointer;
 border-radius: 12px;
-padding: 10px 24px;"
-onclick="alert('Blue Pill is pressed!')"> Blue Pill</button>
+padding: 10px 24px;" > Blue Pill</button>
 
 <button style="
 background-color: #00FF00;
@@ -96,8 +96,7 @@ font-size: 16px;
 margin: 4px 2px;
 cursor: pointer;
 border-radius: 12px;
-padding: 10px 24px;"
-onclick="alert('Blue Pill is pressed!')" > Red Pill</button>
+padding: 10px 24px;" > Red Pill</button>
 
 </div>
 
@@ -107,7 +106,7 @@ Most of the things I write here are not going to feel you good and happy, that's
 
 I think that the ideas are not respectable, but the people are.
 criticizing ideas is fine, but criticizing people is not. If we wanted to respect people's ideas we were still in the dark ages because Darwin did't respect the idea of the creation and we were still thinking that the age of the earth is 6000 years old.
-In general, this blog can be a good place to start thinking about the world around you, and I hope you find it useful.
+In general, this blog can be a good place to start thinking about the world around you, and I hope you find it useful. -->
 
 ## Where can the answer be found?
 
@@ -123,19 +122,20 @@ But I will try to cover the most important parts of life and universe, and as so
 
 []:
 
-# Methodology of the map
+# Index
 
-To approach the ultimate question of life, the universe, and everything, we need to break it down into smaller concepts and explore the insights of various thinkers who have attempted to answer it. By using a ground proof framework, such as Spinoza's [Ethics](<https://en.wikipedia.org/wiki/Ethics_(Spinoza_book)>), we can analyze and understand the universe and life in a logical way that makes sense.
+- [Universe Or nature](<{{ site.baseurl }}/universe/>)
+- Life
+- Everything
 
-# Index of the map
+     - [Ethics and Spinoza]({{ site.baseurl }}/everything/spinoza-and-ethics.html)
 
-- Mamzi's Blog! - The Ultimate Question of Life, the Universe, and Everything (you are here)
+<!-- - Mamzi's Blog! - The Ultimate Question of Life, the Universe, and Everything (you are here)
+
 - [Ethics and Spinoza]({{ site.baseurl }}/roadmap/ethics.html)
 - Cause and affect
 - Our perspective, understanding and point of view
 - Substance, Mode and attributes
-
-- Life
 
      - Mind
           - Logic
@@ -169,7 +169,6 @@ To approach the ultimate question of life, the universe, and everything, we need
      - Advanced cause and affect
      - Existence
 
-- Everything
      - Death
      - Free will
      - Purpose
@@ -177,4 +176,4 @@ To approach the ultimate question of life, the universe, and everything, we need
      - Good and evil
      - Perfection
      - Morality
-     - Intelligent growth pattern
+     - Intelligent growth pattern -->
