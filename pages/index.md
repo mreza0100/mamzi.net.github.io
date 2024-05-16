@@ -127,7 +127,7 @@ But I will try to cover the most important parts of life and universe, and as so
 - [Universe Or Nature](<{{ site.baseurl }}/universe/>)
      - [Building blocks](<{{ site.baseurl }}/universe/building-blocks/>)
      - [Concerning God or Nature](<{{ site.baseurl }}/universe/god/>)
-     - [causality](<{{ site.baseurl }}/universe/causality/>)
+     - [Causality](<{{ site.baseurl }}/universe/causality/>)
 - Life
 - Everything
 

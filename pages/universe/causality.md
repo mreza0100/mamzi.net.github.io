@@ -1,6 +1,6 @@
 ---
 layout: post
-title: causality
+title: Causality
 permalink: /universe/causality/
 ---
 
@@ -103,11 +103,14 @@ How to change big bang? with manipulating the initial conditions of the universe
 So as a result, you can't change anything in the world, because you can't change the laws of nature.
 Anything that happens, happens because of the necessary, it's necessary for everything to happen the way it does and no other way.
 
-You might ask: what about me? I can make choices, I can change things! I could have simply just not to read this post!
-Well... you can't, because you are part of the universe, and you are bound by the laws of nature.
-You see, the event that made you read this post was caused by the necessary, and you had no choice but to read it.
+### What about me? I can make choices, I can change things!
 
-I will talk about it in details in the mind section under life.
+You might think that you could simply just not to read this post!
+
+Well... you can't, because you are part of the universe, and you are bound by the laws of nature.
+You see, the event that made you read this post was caused by the necessity, and you had no choice but to read it.
+
+I will talk about this in details in the mind section under life later on.
 
 ## References
 
