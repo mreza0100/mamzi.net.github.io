@@ -125,10 +125,12 @@ But I will try to cover the most important parts of life and universe, and as so
 # Index
 
 - [Universe Or Nature](<{{ site.baseurl }}/universe/>)
+     - [Concerning God or Nature](<{{ site.baseurl }}/universe/god/>)
+     - [Building blocks](<{{ site.baseurl }}/universe/building-blocks/>)
 - Life
 - Everything
 
-     - [Ethics and Spinoza]({{ site.baseurl }}/everything/spinoza-and-ethics.html)
+     - [Ethics and Spinoza]({{ site.baseurl }}/everything/spinoza-and-ethics)
 
 <!-- - Mamzi's Blog! - The Ultimate Question of Life, the Universe, and Everything (you are here)
 

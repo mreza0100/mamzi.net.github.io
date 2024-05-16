@@ -209,6 +209,10 @@ So we see that everything is connected, and everything has a cause, and everythi
 - We are living in a deterministic universe that everything happens because of necessity.
 - **All the necessary causes made me write this text, and all the necessary causes made you read it, and there is no other way that it could have happened.**
 
+## How god fits in the picture?
+
+That's what I write here: [god]({{ site.baseurl }}/universe/god.html)
+
 ### Resources:
 
 [What is universe from douglas adams](https://www.goodreads.com/quotes/92489-the-hitchhiker-s-guide-to-the-galaxy-s-definition-of-universe-the#:~:text=The%20Hitchhiker's%20Guide%20to%20the%20Galaxy's%20definition%20of%20%22Universe%22%3A,All%20around%20us.)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spinoza and Ethics - The ground proof framework
-permalink: /everything/spinoza-and-ethics.html
+permalink: /everything/spinoza-and-ethics/
 ---
 
 <div style="text-align:center">
