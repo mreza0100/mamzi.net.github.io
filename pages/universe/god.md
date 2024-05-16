@@ -4,7 +4,7 @@ title: Concerning God or Nature
 permalink: /universe/god/
 ---
 
-#### I do not try to convince you of anything, you can think and believe whatever you want. I'm just trying to show you how deep the rabbit hole goes, and you can decide for yourself what to do with it!
+<!-- #### I do not try to convince you of anything, but you need to logily know what God means in this context to continue the rest of the blog.
 
 First we need a definition of what we are talking about.
 
@@ -155,4 +155,4 @@ Our conclusion is the difference of [anthropomorphic](https://en.wikipedia.org/w
 
 [Spinoza’s Ethics - Irfan Ajvazi](https://philarchive.org/archive/AJVSE)
 
-[Spinoza's Ethics - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/spinoza/#GodNatu)
+[Spinoza's Ethics - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/spinoza/#GodNatu) -->
