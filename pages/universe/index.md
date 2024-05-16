@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Universe or Nature
+title: The Universe or Nature or God
 permalink: /universe/
 ---
 
@@ -10,20 +10,22 @@ Hitchhiker's Guide to the Galaxy is a great story
 
 The Universe is a very big thing that contains a great number of planets and a great number of beings. It is Everything. What we live in. All around us.
 
-In that universe, the laws of physics can be bent so easily that it's not even worth mentioning.
-Time travel is so commonplace that there is no distinction between the past and the future.
+- In that universe, the laws of physics can be bent so easily that it's not even worth mentioning.
+  Time travel is so commonplace that there is no distinction between the past and the future.
 
-Earth is destroyed to build a new hyperspace bypass. Later, it is revealed that a duplicate Earth was created by the planet designers some time before the original Earth was destroyed.
+- Earth is destroyed to build a new hyperspace bypass. Later, it is revealed that a duplicate Earth was created by the planet designers some time before the original Earth was destroyed.
 
-The Restaurant at the End of the Universe is located at the end of time and matter. You can watch the end of the universe while you eat a live cow that wants to be eaten, so it's not a problem!
+- The Restaurant at the End of the Universe is located at the end of time and matter. You can watch the end of the universe while you eat a live cow that wants to be eaten, so it's not a problem!
 
-None of it makes sense, but you would follow the story because that's what we like to do: imagine the impossible.
+Imagine the impossibles!
 
-#### Conflict in the definition of the Universe
+#### The story doesn't make sense
 
-It states that the area of the Universe is infinite.
-Also on the other hand, it states that the Universe is the same size as the mind of the person who is thinking about it.
-Also there is a restaurant at the end of the universe, so it's not infinite!
+- It states that the area of the Universe is infinite.
+
+- It states that the Universe is the same size as the mind of the person who is thinking about it.
+
+- There is a restaurant at the end of the universe, so it's not infinite!
 
 ## Let's talk about our world now
 
@@ -103,7 +105,7 @@ If all the causes happen, then the effect necessarily follows, and if the cause 
 - If there is a cause, then there is an effect.
 - If there is no cause, then there is no effect.
 
-### Randomness in the universe
+### Randomness and unpredictability are deferent
 
 > [1P29](https://ethica.bc.edu/#/element/1P29): Nothing in the universe is contingent (exception), but all things are conditioned to exist and operate in a particular manner by the necessity of the divine nature.
 
@@ -113,12 +115,12 @@ If all the causes happen, then the effect necessarily follows, and if the cause 
 
 Basically, there is no randomness in the universe, everything has a cause, and everything has an effect.
 
-### [Pseudo Randomness](https://en.wikipedia.org/wiki/Pseudorandomness)
+#### [Pseudo Randomness](https://en.wikipedia.org/wiki/Pseudorandomness)
 
 Pseudo random is a random with a logic behind it, it's not truly random, but it's random enough for us to not be able to predict it.
 Like dice, we can't predict the outcome of the dice, but if we know all the necessary variables, we can predict it.
 This is what people mismatch with randomness, they think that it's random, but it's not, it's just that we don't know all the necessary variables to predict it.
-So there is no randomness in the universe, everything has a cause, and everything has an effect.
+Everything else that we don't know, we call it random, but it's not.
 
 ### The lines of cause and affect to infinity
 
@@ -198,12 +200,14 @@ So we see that everything is connected, and everything has a cause, and everythi
 - What happens at each moment is like a mathematical equation with billions of variables that we can't predict, but if we know all the necessary variables, we can predict it.
 - There is only one way that the universe can go, and that's the way that it's going now.
 - What ever happened before, has happened exactly as it should, and what ever will happen in the future, will happen exactly as it should.
+- What makes causality happen is the laws of nature, like laws of physics and chemistry, more specifically the laws of the divine nature.
 
-### Shocking conclusion
+### Shocking conclusion!
 
 - The matter of fact that you are reading this text, is because of the necessary causes that made you read it.
 - There is no alternative reality that you could have done something else, because the necessary causes that made you read this text, made you read it. You might think that you could have done something else, but you couldn't, because the necessary causes that made you read this text, made you read it, just like dominoes that fall because of the necessary causes that made them fall, and there is no other way that they could have fallen.
 - We are living in a deterministic universe that everything happens because of necessity.
+- **All the necessary causes made me write this text, and all the necessary causes made you read it, and there is no other way that it could have happened.**
 
 ### Resources:
 

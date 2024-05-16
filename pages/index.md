@@ -124,7 +124,7 @@ But I will try to cover the most important parts of life and universe, and as so
 
 # Index
 
-- [Universe Or nature](<{{ site.baseurl }}/universe/>)
+- [Universe Or Nature](<{{ site.baseurl }}/universe/>)
 - Life
 - Everything
 
