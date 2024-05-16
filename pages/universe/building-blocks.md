@@ -68,6 +68,8 @@ Nature is absolutely infinite, and it's indivisible, it's one unified field, and
 Spinoza was looking at physical world and mind environment as 2 different things, and they have nothing in common with each other, an idea in your mind can't be shared with the physical world, and vice versa.
 He explain everything about both environments and how they contribute to the casualty of the universe, you can read about mind under life section (if I have written it yet).
 
+For more info of this P take a look at [God]({{ site.baseurl }}/universe/god/)
+
 ### Mode
 
 Think of mode as the state of substance, in which exposes the attribute of the substance.

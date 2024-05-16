@@ -13,10 +13,10 @@ It's equal to Universe, which I explained here: [Universe](/universe/)
 ## Spinoza definition of God
 
 Spinoza was looking at God, as the nature itself.
-God to him, was the creator of everything.
-God was the cause of everything.
-God was the essence of everything.
-God was the reason that cause and affect is possible and whats controlling it.
+God to him, is the creator of everything.
+God is the cause of everything.
+God is the essence of everything.
+God is the reason that cause and affect is possible and whats controlling it in the direction it goes.
 
 - What is controlling your heart to beat?
      - It's a complex great number of cause and affect that makes it beat.
@@ -86,8 +86,8 @@ Most of the times, god has a human form, with perfect human characteristics like
 - Being able to destroy
 - Being able to love
 - Being able to hate
+- Being able to judge
 - Being able to make decisions
-- Being able to be judge
 - Being able to be merciful
 - Being able to know everything
 - Being able to be feel angry, happy, sad and all the other human emotions
@@ -98,6 +98,37 @@ It's seams that God is not separated from nature at all, but it's one of us, it'
 
 The definition of God in other religions has always been mostly in a **super human** form, which is interesting.
 He is just like us, but with super powers.
+
+#### How would the god of sharks look like?
+
+Think about it, if sharks had a religion, how would their god look like?
+They have some sort of specific abilities that we don't have.
+They God of sharks might be the fastest swimmer, with the best sense of smell, and the best hunter, and the best survivor, and the best reproducer, and the best of all the other things that sharks are good at.
+But our God doesn't have any of these abilities, because it's not a shark, it's a human.
+It's abstraction of us, but with infinite power.
+
+### God cannot be separated of nature
+
+> [1P2](https://ethica.bc.edu/#/element/1P2): "Two substances having different attributes have nothing in common with one another."
+
+- Replace the word "substance" with "Nature" and it will make more sense.
+- Replace the word "attributes" with "characteristics" and it will make more sense.
+
+**Two natures having different characteristics have nothing in common with each other.**
+
+It's over simplified and it loose some of the meaning, but it's easier to understand this way.
+
+Spinoza was holding the idea of a unified reality/field and no separate creator.
+
+For example: because an idea can't be touched, it has nothing in common with the physical world, so there is nothing common between the idea and the physical world, but one conceived through the other, which is mind conceived through the physical world.
+
+It's impossible to think of nature that is not part of the nature. So a God who created the universe, who is in a shape or form that we can't imagine because of it's nature, has nothing to do with the nature, because it's not part of the nature.
+
+> [1P14](https://ethica.bc.edu/#/element/1P14) Except God(Nature), no substance can be or be conceived.
+
+Because everything that exist is part of the nature, then nothing outside nature can be conceived.
+Which makes sense, does your mind able to conceive something that is not part of the nature? I can't.
+Yes you can imagine star wars, but it's part of the nature, because it's in your mind, which is part of the nature.
 
 ## Conclusion
 
