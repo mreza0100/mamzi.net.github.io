@@ -47,7 +47,7 @@ In many sentences in your day to day life, you can easily change the word "God" 
 
 It's hard to understand what he meant by "substance" and "attributes", but in the context of this: he's talking about the nature itself, which is the cause of everything, and the essence of everything.
 
-Attribute and substance do not has the same meaning as you think, if you are curious about it, you can read more about it here: [Ethics and the ground proof framework](/everything/spinoza-and-ethics/)
+Attribute and substance do not has the same meaning as you think, if you are curious about it, you can read more about it here: [Building blocks of our universe](/universe/building-blocks/)
 
 Continuing with the definition of God:
 
@@ -94,7 +94,7 @@ Most of the times, god has a human form, with perfect human characteristics like
 - Being able to know everything
 - Being able to be feel angry, happy, sad and all the other human emotions
 
-It's seams that God is not separated from nature at all, but it's one of us, it's the best of us with infinite power.
+Unlike what they say, it's doesn't seams that God is a separate entity from nature, but it's one of us, it's the best of us with infinite power. Meanwhile it's somewhere that we can't see it because it's not part of the nature, but it's the creator of the nature.
 
 #### God is also INTJ!
 

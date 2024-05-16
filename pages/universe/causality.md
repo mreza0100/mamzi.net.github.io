@@ -45,36 +45,46 @@ In our everyday life, we can see how a small change in our actions can lead to b
 
 > [1P28](https://ethica.bc.edu/#/element/1P28): Every individual thing, or everything which is finite and has a conditioned existence, cannot exist or be conditioned to act, unless it be conditioned for existence and action by a cause other than itself, which also is finite, and has a conditioned existence; and likewise this cause cannot in its turn exist, or be conditioned to act, unless it be conditioned for existence and action by another cause, which also is finite, and has a conditioned existence, and so on to infinity.
 
-- Finite thing: Something that is not self caused, it caused by external causes. infinite thing = substance = god
-- Conditioned existence: Something that is not self existent, it exists because of external causes.
+- Finite thing: Something that is not self caused, it caused by external causes. infinite thing = substance = matter = nature = God.
+- Conditioned existence: Something that is not self existent, it exists because of external causes, like the motion of a domino, and the finite thing that pushed it.
 
 He says that everything that is finite and has a conditioned existence cannot exist or act unless it is conditioned by a cause other than itself, which is also finite and has a conditioned existence. And this cause cannot exist or act unless it is conditioned by another cause, and so on to infinity.
 
+In the context of dominos, the domino cannot fall unless it is pushed by another domino, and that domino cannot fall unless it is pushed by another domino, and so on to infinity.
+
 ### Relationships between causes and effects
 
-- A single cause can lead to a single effect -> 1 to 1.
+- 1 to 1 causality - linear causality
 
-     - Cause: One domino is pushed
-     - Effect: It hits the next domino and falls
-     - The cause is definite and the effect is necessary, the next domino has no choice but to fall.
+     - A single cause can lead to a single effect.
 
-- A single cause can lead to multiple effects -> 1 to many
+          - Cause: One domino is pushed
+          - Effect: It hits the next domino and falls
+          - The cause is definite and the effect is necessary, the next domino has no choice but to fall.
 
-     - Cause: pushing a domino which heats multiple dominoes
-     - Effects: The domino that was pushed falls and all the other dominoes fall
-     - The cause is definite and the effects are necessary, all the dominoes have no choice but to fall.
+- 1 to many causality - branching causality
 
-- Multiple causes can lead to a single effect. -> many to 1
+     - A single cause can lead to multiple effects.
 
-     - Cause: Many dominoes are pushed, and they all heat the last domino at the same time from different directions
-     - Effect: The last domino falls because of all the other dominoes pushing it
-     - The causes are definite and the effect is necessary, the last domino has no choice but to fall.
+          - Cause: pushing a domino which heats multiple dominoes
+          - Effects: The domino that was pushed falls and all the other dominoes fall
+          - The cause is definite and the effects are necessary, all the dominoes have no choice but to fall.
 
-- Multiple causes can lead to multiple effects. -> many to many
+- Many to 1 - diverging causality
 
-     - Cause: Many dominoes are pushed, and they all heat each other at the same time
-     - Effects: All the dominoes connected to each other affect each other
-     - The causes are definite and the effects are necessary, all the dominoes have no choice but to fall.
+     - Multiple causes can lead to multiple effects.
+
+          - Cause: Many dominoes are pushed, and they all heat each other at the same time
+          - Effects: All the dominoes connected to each other affect each other
+          - The causes are definite and the effects are necessary, all the dominoes have no choice but to fall.
+
+- Many to many - Complex network causality
+
+     - Multiple causes can lead to multiple effects.
+
+          - Cause: Many dominoes are pushed, and they all heat each other at the same time
+          - Effects: All the dominoes connected to each other affect each other
+          - The causes are definite and the effects are necessary, all the dominoes have no choice but to fall.
 
 ### The interfaces and cross attribute causality
 
@@ -108,7 +118,7 @@ Anything that happens, happens because of the necessary, it's necessary for ever
 You might think that you could simply just not to read this post!
 
 Well... you can't, because you are part of the universe, and you are bound by the laws of nature.
-You see, the event that made you read this post was caused by the necessity, and you had no choice but to read it.
+You see, the event that made you read this post was caused by the necessity, and you had no choice but to read it, even though our sense of free will makes us think that we have a choice in the moment, but in reality, we don't.
 
 I will talk about this in details in the mind section under life later on.
 

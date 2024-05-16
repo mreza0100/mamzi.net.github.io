@@ -47,7 +47,7 @@ A long while ago, people thought that the weather is random, but now we know tha
 
 Most of the concepts that I'm going to talk about are based on the ideas of Spinoza, and I'm going to use them. You might see some quotes in between the text.
 To learn more about Spinoza and his ideas, you can visit this page:
-[spinoza-and-ethics]({{ site.baseurl }}/everything/spinoza-and-ethics.html)
+[spinoza-and-ethics]({{ site.baseurl }}/everything/spinoza-and-ethics/)
 
 ### Cause and affect
 
