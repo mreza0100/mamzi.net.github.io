@@ -9,129 +9,120 @@ permalink: /
 Unlike what you might think, the answer to life, the universe, and everything is not 42. It's actually 43 :D
 In the story of the [Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy), the answer to the ultimate question of life, the universe, and everything is 42, calculated by a so called supercomputer named Deep Thought. Deep thought, thought deeply for 7.5 million years and came up with the answer 42!
 
-### **I found this question as the name of my blog, so I relate any topic, and to use it as a base to start from, a base to understand the world around me from the very fundamentals**
-
 <div style="text-align:center">
 <img
 src="{{ absolute_url }}/assets/hermes.png"
 alt="matrix"
-title="choice"
-width="50%"
-height="450px"
+title="hermes"
+width="auto"
+height="400px"
 style="padding: 15px; "
 />
+
 </div>
 
-## Why this question matters?
+Why he actually choose 42:
 
-The question itself is very clever, think about it, all the religions, philosophies, and sciences has always been trying to answer this question. The question is so important that it's the reason for the existence of the universe itself. The question is the reason for the existence.
+> The answer to this is very simple. It was a joke. It had to be a number, an ordinary, smallish number, and I chose that one. Binary representations, base thirteen, Tibetan monks are all complete nonsense. I sat at my desk, stared into the garden and thought '42 will do' I typed it out. End of story.
 
-<!--
-Some relatable examples:
+And 42 did it!
 
-- How and why do things happen?
-- Why do I exist?
-- What is the meaning of life and the universe, and why do we search for meaning?
-- How and why do we have consciousness?
-- Is there randomness in the universe!? (this is a good one)
-- How does the mind work?
-- How and why did life start?
-- What is free will? (this one is also good) -->
+Hitchhiker's Guide to the Galaxy is a great since fiction book of impossibles, and that's exactly what makes it interesting.
+It also has a movie if you don't want to read 5 books.
 
-## What I will talk about here
+Deep thought suggested to build a new computer, in a way that it incorporate living beings into the computational matrix, and will run for 10 million years to find the ultimate question of life, the universe, and everything.
 
-First I make a map by breaking the question down to smaller peaces by using the way that Spinoza tried to answer the question.
-Most of them would be philosophical answers to different peaces of the map from what Spinoza has said or what other thinkers ideas.
-Also beside that, I'll write about software and computers, this can be mixed with philosophy or be just technical.
-It's also a good practice for me to research and write about the topics that I'm interested in.
+**It's called Earth!**
 
-<!-- ## Why should I want to know?
+So the Earth was bought by the 2 white lab mice to run the experiment.
+But after 8 million years, the Earth was destroyed by the Vogons, and they destroyed it to build a new hyperspace bypass.
 
-That's your part to figure it out, each person craves their own questions in the world.
-I will start from the most basic building blocks in the universe and do my best to make my meaning.
-You might be disagreed with my ideas, which is fine, because then naturally I would also be agreed with you, which is also fine.
-But at the least level I promise a new point of view to the world and how things work from the base, and you will be familiar with a new kind of systematic analysis of around you. -->
+Arthur a normal english person and a girl who he liked survived the destruction of the Earth, and they were picked up by the Heart of Gold, a spaceship that can travel through hyperspace and the story goes on.
 
-<!-- <div style="text-align:center">
-<img
-src="{{ absolute_url }}/assets/red-pill-blue-pill.jpg"
-alt="matrix"
-title="red blue pill"
-width="100%"
-height="350px"
-style="padding: 15px; "
-/>
-</div> -->
+I consider Douglas Adams very clever with his ideas, and I think he was a genius in his own way.
+He touches on fundamental sensitive topics in a way that it's not personal, but it's funny and interesting.
 
-<!-- It just simply reminds my of Matrix when Morpheus says:
+So the Earth was made by people in hyperspace to find the answer! as a computer with living beings in it.
 
-> You take the blue pill, the story ends. You wake up in your bed and believe whatever you want to believe. You take the red pill, you stay in Wonderland, **and I show you how deep the rabbit hole goes**
+But how can you logically prove that Earth is not a computer?
+Is there randomness in our world?
+Is there free will if the Earth is a computer?
 
-#### These are 2 buttons for you to press!
+#### The story doesn't make sense
+
+- It states that the area of the Universe is infinite.
+
+- There is a restaurant at the end of the universe, so it's not infinite!
+
+- It states that the Universe is the same size as the mind of the person who is thinking about it, so it fits in the mind of the person who is thinking about it!
+
+The question was vague and not clear.
+Because the answer of it all together from what we know, doesn't make sense, and it's not clear what the answer should be.
+Because we never defined how life and universe actually works
+The very first thing is to define these things:
+
+- Matter
+- Life
+- Universe
+- Emotions
+- Thoughts
+- Intuition
+- Instinct
+- Existence
+- Consciousness
+- Mind
+- Body
+- Meanings
+- Purpose
+- Good
+- Evil
+- Morality
+- Ethics and everything
+  But if we want to actually write down all of it in a way that it makes logically sense to everyone, we need to define everything from the ground up.
+  What I'm talking about is a logically proof of life universe and how it works in a way that it makes sense to everything for everyone in a way that it's not personal, but it's logical.
 
 <div style="text-align:center">
 
-<button style="
-background-color: #f44336;
-border: none;
-color: white;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-size: 16px;
-margin: 4px 2px;
-cursor: pointer;
-border-radius: 12px;
-padding: 10px 24px;" > Blue Pill</button>
+### How to approach the ultimate question of life, the universe, and everything?
 
-<button style="
-background-color: #00FF00;
-border: none;
-background-color: #008CBA;
-color: white;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-size: 16px;
-margin: 4px 2px;
-cursor: pointer;
-border-radius: 12px;
-padding: 10px 24px;" > Red Pill</button>
+#### Spinoza was one of the thinkers who tried to answer this question
+
+Shortly, Spinoza was a Dutch philosopher living around 1632 till 1677. He was a rationalist philosopher who laid the groundwork for the 18th-century Enlightenment and modern biblical criticism. He was considered one of the great rationalists of 17th-century philosophy.
+To learn more about Spinoza and his ideas, you can visit this page:
+[Spinoza and Ethics]({{ site.baseurl }}/everything/spinoza-and-ethics/)
+
+<img
+src="{{ absolute_url }}/assets/baruch-spinoza-role-of-ethics.jpg"
+alt="matrix"
+title="spinoza-ethics"
+width="auto"
+height="350px"
+style="padding: 15px; "
+/>
 
 </div>
-
-### One thing after being Morpheus
-
-Most of the things I write here are not going to feel you good and happy, that's not the point, the point is to make you think. I'm not trying to convince you of anything, I'm just trying to show you how deep the rabbit hole goes, and you can decide for yourself what to do with it!
-
-I think that the ideas are not respectable, but the people are.
-criticizing ideas is fine, but criticizing people is not. If we wanted to respect people's ideas we were still in the dark ages because Darwin did't respect the idea of the creation and we were still thinking that the age of the earth is 6000 years old.
-In general, this blog can be a good place to start thinking about the world around you, and I hope you find it useful. -->
-
-## Where can the answer be found?
-
-Here? duh!
-
-Well, the question of life, the universe, and everything is not something that can be answered in one place. Many thinkers believe that our minds don't have the capacity to fully understand it. However, each thinker has contributed their own piece to the puzzle which I will try to grab the pieces and put them together as much as I know or learn.
-Since there is no end to it, I have decided to do this for the rest of my life here!
-
-#### Can the question be answered?
-
-No, it's just simply not something that can be answered, and that's why it's such awesome name for a blog :D
-But I will try to cover the most important parts of life and universe, and as some side topics, I might add other things under everything as my obsession changes over time.
-
-[]:
-
 # Index
 
-- [Universe Or Nature](<{{ site.baseurl }}/universe/>)
+- [Universe](<{{ site.baseurl }}/universe/>)
      - [Building blocks](<{{ site.baseurl }}/universe/building-blocks/>)
      - [Concerning God or Nature](<{{ site.baseurl }}/universe/god/>)
      - [Causality](<{{ site.baseurl }}/universe/causality/>)
 - Life
 - Everything
+     - [Ethics and Spinoza](<{{ site.baseurl }}/everything/spinoza-and-ethics>)
 
-     - [Ethics and Spinoza]({{ site.baseurl }}/everything/spinoza-and-ethics)
+### Be my feedback loop
+
+One thing that is very different from coding and writing is that you don't have a feedback loop
+When you write code, the compiler tell you if it works or not, but when you write, no one tell you how far you are from the truth.
+So I would appreciate if you could give me feedback on what you think about the content of this blog, and how I can improve it.
+
+#### How do I do it?
+
+You can open a issue on the [GitHub repository](https://github.com/mreza0100/my-answeres-to-life-universe-everything.github.io/issues)
+Or you can send a PR to the [GitHub repository](https://github.com/mreza0100/my-answeres-to-life-universe-everything.github.io)
+
+Also you can send me an email to: [mamzi.khosravivala@gmail.com](mailto:mamzi.khosravivala@gmail.com)
 
 <!-- - Mamzi's Blog! - The Ultimate Question of Life, the Universe, and Everything (you are here)
 

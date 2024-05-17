@@ -26,6 +26,9 @@ God is the reason that cause and affect is possible and whats controlling it in 
 
 It's interesting, when you think about it, it seems like he knew about the Darwinism theory before Darwin, but he was not talking about the evolution of species, he was talking about the evolution of everything, which we are part of it.
 
+## It's very hard to love God, and also it doesn't love you at all
+### In this context: God = Things
+
 In many sentences in your day to day life, you can easily change the word "God" with "Nature" and it will still make sense.
 
 - God is the creator of everything
@@ -45,7 +48,9 @@ In many sentences in your day to day life, you can easily change the word "God" 
 
 > [1P6](https://ethica.bc.edu/#/element/1D6) By God, I mean a being absolutely infinite—that is, a substance consisting in infinite attributes, of which each expresses eternal and infinite essentiality.
 
-It's hard to understand what he meant by "substance" and "attributes", but in the context of this: he's talking about the nature itself, which is the cause of everything, and the essence of everything.
+TODO: rewrite the explanation of this sentence
+
+But in the context of this: he's talking about the nature itself, which is the cause of everything, and the essence of everything.
 
 Attribute and substance do not has the same meaning as you think, if you are curious about it, you can read more about it here: [Building blocks of our universe](/universe/building-blocks/)
 

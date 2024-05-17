@@ -43,12 +43,6 @@ consider the knowledge of weather forecasting, we can predict the weather with a
 Basically we call something random that we don't know all the necessary variables to predict it.
 A long while ago, people thought that the weather is random, but now we know that it's not, and we can predict it with a good accuracy.
 
-## My approach to answer and Ethics quotes
-
-Most of the concepts that I'm going to talk about are based on the ideas of Spinoza, and I'm going to use them. You might see some quotes in between the text.
-To learn more about Spinoza and his ideas, you can visit this page:
-[spinoza-and-ethics]({{ site.baseurl }}/everything/spinoza-and-ethics/)
-
 ### Cause and affect
 
 Cause and affect is what we model as to describe the flow of action and reaction in the universe.
@@ -67,34 +61,6 @@ Consider any event that happened:
 The event has a cause or a set of causes.
 The event, which has shaped from cause to affect, will be the cause of the next affect or set of affects.
 
-Let's consider a bit more simple example in different scenarios:
-
-### Relationships between causes and effects
-
-- A single cause can lead to a single effect -> 1 to 1.
-
-     - Cause: One domino is pushed
-     - Effect: It hits the next domino and falls
-     - The cause is definite and the effect is necessary, the next domino has no choice but to fall.
-
-- A single cause can lead to multiple effects -> 1 to many
-
-     - Cause: pushing a domino which heats multiple dominoes
-     - Effects: The domino that was pushed falls and all the other dominoes fall
-     - The cause is definite and the effects are necessary, all the dominoes have no choice but to fall.
-
-- Multiple causes can lead to a single effect. -> many to 1
-
-     - Cause: Many dominoes are pushed, and they all heat the last domino at the same time from different directions
-     - Effect: The last domino falls because of all the other dominoes pushing it
-     - The causes are definite and the effect is necessary, the last domino has no choice but to fall.
-
-- Multiple causes can lead to multiple effects. -> many to many
-
-     - Cause: Many dominoes are pushed, and they all heat each other
-     - Effects: All the dominoes fall
-     - The causes are definite and the effects are necessary, all the dominoes have no choice but to fall.
-
 ### No pain, no gain. No cause, no effect.
 
 If all the causes happen, then the effect necessarily follows, and if the cause doesn't happen, then the effect can't happen.
@@ -110,8 +76,10 @@ If all the causes happen, then the effect necessarily follows, and if the cause 
 > [1P29](https://ethica.bc.edu/#/element/1P29): Nothing in the universe is contingent (exception), but all things are conditioned to exist and operate in a particular manner by the necessity of the divine nature.
 
 - Nothing can't come from nothing, everything come from something, and everything has a cause.
+- Things are related and conditioned to exist and operate in a particular manner by the necessity of the divine nature.
+     - Existence and operation of things are related to the laws of nature, like laws of physics and chemistry, and the laws of the divine nature.
 - All things are conditioned to exist and operate in a particular manner by the necessity of the divine nature.
-     - For example in the sotry: Arthur's bag that he saw last time in greece found suddenly in the spaceship, the bag come from nothing, there was no cause for it to be there, but our world is not like that, everything has a cause.
+     - For example in the story: Arthur's bag that he saw last time in greece found suddenly in the spaceship, the bag come from nothing, there was no cause for it to be there, but our world doesn't work, everything has a cause.
 
 Basically, there is no randomness in the universe, everything has a cause, and everything has an effect.
 
@@ -199,9 +167,11 @@ So we see that everything is connected, and everything has a cause, and everythi
 - What ever happens, happens because of necessary causes.
 - The future of universe is determined by the past and current state of the universe.
 - What happens at each moment is like a mathematical equation with billions of variables that we can't predict, but if we know all the necessary variables, we can predict it.
-- There is only one way that the universe can go, and that's the way that it's going now.
 - What ever happened before, has happened exactly as it should, and what ever will happen in the future, will happen exactly as it should.
 - What makes causality happen is the laws of nature, like laws of physics and chemistry, more specifically the laws of the divine nature.
+- There doesn't a similar reality when Doulas Adams haven't wrote the book, because the necessary causes that made him write the book, made him write it, and there is no other way that it could have happened.
+- There is no randomness in the universe, everything has a cause, and all causes has an effect.
+- Similar realities doesn't exist when you have done something else, because the necessary causes that made you do it, made you do it, and there is no other way that it could have happened.
 
 ### Shocking conclusion!
 
@@ -210,9 +180,26 @@ So we see that everything is connected, and everything has a cause, and everythi
 - We are living in a deterministic universe that everything happens because of necessity.
 - **All the necessary causes made me write this text, and all the necessary causes made you read it, and there is no other way that it could have happened.**
 
-## How god fits in the picture?
+### Acceptance of causality
 
-That's what I write here: [god]({{ site.baseurl }}/universe/god.html)
+You might can say that you don't think 2 + 2 is 4, but that just makes it hard for you, as 2 + 2 is 4, and there is no other way that it could be.
+Accepting that the world is working like this, the future cannot be changed, and the past couldn't have been different, and the present is exactly as it should be, and there is no other way that it could have been is not a easy thing to accept, but it's the truth, and the truth is not always easy to accept.
+
+### Good sides of it
+
+Now that you know world works by necessity, it makes some things easier.
+
+- No judgment on any event that happens, because it happens because of necessity.
+     - When you see a lion eating a deer, you don't judge the lion, because it eats the deer because of necessity.
+     - Why does lion ear deer because of necessity? because we accepted that this is the way nature works, but we have not accepted it for ourselves, we believe that we have free will, we can think, and we can avoid making mistakes, I will talk about this in the mind section under life later on.
+- No good or bad, because everything happens because of necessity.
+     - Good and bad are our perception of events, but in reality, everything happens because of necessity, nature does not understand good or bad, it nether judges, it just happens because it's necessary to happen.
+
+### Next steps
+
+#### [Causality]({{ site.baseurl }}/universe/causality/)
+
+#### [God]({{ site.baseurl }}/universe/god.html)
 
 ### Resources:
 

@@ -45,6 +45,7 @@ He was trying to prove his ideas in a deduced way of [Euclid](https://en.wikiped
 ### Just so you get how it looks like:
 
 <div style="text-align:center">
+
 <img
 src="{{ absolute_url }}/assets/ethics-map.png"
 alt="ethics-deductive-map"
@@ -53,13 +54,13 @@ width="100%"
 height="400px"
 style="padding: 15px; cursor: pointer;"
 onclick="window.open('https://ethica.bc.edu/#/graph')" />
+
 </div>
 
-### Don't freak out!
+### Don't panic!
 
-This is the map of how his book is structured.
-It's a [deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning), which is a method of reasoning from the general to the specific based on [logic](https://en.wikipedia.org/wiki/Logic).
-The way it works is that you set some definitions and axioms, and start concluding propositions and corollaries from them.
+This is the map of how his book is structured, it's based on [deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning), which is a method of reasoning from the general to the specific based on [logic](https://en.wikipedia.org/wiki/Logic). That's exactly what defining things and proving them in a logical way.
+The way it works is to set some definitions and axioms, and start concluding propositions and corollaries from them.
 
 #### Example of deductive reasoning
 
@@ -88,69 +89,27 @@ Now these are some statistics of his book:
 
 #### Key take away
 
-It's like 2 + 2 = 4, but in a very complex way!
+It's like a mathematical proof, you set up some definitions and axioms, and then you can conclude some propositions and corollaries from them. It's a way of proving things in a logical way.
 
 ### What does he say in his book?
 
-I'll try to summarize his book in different parts and restructure it in a way that makes sense to me and you, and I'll try to make it as simple as possible.
+In his book, he defined how to world works and proved it with deductive reasoning.
+He was trying to prove that everything in the universe is governed by a rational order, and that everything in nature, including human behavior, could be understood through logical analysis.
+He has wrote and proved:
+
+- How the universe works
+- How human behavior works
+- How emotions work
+- How thoughts work
+- How intuition works
+- How instinct works
+- What is nature
+
+Spinoza's world is a deterministic world, where everything is governed by a rational order. He believed that everything in nature, including human behavior, could be understood through logical analysis. He was looking at the world as 1 unified field where everything is related to each other.
+
+I'll try to summarize his book in different parts and restructure it in a way that makes sense to me and you. (because it's not easy to understand it at first glance)
+To understand what it means, you can start from [universe](<{{ site.baseurl }}/universe/>)
 To do that, we need to define some words and concepts that he used in his book, and then we can start to understand his ideas.
-
-## Attributes, Substance, and Modes
-
-One thing to mention, knowing what each of them is essential to understand the others.
-Because all of them are related to each other and they are the building blocks of his book.
-Basically, each concept is the dependency of the others in a many to many relation.
-Also, these words do not has the same meaning as we know in our daily life, they are defined by him in his book.
-That's what almost most of philosophers, abstracting concepts and making new meaning for them.
-
-## Attributes
-
-Attributes are the ways in which the human intellect perceives and understands the essence of substance. Each attribute reflects a different aspect of reality.
-There are 2 attributes that we (humans) can perceive and understand:
-
-- Extension (physical world)
-- Thought (mind)
-
-Because they have nothing in common with each other, and one entity from other can't be shared with other, they are independent from each other.
-You might imagine a physical entity in your mind, but you can't share the physical entity with your mind, and vice versa. Because the environment of each of them is different from the other.
-
-### Some definitions:
-
----
-
-> 1D4: By attribute, I understand that which the intellect perceives of substance as constituting its essence.
-
-- Intellect: what you understand as a human being.
-- Perceives: what you can see, hear, touch, taste, and smell.
-- Substance: the fundamental building block of the universe (we will get to this later).
-- Essence: the underlying nature of something. (the core of something) (also we will get to this later)
-
----
-
-> 1P2: Two substances having different attributes have nothing in common with one another.
-
-This is exactly the part that I mentioned above, they are independent from each other, an idea in your mind can't be shared with the physical world, and vice versa.
-
----
-
-### Substance
-
-Substance is the fundamental building block of the universe. It is the underlying essence of everything that exists. Substance is eternal, infinite, and unchanging. It is the source of all things and the cause of all effects. Substance is the ultimate reality that underlies all phenomena.
-
-What! yes I know
-Let's start again:
-So you know that the physical world made of matter, like molecules lets say.
-Substance is an abstraction of matter.
-You can call anything that exists in the universe a substance. Just like how you can call anything that exists in the physical world matter. One thing for sure you will hear it a lot in different contexts.
-
-### Some definitions:
-
-> By substance, I mean that which is in itself, and is conceived through itself: in other words, that of which a conception can be formed independently of any other conception.
-
-- What does conceived through itself mean? It means that it doesn't need anything else to exist, it exists by itself, it's the reason of its own existence.
-- What does a conception can be formed independently of any other conception mean? It means that you can think of it without needing to think of anything else. It's the fundamental building block of the universe.
-
-#### Essence of substance
 
 #### Resources:
 
