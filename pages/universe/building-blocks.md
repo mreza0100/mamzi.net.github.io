@@ -103,6 +103,48 @@ It's not possible to think of substance that is not part of the nature or being 
 
 When we say substance, there is no difference the chair and your physical body, they are both substance, they are both part of the nature, they are both part of God, but they change shape/form/state, but they are still part of the nature.
 
+# The Map of Reality
+
+So far we know Spinoza defined these building block elements:
+
+- Attributes
+- Substance
+- Mode
+
+Now we will use these building blocks to create a map of reality so we see how it looks like and fit together.
+
+<pre>
+                               ┌─────────────┐                          
+                               │  God/Nature │                          
+                               │             │                          
+                               │  Substance  │                          
+                       ┌───────┴─────────────┴───────┐                  
+                       │                             │                  
+┌──────────────────────┼─────────────────────────────┼─────────────────┐
+│ ┌───────────┐ ┌──────▼──────┐               ┌──────▼──────┐          │
+│ │ Other     │ │    Mind     │ Attributes    │  Extension  │          │
+│ │ Attributes│ │  Substance  │               │  Substance  │          │
+│ └───────────┘ └──────┬──────┘               └───────┬─────┘          │
+│                      │                              │                │
+└──────────────────────┼──────────────────────────────┼────────────────┘
+                       │                              │                 
+                   State/Mode                     State/Mode            
+                       │                              │                 
+                ┌──────▼──────┐               ┌───────▼─────┐           
+                │Consciousness│               │  Size       │           
+                │Idea         │               │  Shape      │           
+                │Emotions     │               │  Location   │           
+                │Intuition    │               │  Motion     │           
+                │Logic        │               │  Integration│           
+                │Sensation    │               │  Weight...  │           
+                └─────────────┘               └─────────────┘           
+                Idea != Substance                Substance 
+</pre>
+
+This map is a simplified version of the reality map, but it gives you a good idea of how the building blocks fit together.
+
+Let's not get into what are the rest of the infinite attributes of God/Nature, some criticize Spinoza for not defining them and say that he failed to prove his theory because of that, but later on I will show you another attribute of God/Nature that is not defined by Spinoza, nether existed in his time, but it's man made and it's called Computer!
+
 ## Conclusion
 
 We have 3 redefined words that are the building blocks of the universe:
@@ -110,9 +152,11 @@ We have 3 redefined words that are the building blocks of the universe:
 - Substance: the fundamental building block of the universe.
      - Most basic form of matter.
      - Everything that exists in the universe is a substance.
-     - Substance itself is part of the nature, and nature itself is a substance.
+     - Nature itself is a substance.
+     - So substance itself is part of the nature, and nature itself is a substance.
 - Attributes: the core nature of the substance.
      - The nature of mind is thought, which is a attribute of the substance mind.
+     - Attributes are infinite because God/Nature is infinite.
 - Modes: the state of the substance, in which exposes the attribute of the substance.
      - The state of the chair is a mode of the substance chair, which exposes the attribute of extension.
      - The state of your mind is an idea, which is a mode of the substance mind, which exposes the attribute of thought.

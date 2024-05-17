@@ -185,14 +185,14 @@ So we see that everything is connected, and everything has a cause, and everythi
 You might can say that you don't think 2 + 2 is 4, but that just makes it hard for you, as 2 + 2 is 4, and there is no other way that it could be.
 Accepting that the world is working like this, the future cannot be changed, and the past couldn't have been different, and the present is exactly as it should be, and there is no other way that it could have been is not a easy thing to accept, but it's the truth, and the truth is not always easy to accept.
 
-### Good sides of it
+Spinoza's philosophy has a deep peace in it, because it makes you accept the world as it is, and makes you accept that everything happens because of necessity, and there is no other way that it could have happened.
 
-Now that you know world works by necessity, it makes some things easier.
+A few things to consider:
 
-- No judgment on any event that happens, because it happens because of necessity.
-     - When you see a lion eating a deer, you don't judge the lion, because it eats the deer because of necessity.
+- No judgment on any event, things happen and people do things because of necessity. It's inevitable for them to do it, and there is no other way that it could have happened.
+     - When you see a lion eating a deer, you don't judge the lion, because it eats the deer. You know it's necessary for the lion to eat the deer, because it's the way nature works.
      - Why does lion ear deer because of necessity? because we accepted that this is the way nature works, but we have not accepted it for ourselves, we believe that we have free will, we can think, and we can avoid making mistakes, I will talk about this in the mind section under life later on.
-- No good or bad, because everything happens because of necessity.
+- No good or bad exist, everything happens because of necessity.
      - Good and bad are our perception of events, but in reality, everything happens because of necessity, nature does not understand good or bad, it nether judges, it just happens because it's necessary to happen.
 
 ### Next steps

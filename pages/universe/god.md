@@ -14,6 +14,10 @@ It's equal to Universe, which I explained here: [Universe](/universe/)
 
 ## Spinoza definition of God
 
+First of all, Spinoza's God is fairly famous, but it's not well understood.
+When they asked [Albert Einstein](https://nds-nl.wikipedia.org/wiki/Albert_Einstein) if he believed in God, he said: "I believe in Spinoza's God".
+Don't you want to know Einstein's God? I do!
+
 Spinoza was looking at God, as the nature itself.
 God to him, is the creator of everything.
 God is the cause of everything.
@@ -32,8 +36,8 @@ It's interesting, when you think about it, it seems like he knew about the Darwi
 
 For Spinoza, God was the nature itself.
 We are part of the Nature, so we are part of God.
-But, for Spinoza, you and door are the same things, because you are part of the nature, and the door is also part of the nature, so you and the door are part of the same thing, which he calls God.
-So don't think that you are God, but you are part of God, which is the nature itself.
+But, for Spinoza, you and the door are the same things, because you are part of the nature, and the door is also part of the nature, so you and the door are part of the same thing, which he calls God.
+So don't think that you are God, but you are part of God as much as the door is part of God.
 
 In many sentences in your day to day life, you can easily change the word "God" with "Nature" and it will still make sense.
 
@@ -90,8 +94,9 @@ It's impossible to think of something that is not part of the nature, so everyth
 > [1P25Corollary](https://ethica.bc.edu/#/element/1P25) Individual things are nothing but modifications of the attributes of God, or modes by which the attributes of God are expressed in a fixed and definite manner.
 
 Do you agree that you come from nature?
-Where have you been 100 years ago? you have been part of the nature somewhere.
+Where have you been 100 years ago? you have been part of the nature somewhere, somehow in some distributed form that you can't imagine (which is called modifications or mode).
 Where will you be 100 years later? you will be part of the nature, but in a different form, which he calls modifications.
+But before and after, we all been part of nature, just like the door.
 
 - Modifications or mode: We can think of it as the state of being. The state or mode of mind is idea, the state or mode in physical is substance which is part of the nature and it changes shape and form, but it's still part of the nature.
 - Fixed and definite manner: means that you are part of the nature, but in a specific way, which is unique to you, and all the other things in the nature also have their own unique way of being part of the nature.
@@ -148,6 +153,8 @@ It's impossible to think of nature that is not part of the nature. So a God who 
 Because everything that exist is part of the nature, then nothing outside nature can be conceived.
 Which makes sense, does your mind able to conceive something that is not part of the nature? I can't.
 Yes you can imagine star wars, but it's part of the nature, because it's in your mind, which is part of the nature.
+
+<!-- Further, this doctrine does away with the perfection of God: for, if God acts for an object, he necessarily desires something which he lacks. Certainly, theologians and metaphysicians draw a distinction between the object of want and the object of assimilation; still they confess that God made all things for the sake of himself, not for the sake of creation. They are unable to point to anything prior to creation, except God himself, as an object for which God should act, and are therefore driven to admit (as they clearly must), that God lacked those things for whose attainment he created means, and further that he desired them. -->
 
 ## Conclusion
 

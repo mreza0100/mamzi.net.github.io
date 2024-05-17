@@ -181,6 +181,22 @@ The very same goes for our day to day life, things happen only in one way, becau
 
 We have previously talked about the batter fly effect, and how small changes like 0.01kg can lead to a different affect. Now consider this sensitivity in the rest of the cause and affect in the nature and our own life.
 
+> [1P18](https://ethica.bc.edu/#/element/1P18): God is the indwelling and not the transient cause of all things.
+
+God is the cause of all things, and he is not a transient cause, he is the indwelling cause of all things.
+You can think of God/nature as the execution environment of the universe.
+
+<!--
+### Men look for meaning
+
+We must not omit to notice that the followers of this doctrine, anxious to display their talent in assigning final causes, have imported a new method of argument in proof of their theory—namely, a reduction, not to the impossible, but to ignorance; thus showing that they have no other method of exhibiting their doctrine. For example, if a stone falls from a roof on to someone's head, and kills him, they will demonstrate by their new method, that the stone fell in order to kill the man; for, if it had not by God's will fallen with that object, how could so many circumstances (and there are often many concurrent circumstances) have all happened together by chance? Perhaps you will answer that the event is due to the facts that the wind was blowing, and the man was walking that way. "But why," they will insist, "was the wind blowing, and why was the man at that very time walking that way?" If you again answer, that the wind had then sprung up because the sea had begun to be agitated the day before, the weather being previously calm, and that the man had been invited by a friend, they will again insist: "But why was the sea agitated, and why was the man invited at that time?" So they will pursue their questions from cause to cause, till at last you take refuge in the will of God—in other words, the sanctuary of ignorance. So, again, when they survey the frame of the human body, they are amazed; and being ignorant of the causes of so great a work of art, conclude that it has been fashioned, not mechanically, but by divine and supernatural skill, and has been so put together that one part shall not hurt another.
+
+Hence anyone who seeks for the true causes of miracles, and strives to understand natural phenomena as an intelligent being, and not to gaze at them like a fool, is set down and denounced as an impious heretic by those, whom the masses adore as the interpreters of nature and the gods. Such persons know that, with the removal of ignorance, the wonder which forms their only available means for proving and preserving their authority would vanish also. But I now quit this subject, and pass on to my third point.
+
+
+
+ -->
+
 ### Conclusion of causality and determinism
 
 Let's say you want to change any event in the history.

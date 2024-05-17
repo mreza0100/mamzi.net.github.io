@@ -46,6 +46,15 @@ He was trying to prove his ideas in a deduced way of [Euclid](https://en.wikiped
 
 <div style="text-align:center">
 
+<!-- <img
+src="{{ absolute_url }}/assets/friedman-spinoza-chart.jpg"
+alt="ethics-deductive-map"
+title="ethics-map"
+width="50%"
+height="600px"
+style="padding: 15px; cursor: pointer;"
+onclick="window.open('https://ethica.bc.edu/#/graph')" /> -->
+
 <img
 src="{{ absolute_url }}/assets/ethics-map.png"
 alt="ethics-deductive-map"
