@@ -4,9 +4,9 @@ title: Concerning God or Nature
 permalink: /universe/god/
 ---
 
-<!-- #### I do not try to convince you of anything, but you need to logily know what God means in this context to continue the rest of the blog.
+#### I do not try to convince you of anything, but you need to logily know what God means in this context to continue the rest of the blog.
 
-First we need a definition of what we are talking about.
+Spinoza defined all the words from the ground up, the word God, does not have the same meaning in English or the concept you might think of.
 
 ## Nature
 
@@ -18,7 +18,9 @@ Spinoza was looking at God, as the nature itself.
 God to him, is the creator of everything.
 God is the cause of everything.
 God is the essence of everything.
-God is the reason that cause and affect is possible and whats controlling it in the direction it goes.
+God is the reason that cause and affect
+God is what makes existence possible
+God is what sits between cause and affect and makes it possible
 
 - What is controlling your heart to beat?
      - It's a complex great number of cause and affect that makes it beat.
@@ -26,8 +28,12 @@ God is the reason that cause and affect is possible and whats controlling it in 
 
 It's interesting, when you think about it, it seems like he knew about the Darwinism theory before Darwin, but he was not talking about the evolution of species, he was talking about the evolution of everything, which we are part of it.
 
-## It's very hard to love God, and also it doesn't love you at all
-### In this context: God = Things
+### God = Nature = Universe = Reality = Everything = You
+
+For Spinoza, God was the nature itself.
+We are part of the Nature, so we are part of God.
+But, for Spinoza, you and door are the same things, because you are part of the nature, and the door is also part of the nature, so you and the door are part of the same thing, which he calls God.
+So don't think that you are God, but you are part of God, which is the nature itself.
 
 In many sentences in your day to day life, you can easily change the word "God" with "Nature" and it will still make sense.
 
@@ -46,13 +52,23 @@ In many sentences in your day to day life, you can easily change the word "God" 
 - When we die, we go back to God
      - When we die, we go back to Nature
 
+### Definition by Spinoza's logic
+
 > [1P6](https://ethica.bc.edu/#/element/1D6) By God, I mean a being absolutely infinite—that is, a substance consisting in infinite attributes, of which each expresses eternal and infinite essentiality.
 
-TODO: rewrite the explanation of this sentence
+- Being absolutely infinite: Not limited by anything, it's infinite.
+- Substance: It's the nature itself, which is the building block of everything.
+- Attributes: It's the characteristics of the substance, which is the nature itself.
+- Eternal and infinite essentiality: Refers to essence of nature, its self cause, it's essential for it be eternal and infinite. It's infinity essential to be eternal and infinite.
 
-But in the context of this: he's talking about the nature itself, which is the cause of everything, and the essence of everything.
+By God, Spinoza means a absolutely infinite and not limited by anything. A substance being with infinite attributes each expose eternal essentiality (It's infinity essential to exist eternally).
+God is the underlying reality of everything, nothing can conceive without God, because everything is part of God.
 
 Attribute and substance do not has the same meaning as you think, if you are curious about it, you can read more about it here: [Building blocks of our universe](/universe/building-blocks/)
+
+> [1P14](https://ethica.bc.edu/#/element/1P14) Except God, no substance can be or be conceived.
+
+If you change the word "substance" with "Nature" and "conceived" with "imagined", it will make more sense.
 
 Continuing with the definition of God:
 
@@ -89,26 +105,23 @@ Most of the times, god has a human form, with perfect human characteristics like
 - Being able to see
 - Being able to hear
 - Being able to think
-- Being able to create
-- Being able to destroy
-- Being able to love
-- Being able to hate
 - Being able to judge
 - Being able to make decisions
 - Being able to be merciful
 - Being able to know everything
+- Being able to manipulate the nature
 - Being able to be feel angry, happy, sad and all the other human emotions
 
-Unlike what they say, it's doesn't seams that God is a separate entity from nature, but it's one of us, it's the best of us with infinite power. Meanwhile it's somewhere that we can't see it because it's not part of the nature, but it's the creator of the nature.
+Unlike what they say, it doesn't seams that God is a separate entity from nature, but it's one of us, it's the best of us with infinite power. Meanwhile it's somewhere that we can't see it because it's not part of the nature, but it's the creator of the nature.
 
 #### God is also INTJ!
 
 The definition of God in other religions has always been mostly in a **super human** form, which is interesting.
 He is just like us, but with super powers.
 
-#### How would the god of sharks look like?
+#### How would the god of sharks look like for them?
 
-Think about it, if sharks had a religion, how would their god look like?
+If sharks had a religion, how would their god look like?
 They have some sort of specific abilities that we don't have.
 They God of sharks might be the fastest swimmer, with the best sense of smell, and the best hunter, and the best survivor, and the best reproducer, and the best of all the other things that sharks are good at.
 But our God doesn't have any of these abilities, because it's not a shark, it's a human.
@@ -118,8 +131,7 @@ It's abstraction of us, but with infinite power.
 
 > [1P2](https://ethica.bc.edu/#/element/1P2): "Two substances having different attributes have nothing in common with one another."
 
-- Replace the word "substance" with "Nature" and it will make more sense.
-- Replace the word "attributes" with "characteristics" and it will make more sense.
+- Replace the word "substance" with "Nature" and "attributes" with "characteristics" and it will make more sense.
 
 **Two natures having different characteristics have nothing in common with each other.**
 
@@ -139,9 +151,12 @@ Yes you can imagine star wars, but it's part of the nature, because it's in your
 
 ## Conclusion
 
-Our conclusion is the difference of [anthropomorphic](https://en.wikipedia.org/wiki/Anthropomorphism) and Deus sive Natura (God or Nature) perspective of God.
+Spinoza's God is the nature itself, and everything in the nature is part of the nature, which is part of God.
+Deus sive Natura, God or Nature, is the same thing for Spinoza.
+You and the door are part of the same thing with different modes, which he calls God.
+Spinoza's god is different from [anthropomorphic](https://en.wikipedia.org/wiki/Anthropomorphism) gods, which are in a human form with super powers.
 
-### What's the same with Spinoza's God?
+#### What's the same with Spinoza's God?
 
 - God is the creator of everything
 - God is the cause of everything
@@ -149,9 +164,10 @@ Our conclusion is the difference of [anthropomorphic](https://en.wikipedia.org/w
 - God is the reason of existence
 - God is self caused and no one created it
 - When we die, we go back to God
-- Almost everything else you have in mind about God, is the same with Spinoza's God, but with a different perspective.
 
-### What's different with Spinoza's God?
+Almost everything else you have in mind about God, is the same with Spinoza's God, but with a different perspective.
+
+#### What's different with Spinoza's God?
 
 - God is **not** a separate entity from the nature, it's the nature itself.
 - God is **not** a intelligent agent, it's the cause of everything.
@@ -160,4 +176,4 @@ Our conclusion is the difference of [anthropomorphic](https://en.wikipedia.org/w
 
 [Spinoza’s Ethics - Irfan Ajvazi](https://philarchive.org/archive/AJVSE)
 
-[Spinoza's Ethics - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/spinoza/#GodNatu) -->
+[Spinoza's Ethics - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/spinoza/#GodNatu)
