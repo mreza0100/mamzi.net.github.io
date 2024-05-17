@@ -4,8 +4,6 @@ title: Mamzi's Blog! - The Ultimate Question of Life, the Universe, and Everythi
 permalink: /
 ---
 
-# **Mamzi's Blog!** - The Ultimate Question of Life, the Universe, and Everything
-
 Unlike what you might think, the answer to life, the universe, and everything is not 42. It's actually 43 :D
 In the story of the [Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy), the answer to the ultimate question of life, the universe, and everything is 42, calculated by a so called supercomputer named Deep Thought. Deep thought, thought deeply for 7.5 million years and came up with the answer 42!
 
@@ -56,9 +54,8 @@ Is there free will if the Earth is a computer?
 
 - It states that the Universe is the same size as the mind of the person who is thinking about it, so it fits in the mind of the person who is thinking about it!
 
-The question was vague and not clear.
-Because the answer of it all together from what we know, doesn't make sense, and it's not clear what the answer should be.
-Because we never defined how life and universe actually works
+The question is so big that all the other questions in the world fall under it!
+
 The very first thing is to define these things:
 
 - Matter
@@ -79,7 +76,7 @@ The very first thing is to define these things:
 - Morality
 - Ethics and everything
   But if we want to actually write down all of it in a way that it makes logically sense to everyone, we need to define everything from the ground up.
-  What I'm talking about is a logically proof of life universe and how it works in a way that it makes sense to everything for everyone in a way that it's not personal, but it's logical.
+  What I'm talking about is a logically proof of life universe and how it works in a way that it makes sense to everything for everyone. **It's not personal, but it's logical.**
 
 <div style="text-align:center">
 
