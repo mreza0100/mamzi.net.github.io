@@ -40,11 +40,17 @@ Arthur a normal english person and a girl who he liked survived the destruction 
 I consider Douglas Adams very clever with his ideas, and I think he was a genius in his own way.
 He touches on fundamental sensitive topics in a way that it's not personal, but it's funny and interesting.
 
-So the Earth was made by people in hyperspace to find the answer! as a computer with living beings in it.
+So the Earth was made by people in hyperspace to find the answer as it grow from the most basic form of life to the most complex form of life, in a deterministic way, because only then it's possible to form life!?
+
+### Does it bell a ring for you?
+
+- **Is our world deterministic?**
+- **Is our world working like a computer?**
+- **Is there randomness in our world?**
+- **Does that mean you are part of the computer, so everything we do is kinda programmed?**
 
 But how can you logically prove that Earth is not a computer?
-Is there randomness in our world?
-Is there free will if the Earth is a computer?
+How can you model the universe and life and start proving how things work?
 
 #### The story doesn't make sense
 
@@ -104,9 +110,10 @@ style="padding: 15px; "
      - [Building blocks](<{{ site.baseurl }}/universe/building-blocks/>)
      - [Concerning God or Nature](<{{ site.baseurl }}/universe/god/>)
      - [Causality](<{{ site.baseurl }}/universe/causality/>)
+     - [Miracles](<{{ site.baseurl }}/universe/miracles/>)
 - Life
 - Everything
-     - [Ethics and Spinoza](<{{ site.baseurl }}/everything/spinoza-and-ethics>)
+     - [Spinoza and Ethics](<{{ site.baseurl }}/everything/spinoza-and-ethics>)
 
 ### Be my feedback loop
 

@@ -6,9 +6,13 @@ permalink: /universe/building-blocks/
 
 ## Building blocks of God or Nature or Universe
 
-Spinoza redefined everything for himself from the ground up.
-He made abstractions of everything to make a system to explain how everything works.
-He defined the building blocks of the universe as substance, attributes, and modes.
+It's important to understand what he was trying to do first.
+
+He was trying to model the world in a way that it make sense with logic.
+To do that you have to define everything from the ground up and make abstract model of things.
+Only then you can start to play with the model and make propositions and corollaries from them.
+
+The way to do it is to start from the most general forms of things, and then set propositions to the most specific forms of things.
 
 ## Attributes, Substance, and Modes
 
@@ -30,7 +34,7 @@ Some examples of substance:
 - Chair
 - Your physical body
 - Mind (because it's in the nature(physical world)) (we will get to this later in the life section)
-- Nature itself
+- Nature or God itself
 
 > [1P6](https://ethica.bc.edu/#/element/1P7) By God(Nature), I mean a being absolutely infinite—that is, a substance consisting in infinite attributes, of which each expresses eternal and infinite essentiality.
 
@@ -88,7 +92,7 @@ Think of mode as the state of substance, in which exposes the attribute of the s
 #### Mode of extension:
 
 Chair for example:
-Chair is the state of infinite substances that that shaped in a way that we can sit on it.
+Chair is the state of infinite substances that shaped in a way that we can sit on it.
 Chair is a mode/state of substance, which is exposing the attribute of extension.
 
 #### Mode of mind:
@@ -101,7 +105,7 @@ Substance is one unified field (aka nature), every substance is a part of the na
 
 It's not possible to think of substance that is not part of the nature or being the nature, so everything is part of God.
 
-When we say substance, there is no difference the chair and your physical body, they are both substance, they are both part of the nature, they are both part of God, but they change shape/form/state, but they are still part of the nature.
+When we say substance, there is no difference than the chair and your physical body, they are both substance, they are both part of the nature, they are both part of God, but they change shape/form/state, but yet still part of the nature.
 
 # The Map of Reality
 
@@ -113,37 +117,21 @@ So far we know Spinoza defined these building block elements:
 
 Now we will use these building blocks to create a map of reality so we see how it looks like and fit together.
 
-<pre>
-                               ┌─────────────┐                          
-                               │  God/Nature │                          
-                               │             │                          
-                               │  Substance  │                          
-                       ┌───────┴─────────────┴───────┐                  
-                       │                             │                  
-┌──────────────────────┼─────────────────────────────┼─────────────────┐
-│ ┌───────────┐ ┌──────▼──────┐               ┌──────▼──────┐          │
-│ │ Other     │ │    Mind     │ Attributes    │  Extension  │          │
-│ │ Attributes│ │  Substance  │               │  Substance  │          │
-│ └───────────┘ └──────┬──────┘               └───────┬─────┘          │
-│                      │                              │                │
-└──────────────────────┼──────────────────────────────┼────────────────┘
-                       │                              │                 
-                   State/Mode                     State/Mode            
-                       │                              │                 
-                ┌──────▼──────┐               ┌───────▼─────┐           
-                │Consciousness│               │  Size       │           
-                │Idea         │               │  Shape      │           
-                │Emotions     │               │  Location   │           
-                │Intuition    │               │  Motion     │           
-                │Logic        │               │  Integration│           
-                │Sensation    │               │  Weight...  │           
-                └─────────────┘               └─────────────┘           
-                Idea != Substance                Substance 
-</pre>
+<div style="text-align:center">
+<img
+src="{{ absolute_url }}/assets/map-of-reality.png"
+alt="spinoza-ethics-map-of-reality"
+title="spinoza-ethics-map-of-reality"
+width="auto"
+height="600px"
+style="padding: 15px; "
+/>
+</div>
+<!-- https://miro.com/app/board/uXjVKGMIl44=/ -->
 
 This map is a simplified version of the reality map, but it gives you a good idea of how the building blocks fit together.
 
-Let's not get into what are the rest of the infinite attributes of God/Nature, some criticize Spinoza for not defining them and say that he failed to prove his theory because of that, but later on I will show you another attribute of God/Nature that is not defined by Spinoza, nether existed in his time, but it's man made and it's called Computer!
+Let's not get into what are the rest of the infinite attributes of God/Nature, some criticize Spinoza for not defining them and say that he failed to prove his theory because of that, but later on I will talk about another attribute of God/Nature that is not defined by Spinoza, nether existed in his time, but it's man made and it's called Computer!
 
 ## Conclusion
 

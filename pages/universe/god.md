@@ -4,7 +4,7 @@ title: Concerning God or Nature
 permalink: /universe/god/
 ---
 
-#### I do not try to convince you of anything, but you need to logily know what God means in this context to continue the rest of the blog.
+#### I do not try to convince you of anything, but you need to logily know what God means in this context to continue the rest of the blog. **Nothing here is personal, but everything is logical.**
 
 Spinoza defined all the words from the ground up, the word God, does not have the same meaning in English or the concept you might think of.
 
@@ -32,12 +32,18 @@ God is what sits between cause and affect and makes it possible
 
 It's interesting, when you think about it, it seems like he knew about the Darwinism theory before Darwin, but he was not talking about the evolution of species, he was talking about the evolution of everything, which we are part of it.
 
-### God = Nature = Universe = Reality = Everything = You
+### God = Nature = Universe = Reality = Everything = Door = You
 
 For Spinoza, God was the nature itself.
 We are part of the Nature, so we are part of God.
-But, for Spinoza, you and the door are the same things, because you are part of the nature, and the door is also part of the nature, so you and the door are part of the same thing, which he calls God.
+But, for Spinoza, you and the door are both substance, because you are part of the nature, and the door is also part of the nature, so you and the door are part of the same thing, which he calls God.
 So don't think that you are God, but you are part of God as much as the door is part of God.
+
+### Difference between You, the door, and the God
+
+There is no difference at all, each are substance with different modes.
+The first 2 are part of the nature, and the last one is the nature itself.
+I say door because I seen people who think all of us are God by Spinoza's definition, but it's not the case, we are part of the nature as much as everything else as one united field, which he calls God.
 
 In many sentences in your day to day life, you can easily change the word "God" with "Nature" and it will still make sense.
 
@@ -159,7 +165,7 @@ Yes you can imagine star wars, but it's part of the nature, because it's in your
 ## Conclusion
 
 Spinoza's God is the nature itself, and everything in the nature is part of the nature, which is part of God.
-Deus sive Natura, God or Nature, is the same thing for Spinoza.
+"Deus sive Natura", God or Nature, is the same thing for Spinoza.
 You and the door are part of the same thing with different modes, which he calls God.
 Spinoza's god is different from [anthropomorphic](https://en.wikipedia.org/wiki/Anthropomorphism) gods, which are in a human form with super powers.
 

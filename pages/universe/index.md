@@ -61,7 +61,7 @@ Consider any event that happened:
 The event has a cause or a set of causes.
 The event, which has shaped from cause to affect, will be the cause of the next affect or set of affects.
 
-### No pain, no gain. No cause, no effect.
+### Nothing can't come from nothing
 
 If all the causes happen, then the effect necessarily follows, and if the cause doesn't happen, then the effect can't happen.
 
@@ -88,7 +88,8 @@ Basically, there is no randomness in the universe, everything has a cause, and e
 Pseudo random is a random with a logic behind it, it's not truly random, but it's random enough for us to not be able to predict it.
 Like dice, we can't predict the outcome of the dice, but if we know all the necessary variables, we can predict it.
 This is what people mismatch with randomness, they think that it's random, but it's not, it's just that we don't know all the necessary variables to predict it.
-Everything else that we don't know, we call it random, but it's not.
+Things are pseudo random, till we don't know the reason behind it, only the logic is too complicated for us to understand.
+What you might consider as random/pseudo random is reflecting the systematic chaos of the nature that we can't predict.
 
 ### The lines of cause and affect to infinity
 
@@ -103,9 +104,13 @@ We notice that when a cause happens, affect necessarily follows, and then the af
 
 Consider the event of discovering the continent of America by Columbus:
 
+### Chain of Events Leading to the Discovery of America
+
 1. **Discovery of America**:
+
       - **Why did he discover America?**
            - Because he was searching for a new route to India.
+
 2. **Searching for a New Route to India**:
 
       - **Why did he want to find a new route to India?**
@@ -152,26 +157,33 @@ Consider the event of discovering the continent of America by Columbus:
            - Because all living things have an intrinsic drive to be more and exist more.
 
 11. **Drive to Be More and Exist More**:
+
       - **Why is it the way of all living things?**
            - Because the struggle for existence and improvement is a fundamental characteristic of life.
-           - Read more about life struggle for existence and perfection under life if I wrote about it yet.
+           - Read more about the struggle for existence and perfection under "Life" if I wrote about it yet.
+
+12. **Big Bang (The Beginning of Time and Space)**:
+      - **Why did the Big Bang happen?**
+           - Because of the necessary causes that made it happen.
 
 So we can see the chain of cause and affect, now let's change it.
-To change this process of causes and affects that lead for Columbus to discover America, we need to change one of the causes in the chain, and the effect will change.
+To change this process of causes and affects of this event, we need to change one of the causes in the chain, and the effect will change.
 But it's not that simple, because every cause that leads to affect, has causes that made it happen, and so on.
-So to change any cause that happens in the universe, we need to go back the beginning of the universe and change the first cause that made the universe happen, and then the effect will change.
+So to change any cause that happens in the universe, we need to go back to Big bang and change the first cause that made the universe happen with the rules we want, and then the effect will change.
 So we see that everything is connected, and everything has a cause, and everything has an effect.
 
 ## Conclusion
 
-- What ever happens, happens because of necessary causes.
+- What ever happens, happens because of necessity.
 - The future of universe is determined by the past and current state of the universe.
 - What happens at each moment is like a mathematical equation with billions of variables that we can't predict, but if we know all the necessary variables, we can predict it.
-- What ever happened before, has happened exactly as it should, and what ever will happen in the future, will happen exactly as it should.
-- What makes causality happen is the laws of nature, like laws of physics and chemistry, more specifically the laws of the divine nature.
+- What ever happened before, has happened exactly as it should and the same every time, and what ever will happen in the future, will happen exactly as it should and exactly as it happened before.
+- What makes causality happen is the laws of nature, like laws of physics and chemistry, more specifically the laws of the divine Nature.
 - There doesn't a similar reality when Doulas Adams haven't wrote the book, because the necessary causes that made him write the book, made him write it, and there is no other way that it could have happened.
 - There is no randomness in the universe, everything has a cause, and all causes has an effect.
 - Similar realities doesn't exist when you have done something else, because the necessary causes that made you do it, made you do it, and there is no other way that it could have happened.
+- There is no similar reality when anything happens any how except the way that it happens.
+- Future has been predetermined, there is no other way that it can change, everything that will happen.
 
 ### Shocking conclusion!
 
@@ -185,11 +197,13 @@ So we see that everything is connected, and everything has a cause, and everythi
 You might can say that you don't think 2 + 2 is 4, but that just makes it hard for you, as 2 + 2 is 4, and there is no other way that it could be.
 Accepting that the world is working like this, the future cannot be changed, and the past couldn't have been different, and the present is exactly as it should be, and there is no other way that it could have been is not a easy thing to accept, but it's the truth, and the truth is not always easy to accept.
 
+### Don't panic!
+
 Spinoza's philosophy has a deep peace in it, because it makes you accept the world as it is, and makes you accept that everything happens because of necessity, and there is no other way that it could have happened.
 
 A few things to consider:
 
-- No judgment on any event, things happen and people do things because of necessity. It's inevitable for them to do it, and there is no other way that it could have happened.
+- No judgment on any event, things happen and people do things because of necessity. It's inevitable for them not to do things exactly as they do, and there is no other way that it could have happened.
      - When you see a lion eating a deer, you don't judge the lion, because it eats the deer. You know it's necessary for the lion to eat the deer, because it's the way nature works.
      - Why does lion ear deer because of necessity? because we accepted that this is the way nature works, but we have not accepted it for ourselves, we believe that we have free will, we can think, and we can avoid making mistakes, I will talk about this in the mind section under life later on.
 - No good or bad exist, everything happens because of necessity.

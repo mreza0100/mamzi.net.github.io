@@ -100,25 +100,51 @@ Now these are some statistics of his book:
 
 It's like a mathematical proof, you set up some definitions and axioms, and then you can conclude some propositions and corollaries from them. It's a way of proving things in a logical way.
 
+### How can I validate a proposition logically?
+
+Counterexample: A counterexample is an example that disproves a proposition.
+
+What you need to do is to make an example of a situation that the proposition does not hold, and then you can say that the proposition is not valid.
+
+For example the proposition:
+
+- Proposition: All humans are immortal.
+
+     - Counterexample: John is a human and he died, therefore the proposition is not valid.
+
+- Proposition: All swans are white.
+
+     - Counterexample: A black swan, therefore the proposition is not valid.
+
+Even finding one counterexample is enough to disprove a proposition, good luck finding one in Spinoza's book!
+I thing that is visible in Ethics is that he keeps everything into the context or reality and reason. He doesn't make any proposition that is not valid in the context of the world he fundamentally defined and we tight it up with the reality.
+
 ### What does he say in his book?
 
-In his book, he defined how to world works and proved it with deductive reasoning.
-He was trying to prove that everything in the universe is governed by a rational order, and that everything in nature, including human behavior, could be understood through logical analysis.
-He has wrote and proved:
+In the book he fundamentally abstracts the world by most general properties and then he starts to make propositions and logical proves of how things work in the world by specific. The Spinoza's world is working by a rational order of causality, where everything is related to each other and everything is a unified field of nature.
+He also defines the nature of human behavior, emotions, thoughts, intuition, instinct and basically everything that fits into the life, the universe and everything.
 
-- How the universe works
-- How human behavior works
-- How emotions work
-- How thoughts work
-- How intuition works
-- How instinct works
-- What is nature
+His book is a logical combination of:
 
-Spinoza's world is a deterministic world, where everything is governed by a rational order. He believed that everything in nature, including human behavior, could be understood through logical analysis. He was looking at the world as 1 unified field where everything is related to each other.
+- Reality philosophy - The study of reality
+- Mind philosophy
+- Epistemology - The study of knowledge
+- Moral philosophy
+- Metaphysics - The study of reality
 
-I'll try to summarize his book in different parts and restructure it in a way that makes sense to me and you. (because it's not easy to understand it at first glance)
-To understand what it means, you can start from [universe](<{{ site.baseurl }}/universe/>)
-To do that, we need to define some words and concepts that he used in his book, and then we can start to understand his ideas.
+I'll try to summarize his book in the restructure of life and universe in the next posts.
+
+### Is this a religion?
+
+It depends what you call a religion.
+
+Spinoza's book is a religion in a way that it defines the world and how it works, and it's based on logic and reason.
+
+It does not based on any supernatural agent, rather it's based on nature and reality.
+It's god does not have a personality, rather it's a nature itself.
+It's god doesn't have a will, rather it's a deterministic system.
+It doesn't have a heaven or hell, rather it's a world that we live in.
+When we die, we go back to nature, which we are part of it.
 
 #### Resources:
 

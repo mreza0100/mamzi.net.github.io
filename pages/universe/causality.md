@@ -16,15 +16,15 @@ As we said, causality can happen in two ways:
 - An effect can lead to a cause
      - It works as a recursive loop, where the effect of the cause becomes the cause of the effect and it goes to infinity.
 
-We learned that things happen because of complex infinite loops of causes and effects, and that everything is connected to everything else.
+We learned that things happen as complex loops of cause and affect in a chaotic system and things happen because of necessity.
 
-### But before I get to the things, let's talk about chaos theory and butterfly effect phenomena
+### Let's talk about chaos theory and butterfly effect phenomena
 
 The butterfly effect is a concept that says that a small change in one place can have a big effect in another place!
 
 The butterfly effect was discovered by Edward Lorenz, a meteorologist, and mathematician, in the 1960s.
 
-He discovered that a small change in the initial conditions of a system can lead to a big change in the final outcome of the system while he was working on a numerical weather forecasting model.
+He discovered that a small change in the initial conditions of a system can lead to a big change in the final outcome of the system while he was working on a numerical input base weather forecasting model.
 
 #### How it works?
 
@@ -35,6 +35,9 @@ He wrote a paper called "Deterministic Nonperiodic Flow" in 1963, where he intro
 
 The initial condition is so sensitive that a butterfly flapping its wings in Brazil can cause a tornado in Texas!
 Weather is a form of **deterministic chaotic system**, which means that it is predictable in the short term but not in the long term.
+
+Just like how if you take another path to work for a day, it might lead to a different outcome in your day or life.
+You see it happening everyday without noticing it.
 
 ## Causality fundamentals
 
@@ -51,6 +54,10 @@ In our everyday life, we can see how a small change in our actions can lead to b
 He says that everything that is finite and has a conditioned existence cannot exist or act unless it is conditioned by a cause other than itself, which is also finite and has a conditioned existence. And this cause cannot exist or act unless it is conditioned by another cause, and so on to infinity.
 
 In the context of dominos, the domino cannot fall unless it is pushed by another domino, and that domino cannot fall unless it is pushed by another domino, and so on to infinity.
+
+Many people might think, so now that things exactly happen in the way they do, does these lines of cause and affect taking us to a specific goal or destination? no, it just goes to infinity and there is no meaning in it.
+
+<!-- TODO add meaning page link -->
 
 ### Relationships between causes and effects and casualty levels in perfect time
 
@@ -119,13 +126,20 @@ Consider Columbus discovering America, the cause is Columbus sailing to America,
 Now can you say what are the higher levels of discovering America?
 So cause and affect are not only the reason, but also the underlying reasons that lead to the final effect.
 
-Because time is infinity perfect, the causes and affect between a cause and effect are infinite, they happen at each moment.
+Because time is infinity perfect, the causes and affect between a cause and effect are infinite, they happen at each moment between a cause and the effect of it.
 For now consider moment as the smallest unit of time, but briefly what I mean here:
 
 Because there are infinite moments in a second, time is infinity perfect.
 I will talk more about this `perfect time and casualty` later on, the concept of `infinite perfection` deserves to have its own post.
 
 <!-- ### The interfaces and cross attribute causality
+
+Proposition 2P7
+"The order and connection of ideas is the same as the order and connection of things."
+
+Explanation: This means that the structure and sequence of mental events (ideas) mirror the structure and sequence of physical events (bodies). Each mode of thought (idea) corresponds to a mode of extension (physical state).
+
+Cross attribute happens through mode/state/interface.
 
 Attributes conceive through each other.
 You understand the world through your mind, which is connected to the sensorial and body interfaces.
@@ -137,11 +151,7 @@ Conceive through interfaces are different with conceive through nature.
 You understand the world around you by sensing and processing it, so therefor you conceive through nature.
 But also, mind is conceived through nature, mind, as a substance, is part of nature, and it's conceived through nature.
 
-> [1A2](https://ethica.bc.edu/#/element/1A2): That which cannot be conceived through anything else must be conceived through itself.
 
-- Nature cannot be conceived through anything else, so it must be conceived through itself.
-- Mind can be conceived through nature, so it must be conceived through nature.
-     - But mind conceives nature, -->
 
 <!-- ### Hume perspective on causality
 
