@@ -6,7 +6,7 @@ permalink: /everything/spinoza-and-ethics/
 
 <div style="text-align:center">
 <img
-src="{{ absolute_url }}/assets/spinoza.jpeg"
+src="{{ absolute_url }}/assets/spinoza.jpg"
 alt="matrix"
 title="choice"
 width="100%"
@@ -45,15 +45,6 @@ He was trying to prove his ideas in a deduced way of [Euclid](https://en.wikiped
 ### Just so you get how it looks like:
 
 <div style="text-align:center">
-
-<!-- <img
-src="{{ absolute_url }}/assets/friedman-spinoza-chart.jpg"
-alt="ethics-deductive-map"
-title="ethics-map"
-width="50%"
-height="600px"
-style="padding: 15px; cursor: pointer;"
-onclick="window.open('https://ethica.bc.edu/#/graph')" /> -->
 
 <img
 src="{{ absolute_url }}/assets/ethics-map.png"
@@ -100,7 +91,7 @@ Now these are some statistics of his book:
 
 It's like a mathematical proof, you set up some definitions and axioms, and then you can conclude some propositions and corollaries from them. It's a way of proving things in a logical way.
 
-### How can I validate a proposition logically?
+### How can I invalidate a proposition?
 
 Counterexample: A counterexample is an example that disproves a proposition.
 
@@ -116,8 +107,8 @@ For example the proposition:
 
      - Counterexample: A black swan, therefore the proposition is not valid.
 
-Even finding one counterexample is enough to disprove a proposition, good luck finding one in Spinoza's book!
-I thing that is visible in Ethics is that he keeps everything into the context or reality and reason. He doesn't make any proposition that is not valid in the context of the world he fundamentally defined and we tight it up with the reality.
+Even finding one counterexample is enough to disprove a proposition. Good luck finding one in Spinoza's book!
+I think what is visible in Ethics is that he keeps everything within the context of reality and reason. He doesn't make any proposition that is not valid in the context of the world he fundamentally defined, and he ties it up with reality.
 
 ### What does he say in his book?
 
@@ -134,17 +125,26 @@ His book is a logical combination of:
 
 I'll try to summarize his book in the restructure of life and universe in the next posts.
 
-### Is this a religion?
+### This is not necessarily a religion
 
-It depends what you call a religion.
+I have seen people call it Spinoza religion[(and there is a book for it)](https://press.princeton.edu/books/hardcover/9780691176598/spinozas-religion), but from what I can say of book, it's not a religion, he was not trying to make a religion, he was trying to make a logical proof of how reality works.
 
-Spinoza's book is a religion in a way that it defines the world and how it works, and it's based on logic and reason.
+Some properties of a religion:
 
-It does not based on any supernatural agent, rather it's based on nature and reality.
-It's god does not have a personality, rather it's a nature itself.
-It's god doesn't have a will, rather it's a deterministic system.
-It doesn't have a heaven or hell, rather it's a world that we live in.
-When we die, we go back to nature, which we are part of it.
+- It's based on faith
+     - Spinoza's book is based on logic
+- It's based on a deity
+     - Spinoza's book is based on nature
+- It's based on a holy book
+     - Spinoza was a man, just like you and me
+- It brings people together
+     - He doesn't care about people, he cares about reality
+- It has practices
+     - He doesn't have any practices except thinking and understanding
+- It has heaven and hell
+     - He doesn't have any heaven or hell, he talks about reality
+
+But if you define religion as a way of living and set of rules to follow, then yes, it's a religion, and the rules are the rules of nature and reality.
 
 #### Resources:
 

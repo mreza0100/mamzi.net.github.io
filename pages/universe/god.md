@@ -39,11 +39,14 @@ We are part of the Nature, so we are part of God.
 But, for Spinoza, you and the door are both substance, because you are part of the nature, and the door is also part of the nature, so you and the door are part of the same thing, which he calls God.
 So don't think that you are God, but you are part of God as much as the door is part of God.
 
+> [2P10] (https://ethica.bc.edu/#/element/2P10) The being of substance does not appertain to the essence of man—in other words, substance does not constitute the actual being of man.
+
 ### Difference between You, the door, and the God
 
 There is no difference at all, each are substance with different modes.
 The first 2 are part of the nature, and the last one is the nature itself.
 I say door because I seen people who think all of us are God by Spinoza's definition, but it's not the case, we are part of the nature as much as everything else as one united field, which he calls God.
+I do not have an opinion that if Spinoza's point was to make us feel like we are God, he is just trying to show how the same rules apply to everything in the nature, and we are part of it.
 
 In many sentences in your day to day life, you can easily change the word "God" with "Nature" and it will still make sense.
 
@@ -125,11 +128,6 @@ Most of the times, god has a human form, with perfect human characteristics like
 
 Unlike what they say, it doesn't seams that God is a separate entity from nature, but it's one of us, it's the best of us with infinite power. Meanwhile it's somewhere that we can't see it because it's not part of the nature, but it's the creator of the nature.
 
-#### God is also INTJ!
-
-The definition of God in other religions has always been mostly in a **super human** form, which is interesting.
-He is just like us, but with super powers.
-
 #### How would the god of sharks look like for them?
 
 If sharks had a religion, how would their god look like?
@@ -160,7 +158,7 @@ Because everything that exist is part of the nature, then nothing outside nature
 Which makes sense, does your mind able to conceive something that is not part of the nature? I can't.
 Yes you can imagine star wars, but it's part of the nature, because it's in your mind, which is part of the nature.
 
-<!-- Further, this doctrine does away with the perfection of God: for, if God acts for an object, he necessarily desires something which he lacks. Certainly, theologians and metaphysicians draw a distinction between the object of want and the object of assimilation; still they confess that God made all things for the sake of himself, not for the sake of creation. They are unable to point to anything prior to creation, except God himself, as an object for which God should act, and are therefore driven to admit (as they clearly must), that God lacked those things for whose attainment he created means, and further that he desired them. -->
+<!-- > [1APPENDIX] Further, this doctrine does away with the perfection of God: for, if God acts for an object, he necessarily desires something which he lacks. Certainly, theologians and metaphysicians draw a distinction between the object of want and the object of assimilation; still they confess that God made all things for the sake of himself, not for the sake of creation. They are unable to point to anything prior to creation, except God himself, as an object for which God should act, and are therefore driven to admit (as they clearly must), that God lacked those things for whose attainment he created means, and further that he desired them. -->
 
 ## Conclusion
 

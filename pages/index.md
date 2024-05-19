@@ -9,7 +9,7 @@ In the story of the [Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/
 
 <div style="text-align:center">
 <img
-src="{{ absolute_url }}/assets/hermes.png"
+src="{{ absolute_url }}/assets/42.png"
 alt="matrix"
 title="hermes"
 width="auto"
@@ -81,27 +81,13 @@ The very first thing is to define these things:
 - Evil
 - Morality
 - Ethics and everything
-  But if we want to actually write down all of it in a way that it makes logically sense to everyone, we need to define everything from the ground up.
-  What I'm talking about is a logically proof of life universe and how it works in a way that it makes sense to everything for everyone. **It's not personal, but it's logical.**
+
+But if we want to actually write down all of it in a way that it makes logically sense to everyone, we need to define everything from the ground up.
+What I'm talking about is a logically proof of life universe and how it works in a way that it makes sense to everything for everyone.
+
+**It's not personal, but it's logical.**
 
 <div style="text-align:center">
-
-### How to approach the ultimate question of life, the universe, and everything?
-
-#### Spinoza was one of the thinkers who tried to answer this question
-
-Shortly, Spinoza was a Dutch philosopher living around 1632 till 1677. He was a rationalist philosopher who laid the groundwork for the 18th-century Enlightenment and modern biblical criticism. He was considered one of the great rationalists of 17th-century philosophy.
-To learn more about Spinoza and his ideas, you can visit this page:
-[Spinoza and Ethics]({{ site.baseurl }}/everything/spinoza-and-ethics/)
-
-<img
-src="{{ absolute_url }}/assets/baruch-spinoza-role-of-ethics.jpg"
-alt="matrix"
-title="spinoza-ethics"
-width="auto"
-height="350px"
-style="padding: 15px; "
-/>
 
 </div>
 # Index
@@ -111,7 +97,14 @@ style="padding: 15px; "
      - [Concerning God or Nature](<{{ site.baseurl }}/universe/god/>)
      - [Causality](<{{ site.baseurl }}/universe/causality/>)
      - [Miracles](<{{ site.baseurl }}/universe/miracles/>)
-- Life
+- [Life](<{{ site.baseurl }}/life/>)
+     - [Mind](<{{ site.baseurl }}/life/mind>)
+     - [Body](<{{ site.baseurl }}/life/body>)
+     - [Meaning](<{{ site.baseurl }}/life/meaning>)
+
+<!-- - [Emotions](<{{ site.baseurl }}/life/emotions>) -->
+<!-- - [Idea](<{{ site.baseurl }}/life/idea>) -->
+
 - Everything
      - [Spinoza and Ethics](<{{ site.baseurl }}/everything/spinoza-and-ethics>)
 
@@ -127,6 +120,10 @@ You can open a issue on the [GitHub repository](https://github.com/mreza0100/my-
 Or you can send a PR to the [GitHub repository](https://github.com/mreza0100/my-answeres-to-life-universe-everything.github.io)
 
 Also you can send me an email to: [mamzi.khosravivala@gmail.com](mailto:mamzi.khosravivala@gmail.com)
+
+### References:
+
+- [hermes](https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer/)
 
 <!-- - Mamzi's Blog! - The Ultimate Question of Life, the Universe, and Everything (you are here)
 

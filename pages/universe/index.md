@@ -4,7 +4,17 @@ title: The Universe or Nature or God
 permalink: /universe/
 ---
 
-Hitchhiker's Guide to the Galaxy is a great story
+<div style="text-align:center">
+<img
+src="{{ site.baseurl }}/assets/beginning-adams.jpg"
+alt="douglas adams beginning of the universe"
+title="douglas adams beginning of the universe"
+width="auto"
+height="300px"
+style="padding: 15px; "
+/>
+
+</div>
 
 ### Definition of Universe from the book:
 
@@ -162,7 +172,7 @@ Consider the event of discovering the continent of America by Columbus:
            - Because the struggle for existence and improvement is a fundamental characteristic of life.
            - Read more about the struggle for existence and perfection under "Life" if I wrote about it yet.
 
-12. **Big Bang (The Beginning of Time and Space)**:
+12. **..Finally Big Bang (The Beginning of Time and Space)**:
       - **Why did the Big Bang happen?**
            - Because of the necessary causes that made it happen.
 
@@ -174,40 +184,29 @@ So we see that everything is connected, and everything has a cause, and everythi
 
 ## Conclusion
 
-- What ever happens, happens because of necessity.
-- The future of universe is determined by the past and current state of the universe.
-- What happens at each moment is like a mathematical equation with billions of variables that we can't predict, but if we know all the necessary variables, we can predict it.
-- What ever happened before, has happened exactly as it should and the same every time, and what ever will happen in the future, will happen exactly as it should and exactly as it happened before.
-- What makes causality happen is the laws of nature, like laws of physics and chemistry, more specifically the laws of the divine Nature.
-- There doesn't a similar reality when Doulas Adams haven't wrote the book, because the necessary causes that made him write the book, made him write it, and there is no other way that it could have happened.
-- There is no randomness in the universe, everything has a cause, and all causes has an effect.
-- Similar realities doesn't exist when you have done something else, because the necessary causes that made you do it, made you do it, and there is no other way that it could have happened.
-- There is no similar reality when anything happens any how except the way that it happens.
-- Future has been predetermined, there is no other way that it can change, everything that will happen.
+### Necessity (of the Divine Nature)
 
-### Shocking conclusion!
+Everything before happened exactly as it should have happened, and everything that will happen will happen exactly as it should happen.
 
-- The matter of fact that you are reading this text, is because of the necessary causes that made you read it.
-- There is no alternative reality that you could have done something else, because the necessary causes that made you read this text, made you read it. You might think that you could have done something else, but you couldn't, because the necessary causes that made you read this text, made you read it, just like dominoes that fall because of the necessary causes that made them fall, and there is no other way that they could have fallen.
-- We are living in a deterministic universe that everything happens because of necessity.
-- **All the necessary causes made me write this text, and all the necessary causes made you read it, and there is no other way that it could have happened.**
+#### No good or bad
 
-### Acceptance of causality
+Nature does not categorize events as good or bad, ones the event happens, it's necessary for it to happen, it was not by anyone choice. For example, we see animals eating each other and we accepted that for the wild nature, because we state that they don't have free will, but we believe that we have free will, and we can think, and we can avoid making mistakes, I will talk about this in the mind section under life later on.
 
-You might can say that you don't think 2 + 2 is 4, but that just makes it hard for you, as 2 + 2 is 4, and there is no other way that it could be.
-Accepting that the world is working like this, the future cannot be changed, and the past couldn't have been different, and the present is exactly as it should be, and there is no other way that it could have been is not a easy thing to accept, but it's the truth, and the truth is not always easy to accept.
+### Alternative realities
 
-### Don't panic!
+We might think within ourselves that the past could have been different, but it couldn't, because the necessary causes. the future will also happen exactly as it should. There is only one reality, the one that we are living in.
 
-Spinoza's philosophy has a deep peace in it, because it makes you accept the world as it is, and makes you accept that everything happens because of necessity, and there is no other way that it could have happened.
+#### Ones the rules are set, the game is played
 
-A few things to consider:
+Imagine you have a computer game in a self-play mode, once you set the initial values, the future of the game is determined by the past and current state of the game.
 
-- No judgment on any event, things happen and people do things because of necessity. It's inevitable for them not to do things exactly as they do, and there is no other way that it could have happened.
-     - When you see a lion eating a deer, you don't judge the lion, because it eats the deer. You know it's necessary for the lion to eat the deer, because it's the way nature works.
-     - Why does lion ear deer because of necessity? because we accepted that this is the way nature works, but we have not accepted it for ourselves, we believe that we have free will, we can think, and we can avoid making mistakes, I will talk about this in the mind section under life later on.
-- No good or bad exist, everything happens because of necessity.
-     - Good and bad are our perception of events, but in reality, everything happens because of necessity, nature does not understand good or bad, it nether judges, it just happens because it's necessary to happen.
+#### [Game of life](https://playgameoflife.com/)
+
+Game of life is a great example of the system, where the future of the game is determined by the past and current state of the game. And also if you want to play it in your terminal you can use my [game of life](https://github.com/mreza0100/game-of-life) implementation.
+
+#### What happens next moment is the result of the past and current state.
+
+### The future is predetermined and it's called determinism.
 
 ### Next steps
 
