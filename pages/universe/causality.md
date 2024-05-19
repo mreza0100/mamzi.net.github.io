@@ -96,6 +96,8 @@ Many people might think, so now that things exactly happen in the way they do, d
 Our world works by the Network causality, where billions of causes lead to billions of effects, and billions of effects lead to billions of causes, and so on to infinity.
 In between of this chaos, there are diverging, branching, and linear causality that happens under the network causality.
 
+<!-- also loops happen in the cause and effects -->
+
 Between any cause and affect, are infinite leaner causality in between, which lead to limited causality in higher levels.
 In a diverging causality:
 
@@ -120,7 +122,6 @@ In a linear causality:
      - What we see at the end, is a domino hitting the other one, but, because there are infinite moments between the cause and effect, there are infinite causes that lead to the effect.
 
 Consider moving your hand to grab a cup of water, the cause is you moving your hand, and the effect is you grabbing the cup of water. But underlying, it's your hand muscles contracting, and the nerves sending signals to the brain, and the brain sending signals to the muscles, and so on.
-So we see a set of causes and effects from the root cause of decision making to the final effect of grabbing the cup of water.
 
 Consider Columbus discovering America, the cause is Columbus sailing to America, and the effect is Columbus discovering America. But underlying, it's the decision of Columbus to sail to America, and the decision of the king to fund the voyage, and the decision of the sailors to join the voyage, and so on.
 Now can you say what are the higher levels of discovering America?

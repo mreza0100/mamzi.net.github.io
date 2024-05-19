@@ -82,10 +82,11 @@ The very first thing is to define these things:
 - Morality
 - Ethics and everything
 
-But if we want to actually write down all of it in a way that it makes logically sense to everyone, we need to define everything from the ground up.
 What I'm talking about is a logically proof of life universe and how it works in a way that it makes sense to everything for everyone.
 
-**It's not personal, but it's logical.**
+#### **Almost nothing here is personal, but mostly logical.**
+
+I strive to keep it that way, and I hope you also find it useful.
 
 <div style="text-align:center">
 
