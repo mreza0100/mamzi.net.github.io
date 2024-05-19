@@ -47,10 +47,10 @@ So the Earth was made by people in hyperspace to find the answer as it grow from
 - **Is our world deterministic?**
 - **Is our world working like a computer?**
 - **Is there randomness in our world?**
-- **Does that mean you are part of the computer, so everything we do is kinda programmed?**
+- **So we are also programmed?**
+- **If we are, what are the rules and conditions of our logic and emotions of mind?**
 
-But how can you logically prove that Earth is not a computer?
-How can you model the universe and life and start proving how things work?
+How can you model the universe and life and start proving how things work? Spinoza did it, and I'm trying to do it too.
 
 #### The story doesn't make sense
 
@@ -121,12 +121,7 @@ Or you can send a PR to the [GitHub repository](https://github.com/mreza0100/my-
 
 Also you can send me an email to: [mamzi.khosravivala@gmail.com](mailto:mamzi.khosravivala@gmail.com)
 
-### References:
-
-- [hermes](https://lukesmith.xyz/articles/hedonism-asceticism-and-the-hermetic-answer/)
-
-<!-- - Mamzi's Blog! - The Ultimate Question of Life, the Universe, and Everything (you are here)
-
+<!--
 - [Ethics and Spinoza]({{ site.baseurl }}/roadmap/ethics.html)
 - Cause and affect
 - Our perspective, understanding and point of view
