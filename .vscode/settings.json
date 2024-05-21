@@ -1,8 +1,5 @@
 {
-	"cSpell.words": [
-		"crititzments",
-		"omfomote"
-	],
+	"cSpell.words": ["crititzments", "omfomote", "predeploy"],
 	"workbench.colorCustomizations": {
 		"editor.selectionBackground": "#c749d37e",
 		"editor.selectionHighlightBackground": "#c749d362",
