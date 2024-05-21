@@ -1,16 +1,8 @@
 {
-	"cSpell.words": [
-		"crititzments",
-		"omfomote"
-	],
-	"workbench.colorCustomizations": {
-		"editor.selectionBackground": "#c749d37e",
-		"editor.selectionHighlightBackground": "#c749d362",
-		"editorBracketHighlight.foreground1": "#00ff9d",
-		"editorBracketHighlight.foreground2": "#ff00cc",
-		"editorBracketHighlight.foreground3": "#ffffff",
-		"activityBar.background": "#302D22",
-		"titleBar.activeBackground": "#434030",
-		"titleBar.activeForeground": "#FBFBFA"
-	}
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "files.exclude": {
+        "**/node_modules": true
+    }
 }
