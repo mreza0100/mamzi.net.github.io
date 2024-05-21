@@ -11,6 +11,7 @@ permalink: /life/meaning
 > All such opinions spring from the notion commonly entertained, that all things in nature act as men themselves act, namely, with an end in view.
 
 - Everything in nature acts with an end in view, this is a common notion that all things in nature act
+- All our actions has a end result and goal in view
 
 > It is accepted as certain, that God himself directs all things to a definite goal (for it is said that God made all things for man, and man that he might worship him). I will, therefore, consider this opinion, asking first, why it obtains general credence, and why all men are naturally so prone to adopt it? secondly, I will point out its falsity; and, lastly, I will show how it has given rise to prejudices about good and bad, right and wrong, praise and blame, order and confusion, beauty and ugliness, and the like.
 

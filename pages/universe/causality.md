@@ -4,6 +4,18 @@ title: Causality
 permalink: /universe/causality/
 ---
 
+<div style="text-align:center">
+<img
+src="{{ absolute_url }}/assets/chaos-system.jpg"
+alt="matrix"
+title="hermes"
+width="auto"
+height="400px"
+style="padding: 15px; "
+/>
+
+</div>
+
 # Causality or Cause and Effect
 
 We have previously discussed the concept of cause and affect in the context of the [universe]({{site.baseurl}}/universe/).

@@ -115,7 +115,9 @@ Someone hate you for no reason, you will hate them back.
 
 > PROP. XLI. If anyone conceives that he is loved by another, and believes that he has given no cause for such love, he will love that other in return.
 
-Someone love you for no reason, you will love them back! (this is the reason why people love their pets)
+Someone love you for no reason, you will love them back!
+
+- Note: You might argue that not everyone would love you back, but I should tell you that other behaviors are because of the complex nature of mind, our experiences from past and how we gone through it. But I tell you that people should logically be like this, unless other causes are in play.
 
 > PROP. XLII. He who has conferred a benefit on anyone from motives of love or honour will feel pain, if he sees that the benefit is received without gratitude.
 
