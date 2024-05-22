@@ -59,12 +59,12 @@ const UNIVERSE: iArticle[] = [
 			articleTitle: "Universe",
 			tags: "universe, cause and effect, space, time, matter, energy",
 			thumbnail: "/public/images/beginning-adams.jpg",
-			shortIntro: "These are the steps to setup your blog",
+			shortIntro: "Cause and effect in the universe",
 			category: "Universe",
 		},
 		seo: {
 			title: "How to setup this blog template",
-			description: "These are the steps to setup your blog",
+			description: "cause and effect in the universe",
 			keywords: "demo, blog setup",
 			ogImage: "/public/imp_assets/tutorials/how-to-setup-blog.svg",
 			author: MAMZI.name,
@@ -313,6 +313,29 @@ const LIFE: iArticle[] = [
 			author: MAMZI.name,
 		},
 	},
+	{
+		key: ArticlesKeys.Stack,
+		url: "/life/mind/stack",
+		path: "/pages/life/mind/stack.tsx",
+		featureArticle: true,
+		isPublished: false,
+		preview: {
+			author: MAMZI,
+			date: "May 22 2024",
+			articleTitle: "Stack",
+			tags: "stack",
+			thumbnail: "/public/images/emotions.jpg",
+			shortIntro: "Spinoza's view on the emotions and feelings as a substance",
+			category: "Life",
+		},
+		seo: {
+			title: "Stack",
+			description: "Stack",
+			keywords: "stack",
+			ogImage: "/public/images/emotions.jpg",
+			author: MAMZI.name,
+		},
+	},
 ];
 
 const EVERYTHING: iArticle[] = [
@@ -344,6 +367,7 @@ const EVERYTHING: iArticle[] = [
 ];
 
 function removeUnpublished(arts: iArticle[]): iArticle[] {
+	console.log("NODE_ENV", process.env.NODE_ENV);
 	if (process.env.NODE_ENV === "development") return arts;
 	return arts.filter(a => a.isPublished);
 }

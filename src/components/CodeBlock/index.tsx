@@ -1,7 +1,21 @@
 import Highlight, { defaultProps } from "prism-react-renderer";
 import theme from "prism-react-renderer/themes/nightOwl";
 import { combineClasses } from "../../utils/utils";
-import { Pre } from "./style";
+import styled from "styled-components";
+
+const Pre = styled("pre")`
+	text-align: left;
+	overflow: hidden;
+	font-size: 14px;
+	border-radius: 6px;
+	overflow: auto;
+	max-height: 350px;
+
+	& .token-line {
+		line-height: 1.3em;
+		height: 1.3em;
+	}
+`;
 
 const CodeBlock = ({ code, className }: { code: string; className?: string }) => {
 	return (

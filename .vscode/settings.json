@@ -2,8 +2,15 @@
 	"emmet.includeLanguages": {
 		"javascript": "javascriptreact"
 	},
-	"files.exclude": {
-		"**/node_modules": true
-	},
-	"cSpell.words": ["nextjs", "rehype"]
+	"cSpell.words": ["nextjs", "nojekyll", "rehype"],
+	"workbench.colorCustomizations": {
+		"editor.selectionBackground": "#c749d37e",
+		"editor.selectionHighlightBackground": "#c749d362",
+		"editorBracketHighlight.foreground1": "#00ff9d",
+		"editorBracketHighlight.foreground2": "#ff00cc",
+		"editorBracketHighlight.foreground3": "#ffffff",
+		"activityBar.background": "#08350C",
+		"titleBar.activeBackground": "#0C4B11",
+		"titleBar.activeForeground": "#F0FDF1"
+	}
 }
