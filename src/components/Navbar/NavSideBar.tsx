@@ -87,13 +87,14 @@ const NavSidebar = ({
 							)
 						) : (
 							<NavCatergoryDD
+								key={i}
 								label={each.label}
 								openDD={openDD}
 								setOpenDD={() => setOpenDD(!openDD)}
 							/>
 						),
 					)}
-					{/* {env === "development" ? (
+					{env === "development" ? (
 						<>
 							<hr />
 							<Text subtitle className="mt-3 !text-[18px]">
@@ -163,7 +164,7 @@ const NavSidebar = ({
 								Icons
 							</LinkTo>
 						</>
-					) : null} */}
+					) : null}
 				</div>
 				<hr />
 				<div className="my-5">
