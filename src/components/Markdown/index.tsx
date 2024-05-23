@@ -2,22 +2,32 @@ import { combineClasses } from "../../utils/utils";
 import styled from "styled-components";
 import ReactMarkdown from "react-markdown";
 import rehypeRaw from "rehype-raw";
+import React from "react";
 
 interface IProps {
-	children: string;
+	children: (JSX.Element | string) | (JSX.Element | string)[];
 	className?: string;
 }
 
 const Markdown = ({ children, className }: IProps) => {
+	children = Array.isArray(children) ? children : [children];
+
 	return (
 		// padding
 		<div className={combineClasses("md:p-5 p-12", className)}>
 			<div className="shadow-lg p-5">
-				<MarkdownStyles>
-					<ReactMarkdown rehypePlugins={[rehypeRaw]}>
-						{children}
-					</ReactMarkdown>
-				</MarkdownStyles>
+				{children.map((Child, index) => {
+					if (typeof Child === "string") {
+						return (
+							<MarkdownStyles key={index}>
+								<ReactMarkdown rehypePlugins={[rehypeRaw]}>
+									{Child}
+								</ReactMarkdown>
+							</MarkdownStyles>
+						);
+					}
+					return Child;
+				})}
 			</div>
 		</div>
 	);

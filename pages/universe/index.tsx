@@ -1,8 +1,9 @@
-import { Image, PageLayout } from "../../src/components";
+import { Image, PageLayout, Text } from "../../src/components";
 import Markdown from "../../src/components/Markdown";
 import { ImageSize } from "../../src/shared/enums";
 
-const content = `
+const content = [
+	`
 ### Definition of Universe from the book:
 
 The Universe is a very big thing that contains a great number of planets and a great number of beings. It is Everything. What we live in. All around us.
@@ -15,6 +16,7 @@ The Universe is a very big thing that contains a great number of planets and a g
 - The Restaurant at the End of the Universe is located at the end of time and matter. You can watch the end of the universe while you eat a live cow that wants to be eaten, so it's not a problem!
 
 Imagine the impossibles!
+
 
                   
 #### The story doesn't make sense
@@ -208,7 +210,8 @@ Game of life is a great example of the system, where the future of the game is d
 
 [Ethics Text](https://www.gutenberg.org/files/3800/3800-h/3800-h.htm#chap04)
 
-`;
+`,
+];
 
 const Article = () => {
 	return (

@@ -38,7 +38,7 @@ We are part of the Nature, so we are part of God.
 But, for Spinoza, you and the door are both substance, because you are part of the nature, and the door is also part of the nature, so you and the door are part of the same thing, which he calls God.
 So don't think that you are God, but you are part of God as much as the door is part of God.
 
-> [2P10] (https://ethica.bc.edu/#/element/2P10) The being of substance does not appertain to the essence of man—in other words, substance does not constitute the actual being of man.
+> [2P10](https://ethica.bc.edu/#/element/2P10) The being of substance does not appertain to the essence of man—in other words, substance does not constitute the actual being of man.
 
 ### Difference between You, the door, and the God
 

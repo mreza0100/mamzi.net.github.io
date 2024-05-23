@@ -12,7 +12,7 @@ const content = `
 
 ---
 
-In this section I don't want to get philosophy of God, but I want to talk about the mind and how they are connected.
+In this section I don't want to get philosophy of God, but I want to talk about the mind, how it's connected to body, and how it works.
 
 #### Mind is a complex dynamic system of network causality kind as a unified entity
 
@@ -139,24 +139,25 @@ I don't know, maybe he was feeling it differently, I personally never received s
 - When we think of an ideas as a network, we remember the other ideas which has linked to that specific idea by the neighbor linked idea/node.
 - The order of remembering is tightly associated with the order of affecting by them for each individual, basically the order of ideas is the order we remember them, and the order of ideas shaped by the order of affecting by things. [2P7](https://ethica.bc.edu/#/element/2P7)
 - Each node/idea can be a idea, memory, feeling or the cause of what happened in the past, that's why each person's network memory is unique.
-- Since memory is based on past bodily interactions and not based on rational understanding of causes that made effect happen, it can cause errors in mind. In a way that
+- Since memory is based on past bodily interactions and not based on rational understanding of causes that made effect happen, it will cause errors as it's misinterpretation of connecting similar memories together.
 - As much as a path of nodes/ideas repeated, it will be more remembered and the possibility for that path to become more findable in the network of ideas will be higher.
 
-##### Example from him in the note of 2P18:
+##### Example from him in the note of [2P18](https://ethica.bc.edu/#/element/2P18):
 
-- You hear the word of "apply", you would immediately think of apple.
+You hear the word of "apply", you would immediately think of apple with no processing on the word apple itself.
 
      - **No processing**: There is no connection between how "apple" sound like the fruit itself, so the mind does not try to analyze the sound, but it remember it.
-     - You remember apple because you constantly heard the word apple while you were somehow associated with the fruit apple from your past memories.
+     - You remember apple because you constantly heard the word apple while you were somehow associated with the fruit apple.
 
 - A soldier and farmer see horse tracks in the road.
 
      - Solder will get to the idea of horseman, and from there will get the the idea of war, and so on.
-
+          - horse tracks -> horseman -> soldier -> war
           - This is because solder ideas in solder's mind associated from tracks -> horseman -> war. Since this process of seeing them together has happened many times in solder's past, the solder will remember them together.
 
-     - Countryman/farmer will get to the idea of horse -> plow -> field -> harvest -> food -> family -> home -> etc.
-          - This is because countryman ideas in countryman's mind associated from tracks -> horse -> plow -> field -> harvest -> food -> family -> home -> etc.
+     - Countryman/farmer will get to the idea of food and family.
+          - horse tracks -> horse -> plow -> field -> harvest -> food -> family
+          - This is because the farmer's mind has associated the idea with something else and has not experienced war.
 
 So we see that the unique network of ideas in each person's mind is shaped by the past experiences of affecting by them at the same time.
 

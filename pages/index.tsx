@@ -7,10 +7,8 @@ import { getPageURL } from "../src/utils/utils";
 import { ArticlesKeys } from "../BLOG_CONSTANTS/_ARTICLES_LIST";
 
 const content = `
-
-Unlike what you might think, the answer to life, the universe, and everything is not 42. It's actually 43 :D
+  Unlike what you might think, the answer to life, the universe, and everything is not 42. It's actually 43 :D
   In the story of the [Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy), the answer to the ultimate question of life, the universe, and everything is 42, calculated by a so called supercomputer named Deep Thought. Deep thought, thought deeply for 7.5 million years and came up with the answer 42!
-  
   
   ---
   Why he actually choose 42:
@@ -46,13 +44,10 @@ Unlike what you might think, the answer to life, the universe, and everything is
   
   How can you model the universe and life and start proving how things work? Spinoza did it, and I'm trying to do it too.
   
-  #### The story doesn't make sense
-  
-  - It states that the area of the Universe is infinite.
-  - There is a restaurant at the end of the universe, so it's not infinite!
-  - It states that the Universe is the same size as the mind of the person who is thinking about it, so it fits in the mind of the person who is thinking about it!
-  
   The question is so big that all the other questions in the world fall under it!
+
+  That's why it needs everything from the ground up to define again in a particularly logical way.
+
   
   The very first thing is to define these things:
   
@@ -76,9 +71,21 @@ Unlike what you might think, the answer to life, the universe, and everything is
   
   What I'm talking about is a logically proof of life universe and how it works in a way that it makes sense to everything for everyone.
   
-  #### **Almost nothing here is personal, but mostly logical.**
-  
+  ## Some **remarks** about my blog:
+  - No bias, my ideas are based on logic and reasoning.
+  - Nothing is personal for me, not even my own ideas, everything is based on rational thinking.
+  - I'm not trying to prove anything, but I'm looking for the truth.
+  - I'm not trying to convince anyone
+
+  #### **Nothing here is personal, but everything is logical.**
+
   I strive to keep it that way, and I hope you also find it useful.
+
+  ### Why I choose this name for my blog?
+
+  Because I can relate and write anything regard to it, as I also have a framework which I have defined everything from the root up for myself.
+  Hope you also find it useful.
+  
 
   # Index
   

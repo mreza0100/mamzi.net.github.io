@@ -5,7 +5,8 @@ import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 export const MAMZI: IAuthor = {
 	name: "Mamzi Khosravi",
 	designation: "Software Engineer and Thinker",
-	bio: "A software engineer and who thinks with a common sense",
+	bio: "A software engineer who thinks with a common sense",
+
 	profilePic: "",
 	social: [
 		{
@@ -93,11 +94,11 @@ export const PRIMARY_NAV: iNavSetup = {
 };
 
 export const DEFAULT_SEO: iSEO = {
-	title: "Nextjs simple blog template",
-	description: "A simple blog template using NextJS and Typescript.",
-	keywords: "Blog, next js, template, next js blog, blog setup, typescript, nextjs typescript, react js blog template, responsive blog template",
+	title: "My Answers to Life, Universe and Everything",
+	description: "A blog about life, universe and everything in between.",
+	keywords: "Spinoza, answers, Life, Universe, Everything",
 	url: WEBSITE_URL,
 	author: `${MAMZI.name}`,
-	twitterHandle: "@WebExpe",
-	ogImage: "/public/images/og-image.jpg",
+	twitterHandle: "",
+	ogImage: "/public/images/42.png",
 };
