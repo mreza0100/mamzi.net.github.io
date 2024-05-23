@@ -6,14 +6,14 @@ const content = `
 
 ### Requirements to know:
 
-- [Universe](<{{ baseurl }}/universe/>)
-- [Casualty](<{{ baseurl }}/universe/casualty/>)
+- [Universe](/universe/)
+- [Casualty](/universe/casualty/)
 
 # Life
 
 So far we talked that everything is substance.
 And substance is conditioned by nature to act in a certain way.
-We also talked in the [Building Blocks](<{{ baseurl }}/universe/building-blocks>) that everything is made of the same substance which is nature, our body and mind are also substance.
+We also talked in the [Building Blocks](/universe/building-blocks/) that everything is made of the same substance which is nature, our body and mind are also substance.
 
 ### How did life start and evolve?
 

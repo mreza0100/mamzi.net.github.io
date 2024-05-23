@@ -2,11 +2,13 @@ import { PageLayout } from "../../src/components";
 import Markdown from "../../src/components/Markdown";
 
 const content = `
+Requirements to know:
 
+- [Universe](/universe/)
 
 # Causality or Cause and Effect
 
-We have previously discussed the concept of cause and affect in the context of the [universe]({{site.baseurl}}/universe/).
+We have previously discussed the concept of cause and affect in the context of the [universe](/universe/).
 
 In this post, we will discuss the concept of causality in more detail.
 

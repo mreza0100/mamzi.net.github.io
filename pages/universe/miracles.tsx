@@ -50,7 +50,7 @@ This is the rule that applies to all triangles in the world.
 
 My point is that at the underlying of a miracle, you need to break a rule like this, which our mind knows that it's impossible to break, because it's reality and reality is perfect.
 
-The triangle is perfect because it's impossible to break the rules of it, because it's part of the reality, and reality is perfect, in the [perfection](<{{ site.baseurl }}/universe/perfection/>) page, we talked about the perfection and the deep concept of it.
+The triangle is perfect because it's impossible to break the rules of it, because it's part of the reality, and reality is perfect, in the [perfection](/universe/perfection/) page, we talked about the perfection and the deep concept of it.
 
 > [1P29](https://ethica.bc.edu/#/element/1P29) "Nothing in the universe is contingent, but all things are conditioned to exist and operate in a particular manner by the necessity of the divine nature."
 

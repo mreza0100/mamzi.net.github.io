@@ -75,16 +75,18 @@ const content = `
   - No bias, my ideas are based on logic and reasoning.
   - Nothing is personal for me, not even my own ideas, everything is based on rational thinking.
   - I'm not trying to prove anything, but I'm looking for the truth.
-  - I'm not trying to convince anyone
+  - I'm not trying to convince anyone.
+  - My ideas are not a religion, nether something that needs faith to believe.
 
-  #### **Nothing here is personal, but everything is logical.**
+  #### **Nothing is personal, but everything is logical.**
 
   I strive to keep it that way, and I hope you also find it useful.
 
   ### Why I choose this name for my blog?
 
   Because I can relate and write anything regard to it, as I also have a framework which I have defined everything from the root up for myself.
-  Hope you also find it useful.
+  
+  May you also find your own answers.
   
 
   # Index
@@ -117,7 +119,7 @@ const content = `
   Also you can send me an email to: [mamzi.khosravivala@gmail.com](mailto:mamzi.khosravivala@gmail.com)
   
   <!--
-  - [Ethics and Spinoza]({{ site.baseurl }}/roadmap/ethics.html)
+  - [Ethics and Spinoza](/everything/spinoza-and-ethics/)
   - Cause and affect
   - Our perspective, understanding and point of view
   - Substance, Mode and attributes

@@ -6,9 +6,9 @@ const content = `
 
 ### Requirements to know:
 
-- [Universe](<{{ site.baseurl }}/universe/>)
-- [Causality](<{{ site.baseurl }}/universal/causality/>)
-- [Life](<{{ site.baseurl }}/life/>)
+- [Universe](/universe/)
+- [Causality](/universe/causality/)
+- [Life](/life/)
 
 ---
 
@@ -16,7 +16,7 @@ In this section I don't want to get philosophy of God, but I want to talk about 
 
 #### Mind is a complex dynamic system of network causality kind as a unified entity
 
-In [Casualty](<{{ site.baseurl }}/universe/casualty/>) we defined 4 types of causality.
+In [Casualty](/universe/casualty/) we defined 4 types of causality.
 Mind is of the network casualty kind, because it's outcome is unpredictable because everything is connected to
 In [here](https://www.hoffman-counselling.com/single-post/therapy-personality-and-chaos-theory) therapist is explaining how mind works by using chaos theory. Just like a very complex system which is reflecting the chaos theory.
 In corporation of cause and effect, he explains that a small change in the childhood can cause a big change in the personality of the person. We will talk more about psycho-analysis and how personality shapes in the next sections.
@@ -146,17 +146,14 @@ I don't know, maybe he was feeling it differently, I personally never received s
 
 You hear the word of "apply", you would immediately think of apple with no processing on the word apple itself.
 
-     - **No processing**: There is no connection between how "apple" sound like the fruit itself, so the mind does not try to analyze the sound, but it remember it.
-     - You remember apple because you constantly heard the word apple while you were somehow associated with the fruit apple.
-
 - A soldier and farmer see horse tracks in the road.
 
      - Solder will get to the idea of horseman, and from there will get the the idea of war, and so on.
-          - horse tracks -> horseman -> soldier -> war
+          - horse tracks -> horseman -> soldier -> war -> death
           - This is because solder ideas in solder's mind associated from tracks -> horseman -> war. Since this process of seeing them together has happened many times in solder's past, the solder will remember them together.
 
      - Countryman/farmer will get to the idea of food and family.
-          - horse tracks -> horse -> plow -> field -> harvest -> food -> family
+          - horse tracks -> horse -> plow -> field -> harvest -> food -> family -> love -> reproduction
           - This is because the farmer's mind has associated the idea with something else and has not experienced war.
 
 So we see that the unique network of ideas in each person's mind is shaped by the past experiences of affecting by them at the same time.

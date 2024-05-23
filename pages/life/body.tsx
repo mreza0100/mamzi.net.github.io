@@ -6,9 +6,9 @@ import { ImageSize } from "../../src/shared/enums";
 const content = `
 ### Requirements to know:
 
-- [Universe](<{{ baseurl }}/universe/>)
-- [Casualty](<{{ baseurl }}/universe/casualty/>)
-- [Life](<{{ baseurl }}/life/>)
+- [Universe](/universe/)
+- [Casualty](/universe/casualty/)
+- [Life](/life/)
 
 # Body
 

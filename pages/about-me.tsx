@@ -48,9 +48,10 @@ const AboutUs = () => {
 					Spinoza has answered the question before, after reading and
 					understanding him, I found a framework of thinking to proof
 					reality and the world we live in. So I decided to restructure it
-					and use it as the framework of my blog, so others can also use.
-					So far, this has been my most ambitious attempt to get into
-					details of any Philosophy.
+					in the context of ultimate question and use it as the framework
+					of my blog, so others can also use. So far, this has been my most
+					ambitious attempt to get into details of any Philosophy and I
+					have the goal in mind to complete it over the time of my life.
 				</Text>
 
 				<h3>What is the purpose of this blog?</h3>
