@@ -2,7 +2,7 @@
 	"emmet.includeLanguages": {
 		"javascript": "javascriptreact"
 	},
-	"cSpell.words": ["nextjs", "nojekyll", "rehype"],
+	"cSpell.words": ["dotfiles", "nextjs", "nojekyll", "rehype"],
 	"workbench.colorCustomizations": {
 		"editor.selectionBackground": "#c749d37e",
 		"editor.selectionHighlightBackground": "#c749d362",

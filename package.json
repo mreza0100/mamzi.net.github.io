@@ -4,8 +4,7 @@
 	"version": "0.1.0",
 	"private": true,
 	"scripts": {
-		"predeploy": "npm run out; mkdir -p out; touch out/.nojekyll && cp ./CNAME ./out/CNAME",
-		"deploy": "gh-pages -b gh-pages -d out -m 'Deploying to gh-pages' --cname ./CNAME",
+		"deploy": "gh-pages -b gh-pages --dotfiles -d out -m 'Deploying to gh-pages' --cname ./CNAME",
 		"start": "next dev",
 		"build": "next build",
 		"start-prod": "next start",
