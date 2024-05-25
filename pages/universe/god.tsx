@@ -3,7 +3,7 @@ import Markdown from "../../src/components/Markdown";
 import { ImageSize } from "../../src/shared/enums";
 
 const content = `
-##### I do not try to convince you of anything, but you need to logily know what God means in this context to continue the rest of the blog. **Nothing here is personal, but everything is logical.**
+##### I do not try to convince you of anything, but you need to logically know what God means in this context to continue the rest of the blog. **Nothing here is personal; everything is logical..**
 
 Spinoza defined all the words from the ground up, the word God, does not have the same meaning in English or the concept you might think of.
 
@@ -21,13 +21,13 @@ Spinoza was looking at God, as the nature itself.
 God to him, is the creator of everything.
 God is the cause of everything.
 God is the essence of everything.
-God is the reason that cause and affect
+God is the reason that cause and effect
 God is what makes existence possible
-God is what sits between cause and affect and makes it possible
+God is what sits between cause and effect and makes it possible
 
 - What is controlling your heart to beat?
-     - It's a complex great number of cause and affect that makes it beat.
-     - What makes cause and affect possible? Nature
+     - It's a complex great number of cause and effect that makes it beat.
+     - What makes cause and effect possible? Nature
 
 It's interesting, when you think about it, it seems like he knew about the Darwinism theory before Darwin, but he was not talking about the evolution of species, he was talking about the evolution of everything, which we are part of it.
 
@@ -36,7 +36,7 @@ It's interesting, when you think about it, it seems like he knew about the Darwi
 For Spinoza, God was the nature itself.
 We are part of the Nature, so we are part of God.
 But, for Spinoza, you and the door are both substance, because you are part of the nature, and the door is also part of the nature, so you and the door are part of the same thing, which he calls God.
-So don't think that you are God, but you are part of God as much as the door is part of God.
+So, don't think that you are God; you are part of God just as much as the door is.
 
 > [2P10](https://ethica.bc.edu/#/element/2P10) The being of substance does not appertain to the essence of man—in other words, substance does not constitute the actual being of man.
 
@@ -44,8 +44,8 @@ So don't think that you are God, but you are part of God as much as the door is 
 
 There is no difference at all, each are substance with different modes.
 The first 2 are part of the nature, and the last one is the nature itself.
-I say door because I seen people who think all of us are God by Spinoza's definition, but it's not the case, we are part of the nature as much as everything else as one united field, which he calls God.
-I do not have an opinion that if Spinoza's point was to make us feel like we are God, he is just trying to show how the same rules apply to everything in the nature, and we are part of it.
+I say door because I have seen people who think all of us are God by Spinoza's definition, but it's not the case, we are part of the nature as much as everything else as one united field, which he calls God.
+I strongly don't think if Spinoza meant that we are God, we are part of nature, as much as everything else.
 
 In many sentences in your day to day life, you can easily change the word "God" with "Nature" and it will still make sense.
 
@@ -123,9 +123,9 @@ Most of the times, god has a human form, with perfect human characteristics like
 - Being able to be merciful
 - Being able to know everything
 - Being able to manipulate the nature
-- Being able to be feel angry, happy, sad and all the other human emotions
+- Being able to feel angry, happy, sad and all the other human emotions
 
-Unlike what they say, it doesn't seams that God is a separate entity from nature, but it's one of us, it's the best of us with infinite power. Meanwhile it's somewhere that we can't see it because it's not part of the nature, but it's the creator of the nature.
+Unlike what they say, it doesn't seems that God is a separate entity from nature, but it's one of us, it's the best of us with infinite power. Meanwhile it's somewhere that we can't see it because it's not part of the nature, but it's the creator of the nature.
 
 #### How would the god of sharks look like for them?
 
@@ -143,7 +143,7 @@ It's abstraction of us, but with infinite power.
 
 **Two natures having different characteristics have nothing in common with each other.**
 
-It's over simplified and it loose some of the meaning, but it's easier to understand this way.
+It's over simplified and it lose some of the meaning, but it's easier to understand this way.
 
 Spinoza was holding the idea of a unified reality/field and no separate creator.
 
@@ -154,7 +154,7 @@ It's impossible to think of nature that is not part of the nature. So a God who 
 > [1P14](https://ethica.bc.edu/#/element/1P14) Except God(Nature), no substance can be or be conceived.
 
 Because everything that exist is part of the nature, then nothing outside nature can be conceived.
-Which makes sense, does your mind able to conceive something that is not part of the nature? I can't.
+Which makes sense, is your mind able to conceive something that is not part of the nature? I can't.
 Yes you can imagine star wars, but it's part of the nature, because it's in your mind, which is part of the nature.
 
 <!-- > [1APPENDIX] Further, this doctrine does away with the perfection of God: for, if God acts for an object, he necessarily desires something which he lacks. Certainly, theologians and metaphysicians draw a distinction between the object of want and the object of assimilation; still they confess that God made all things for the sake of himself, not for the sake of creation. They are unable to point to anything prior to creation, except God himself, as an object for which God should act, and are therefore driven to admit (as they clearly must), that God lacked those things for whose attainment he created means, and further that he desired them. -->

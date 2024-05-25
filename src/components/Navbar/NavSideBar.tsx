@@ -208,7 +208,7 @@ const NavSidebar = ({
 					</button>
 				</div>
 				<hr />
-				<div className="my-5">
+				{/* <div className="my-5">
 					<p className="text-sm font-light dark:text-gray-400 text-gray-500 mb-1">
 						Copyright © 2022
 					</p>
@@ -226,7 +226,7 @@ const NavSidebar = ({
 					>
 						Terms and Conditions
 					</LinkTo>
-				</div>
+				</div> */}
 			</aside>
 		</>
 	);

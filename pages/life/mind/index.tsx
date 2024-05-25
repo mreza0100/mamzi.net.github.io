@@ -16,8 +16,8 @@ In this section I don't want to get philosophy of God, but I want to talk about 
 
 #### Mind is a complex dynamic system of network causality kind as a unified entity
 
-In [Casualty](/universe/casualty/) we defined 4 types of causality.
-Mind is of the network casualty kind, because it's outcome is unpredictable because everything is connected to
+In [Causality](/universe/causality/) we defined 4 types of causality.
+Mind is of the network causality kind, because it's outcome is unpredictable because everything is connected to
 In [here](https://www.hoffman-counselling.com/single-post/therapy-personality-and-chaos-theory) therapist is explaining how mind works by using chaos theory. Just like a very complex system which is reflecting the chaos theory.
 In corporation of cause and effect, he explains that a small change in the childhood can cause a big change in the personality of the person. We will talk more about psycho-analysis and how personality shapes in the next sections.
 
@@ -264,13 +264,37 @@ Now at the same time you know that you have a true idea, the angles of a triangl
 
 You cannot assume that something just happened and use that as the reason.
 Reason needs to be perfectly inline with reality.
-Ignoring this rule will lead to something he call ignorance of true causes.
+Ignoring this rule will lead to something he call ignorance of true causes (he did't liked this at all).
 
-> [Corollary 2P44](https://ethica.bc.edu/#/element/2P44Corollary): Hence it follows, that it is only through our imagination that we consider things, whether in respect to the future or the past, as contingent.
+> [2P44 Corollary.1](https://ethica.bc.edu/#/element/2P44): Hence it follows, that it is only through our imagination that we consider things, whether in respect to the future or the past, as contingent.
 
 Reality only bends over in imaginations.
 You do not need to proof why Arthur is flying, because it's a sci-fi story, it's not real.
-In reality everything has a proof and not contingent.
+In reality everything is conditioned by the necessity, but in mind, because if it's flexible nature, it can imagine things in a contingent way.
+
+> [2P44 Corollary.2](https://ethica.bc.edu/#/element/2P44): It is in the nature of reason to perceive things under a certain form of eternity (sub quâdam æternitatis specie).
+
+What it means of certain form of eternity is that we must not see reasons as contingent, but as necessary.
+And it must be conceived with no relation to time.
+The causes of things are eternal.
+
+> [2P48](https://ethica.bc.edu/#/element/2P48): In the mind there is no absolute or free will; but the mind is determined to wish this or that by a cause, which has also been determined by another cause, and this last by another cause, and so on to infinity.
+
+- Every decision or thought arise, has a cause, and as long as there is cause and effect in the nature, there are rules that govern the causes and effects of mind.
+- Will explain this one more in free-will page.
+
+
+
+
+
+---
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
 
 > [3P1](https://ethica.bc.edu/#/element/3P1): Our mind is in certain cases active, and in certain cases passive. In so far as it has adequate ideas it is necessarily active, and in so far as it has inadequate ideas, it is necessarily passive.
 

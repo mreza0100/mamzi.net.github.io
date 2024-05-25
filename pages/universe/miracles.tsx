@@ -3,7 +3,6 @@ import Markdown from "../../src/components/Markdown";
 import { ImageSize } from "../../src/shared/enums";
 
 const content = `
-
 ### Requirements to know:
 
 - [Universe](/universe/)
@@ -11,27 +10,27 @@ const content = `
 
 # Miracles
 
-Miracles are the things that happen without a cause or explanation which is beyond the laws of nature.
+Miracles are events that happen without a cause or explanation, defying the laws of nature. We might see them as randomness, but randomness differs from unpredictability.
 
-In the world that we talked in Universe and Casualty, such a thing doesn't have a place.
+In the world described in Universe and Causality, miracles have no place.
 
-To make miracle happens, you need to break one of these laws:
+To make a miracle happen, you need to break one of these laws:
 
-- The laws of Nature
-     - like when Arthur in Hitchhiker's Guide to the Galaxy fly by throwing himself to the ground and missing.
-- Creation Ex Nihilo (making something from nothing)
-     - Matter and energy(aka substance) transform, not created or destroyed.
-     - like making a bag appear from nothing, that's not possible in our world.
+- **The laws of Nature**:
+  - Like when Arthur in Hitchhiker's Guide to the Galaxy flies by throwing himself to the ground and missing.
+- **Creation Ex Nihilo (making something from nothing)**:
+  - Matter and energy (aka substance) transform, not created or destroyed.
+  - Like making a bag appear from nothing, that's not possible in our world.
 
-We never saw any affect happen without a cause.
+We have never seen any effect without a cause.
 
-We never saw any cause happen without an effect.
+We have never seen any cause without an effect.
 
-We never observed any of the rules of nature to be broken in the process of causality, if there was any way that we could break any of it, we would have took the maximum advantage of it.
+We have never observed any of the rules of nature being broken in the process of causality. If it were possible to break them, we would have taken maximum advantage.
 
-### How imposable is it to break a law of nature?
+### How impossible is it to break a law of nature?
 
-Consider a triangle, it has 3 sides and 3 angles.
+Consider a triangle; it has 3 sides and 3 angles.
 
 <div style="text-align:left">
 <img
@@ -48,41 +47,38 @@ style="padding: 15px; "
 A + B + C = 180 degrees
 This is the rule that applies to all triangles in the world.
 
-My point is that at the underlying of a miracle, you need to break a rule like this, which our mind knows that it's impossible to break, because it's reality and reality is perfect.
+To perform a miracle, you need to break a rule like this, which our mind knows is impossible because it's reality, and reality is perfect.
 
-The triangle is perfect because it's impossible to break the rules of it, because it's part of the reality, and reality is perfect, in the [perfection](/universe/perfection/) page, we talked about the perfection and the deep concept of it.
+The triangle is perfect because it's impossible to break its rules, as it's part of reality. In the [perfection](/universe/perfection/) page, we discussed the deep concept of perfection.
 
 > [1P29](https://ethica.bc.edu/#/element/1P29) "Nothing in the universe is contingent, but all things are conditioned to exist and operate in a particular manner by the necessity of the divine nature."
 
 - Not contingent, but conditioned.
-     - He states that nothing is free in the world, everything is conditioned by the necessity of the divine nature and the only way to goes is the way that it goes.
+  - Nothing is free in the world; everything is conditioned by the necessity of the divine nature and can only follow its predetermined path.
 - Necessity of the divine nature:
-     - Like the triangle example, the divine nature is the rules of nature that is impossible to break because of the perfect nature of it.
+  - Like the triangle example, divine nature represents the unbreakable rules of nature due to their perfect nature.
 
-> [1P33](https://ethica.bc.edu/#/element/1P33) "Things could have been produced by God(nature) in no other way, and in no other order than that in which they have been produced."
+> [1P33](https://ethica.bc.edu/#/element/1P33) "Things could have been produced by God (nature) in no other way, and in no other order than that in which they have been produced."
 
-Let's assume every moment as a node in a leaner graph.
+Assume every moment is a node in a linear graph:
 
-1 -> 2 -> 3 -> 4 -> 5 -> 6 -> .. -> 1000
+1 -> 2 -> 3 -> 4 -> 5 -> 6 -> ... -> 1000
 
-The result of next moment is the result of the previous moment, and the result of the previous moment is the result of the moment before that, and so on.
+The result of the next moment follows from the previous moment, and so on.
 
-He states that sequence are fixed for the future because future is the result of the past.
-In the above example, you can say what would the number be at the 1000th moment, because you know the sequence of the numbers, this is a simple example of a chained sequence that is fixed because it's chained to nodes that are fixed.
-If we consider a miracle's backward traversal of the causes and effects, we can see that it's impossible to break the chain of causes and effects because the chain is fixed and the future is the result of the past, logically speaking.
+The sequence is fixed for the future because the future results from the past. In the above example, you can predict the 1000th moment because the sequence is fixed and chained to preceding nodes. Considering a miracle's backward traversal of causes and effects, it's impossible to break the chain because it is fixed and the future is a result of the past, logically speaking.
 
-Also Hume has a good point about miracles, he states that the evidence for the laws of nature is so strong that it's impossible to break them, and the evidence for the miracle is so weak that it's impossible to believe them.
-This is related on how to invalidate the proposition, counterexample is a good way to invalidate a proposition, and the evidence for the laws of nature is so strong that it's impossible to break them, and the evidence for the miracle is so weak that it's impossible to believe them.
+Hume argued that the evidence for the laws of nature is so strong that breaking them is impossible, and the evidence for miracles is so weak that believing them is impossible. This relates to how to invalidate a proposition: counterexamples are effective, and the strong evidence for natural laws makes them unbreakable, whereas the weak evidence for miracles makes them unbelievable.
 
 [more to read](https://en.wikipedia.org/wiki/Of_Miracles)
 
 ### Conclusion
 
-Miracles are the things that happen without a cause or explanation which is beyond the laws of nature, and it's impossible to break the perfect laws of nature, because they are part of reality and the reality is perfect, just like triangles.
+Miracles are events without a cause or explanation, beyond the laws of nature. It's impossible to break the perfect laws of nature because they are part of reality, just like triangles.
 
 ### References:
 
-[properties of a triangle](https://www.cuemath.com/geometry/properties-of-a-triangle/)
+[Properties of a triangle](https://www.cuemath.com/geometry/properties-of-a-triangle/)
 
 
 `;

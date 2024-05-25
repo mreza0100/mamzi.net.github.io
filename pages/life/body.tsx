@@ -7,7 +7,7 @@ const content = `
 ### Requirements to know:
 
 - [Universe](/universe/)
-- [Casualty](/universe/casualty/)
+- [Causality](/universe/causality/)
 - [Life](/life/)
 
 # Body

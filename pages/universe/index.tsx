@@ -19,7 +19,7 @@ Imagine the impossibles!
 
 
                   
-#### The story doesn't make sense
+#### Conflict in the story of Hitchhiker's Guide to the Galaxy
 
 - It states that the area of the Universe is infinite.
 
@@ -31,7 +31,7 @@ Imagine the impossibles!
 
 Our world is not like that, we have rules and laws that we have to follow, and we can't just bend them as we like.
 
-For example: image a basketball player throwing the ball to the basket, with the laws of physics, we say with 100% accuracy where the ball will land, and we can calculate the speed and the angle of the ball.
+For example: imagine a basketball player throwing the ball to the basket, with the laws of physics, we say with 100% accuracy where the ball will land, and we can calculate the speed and the angle of the ball.
 
 #### 2 things needed to do that
 
@@ -43,23 +43,23 @@ consider the knowledge of weather forecasting, we can predict the weather with a
 Basically we call something random that we don't know all the necessary variables to predict it.
 A long while ago, people thought that the weather is random, but now we know that it's not, and we can predict it with a good accuracy.
 
-### Cause and affect
+### Cause and effect
 
-Cause and affect is what we model as to describe the flow of action and reaction in the universe.
+Cause and effect is what we model as to describe the flow of action and reaction in the universe.
 If a cause happens, then an effect will happen.
-What sit between this specific cause and the effect is the laws of physics or nature and make cause and affect happen.
+What sits between this specific cause and the effect is the laws of physics or nature and make cause and effect happen.
 
 > [1A3](https://ethica.bc.edu/#/element/1A3): From a given definite cause an effect necessarily follows; and, on the other hand, if no definite cause be granted, it is impossible that an effect can follow.
 
 - Definite cause: a cause that is known and can be predicted (we will talk about what prediction means).
 - Effect: the result of the cause. (the ball lands in the basket)
      - For example: if we exactly throw the ball at the right direction, speed and angle, then the ball has no choice but to land in the basket.
-- Last parts argues that it's not possible to have an effect without a cause, affect can't happen without a cause. he argues that what ever happens in the universe has a cause, otherwise it can't happen.
+- Last parts argues that it's not possible to have an effect without a cause, effect can't happen without a cause. he argues that what ever happens in the universe has a cause, otherwise it can't happen.
 
-Consider any event that happened:
+Consider any event that has happened:
 
 The event has a cause or a set of causes.
-The event, which has shaped from cause to affect, will be the cause of the next affect or set of affects.
+The event, which has shaped from cause to effect, will be the cause of the next effect or set of effect.
 
 ### Nothing can't come from nothing
 
@@ -91,16 +91,16 @@ This is what people mismatch with randomness, they think that it's random, but i
 Things are pseudo random, till we don't know the reason behind it, only the logic is too complicated for us to understand.
 What you might consider as random/pseudo random is reflecting the systematic chaos of the nature that we can't predict.
 
-### The lines of cause and affect to infinity
+### The lines of cause and effect to infinity
 
-We notice that when a cause happens, affect necessarily follows, and then the affect itself becomes a cause for the next affect, and so on.
+We notice that when a cause happens, effect necessarily follows, and then the effect itself becomes a cause for the next effect, and so on.
 
 > [1P28](https://ethica.bc.edu/#/element/1P28): Every individual thing, or everything which is finite and has a conditioned existence, cannot exist or be conditioned to act unless it is conditioned to exist and act by another cause, which is also finite and has a conditioned existence, and this likewise cannot exist or be conditioned to act unless it is conditioned by another cause, and this by another, and so on to infinity.
 
-- Example of a long cause and affect line in human history that we can see is the evolution of humans from the first cell to the human being.
-     - The process of our evolution is a long line of cause and affect that we can see in the history of the earth, which has caused many other affects in the world by our necessary existence and necessary actions.
+- Example of a long cause and effect line in human history that we can see is the evolution of humans from the first cell to the human being.
+     - The process of our evolution is a long line of cause and effect that we can see in the history of the earth, which has caused many other effects in the world by our necessary existence and necessary actions.
 
-### Backward traversing the lines of cause and affect
+### Backward traversing the lines of cause and effect
 
 Consider the event of discovering the continent of America by Columbus:
 
@@ -166,9 +166,9 @@ Consider the event of discovering the continent of America by Columbus:
       - **Why did the Big Bang happen?**
            - Because of the necessary causes that made it happen.
 
-So we can see the chain of cause and affect, now let's change it.
-To change this process of causes and affects of this event, we need to change one of the causes in the chain, and the effect will change.
-But it's not that simple, because every cause that leads to affect, has causes that made it happen, and so on.
+So we can see the chain of cause and effect, now let's change it.
+To change this process of causes and effects of this event, we need to change one of the causes in the chain, and the effect will change.
+But it's not that simple, because every cause that leads to effect, has causes that made it happen, and so on.
 So to change any cause that happens in the universe, we need to go back to Big bang and change the first cause that made the universe happen with the rules we want, and then the effect will change.
 So we see that everything is connected, and everything has a cause, and everything has an effect.
 

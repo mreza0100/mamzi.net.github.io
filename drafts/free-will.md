@@ -1,0 +1,37 @@
+PROP. XLVIII. In the mind there is no absolute or free will; but the mind is determined to wish this or that by a cause, which has also been determined by another cause, and this last by another cause, and so on to infinity.
+
+Proof.—The mind is a fixed and definite mode of thought (II. xi.), therefore it cannot be the free cause of its actions (I. xvii. Coroll. ii.); in other words, it cannot have an absolute faculty of positive or negative volition; but (by I. xxviii.) it must be determined by a cause, which has also been determined by another cause, and this last by another, &c. Q.E.D.
+
+Note.—In the same way it is proved, that there is in the mind no absolute faculty of understanding, desiring, loving, &c. Whence it follows, that these and similar faculties are either entirely fictitious, or are merely abstract and general terms, such as we are accustomed to put together from particular things. Thus the intellect and the will stand in the same relation to this or that idea, or this or that volition, as "lapidity" to this or that stone, or as "man" to Peter and Paul. The cause which leads men to consider themselves free has been set forth in the Appendix to Part I. But, before I proceed further, I would here remark that, by the will to affirm and decide, I mean the faculty, not the desire. I mean, I repeat, the faculty, whereby the mind affirms or denies what is true or false, not the desire, wherewith the mind wishes for or turns away from any given thing. After we have proved, that these faculties of ours are general notions, which cannot be distinguished from the particular instances on which they are based, we must inquire whether volitions themselves are anything besides the ideas of things. We must inquire, I say, whether there is in the mind any affirmation or negation beyond that, which the idea, in so far as it is an idea, involves. On which subject see the following proposition, and II. Def. iii., lest the idea of pictures should suggest itself. For by ideas I do not mean images such as are formed at the back of the eye, or in the midst of the brain, but the conceptions of thought.
+
+PROP. XLIX. There is in the mind no volition or affirmation and negation, save that which an idea, inasmuch as it is an idea, involves.
+
+Proof.—There is in the mind no absolute faculty of positive or negative volition, but only particular volitions, namely, this or that affirmation, and this or that negation. Now let us conceive a particular volition, namely, the mode of thinking whereby the mind affirms, that the three interior angles of a triangle are equal to two right angles. This affirmation involves the conception or idea of a triangle, that is, without the idea of a triangle it cannot be conceived. It is the same thing to say, that the concept A must involve the concept B, as it is to say, that A cannot be conceived without B. Further, this affirmation cannot be made (II. Ax. iii.) without the idea of a triangle. Therefore, this affirmation can neither be nor be conceived, without the idea of a triangle. Again, this idea of a triangle must involve this same affirmation, namely, that its three interior angles are equal to two right angles. Wherefore, and vice versâ, this idea of a triangle can neither be nor be conceived without this affirmation, therefore, this affirmation belongs to the essence of the idea of a triangle, and is nothing besides. What we have said of this volition (inasmuch as we have selected it at random) may be said of any other volition, namely, that it is nothing but an idea. Q.E.D.
+
+A volition/will is essentially an idea. that
+
+# Corollary.—Will and understanding are one and the same.
+
+Proof.—Will and understanding are nothing beyond the individual volitions and ideas (II. xlviii. and note). But a particular volition and a particular idea are one and the same (by the foregoing Prop.); therefore, will and understanding are one and the same. Q.E.D.
+
+> Note: Note.—We have thus removed the cause which is commonly assigned for error. For we have shown above, that falsity consists solely in the privation of knowledge involved in ideas which are fragmentary and confused. Wherefore, a false idea, inasmuch as it is false, does not involve certainty. When we say, then, that a man acquiesces in what is false, and that he has no doubts on the subject, we do not say that he is certain, but only that he does not doubt, or that he acquiesces in what is false, inasmuch as there are no reasons, which should cause his imagination to waver (see II. xliv. note). Thus, although the man be assumed to acquiesce in what is false, we shall never say that he is certain. For by certainty we mean something positive (II. xliii. and note), not merely the absence of doubt.
+
+- Falsity comes from limited knowledge, in a way that person has no doubt, but he is not certain.
+- Certainty is positive, not just the absence of doubt. If you don't have doubt, it does not mean you are certain.
+- Certainty comes from understanding things in a conditioned way, for example in the triangle, you are certain because you understand the nature of triangle(as A) with its properties(as B) and related conceive one through the other(B from A).
+
+> I begin, then, with the first point, and warn my readers to make an accurate distinction between an idea, or conception of the mind, and the images of things which we imagine. It is further necessary that they should distinguish between idea and words, whereby we signify things. These three—namely, images, words, and ideas—are by many persons either entirely confused together, or not distinguished with sufficient accuracy or care, and hence people are generally in ignorance, how absolutely necessary is a knowledge of this doctrine of the will, both for philosophic purposes and for the wise ordering of life.
+
+Maybe I remove this part, as it's not directly related to the point
+
+> Those who think that ideas consist in images which are formed in us by contact with external bodies, persuade themselves that the ideas of those things, whereof we can form no mental picture, are not ideas, but only figments, which we invent by the free decree of our will; they thus regard ideas as though they were inanimate pictures on a panel, and, filled with this misconception, do not see that an idea, inasmuch as it is an idea, involves an affirmation or negation. Again, those who confuse words with ideas, or with the affirmation which an idea involves, think that they can wish something contrary to what they feel, affirm, or deny. This misconception will easily be laid aside by one, who reflects on the nature of knowledge, and seeing that it in no wise involves the conception of extension, will therefore clearly understand, that an idea (being a mode of thinking) does not consist in the image of anything, nor in words. The essence of words and images is put together by bodily motions, which in no wise involve the conception of thought.
+
+These 3 are different and confusing them leads to ignorance and misunderstanding of the nature of ideas.
+
+Ideas: Conceptions of the mind involving affirmations or negations.
+Images: Mental pictures formed by interactions with external bodies.
+Words: Symbols used to signify things.
+
+Ideas vs. Images: Ideas are mental affirmations, not just mental pictures.
+Ideas vs. Words: Words signify things but are not the same as ideas.
+Philosophical Importance: Clear distinction helps avoid confusion and error in reasoning.

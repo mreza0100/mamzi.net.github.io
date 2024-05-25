@@ -70,7 +70,7 @@ Nature is absolutely infinite, and it's indivisible, it's one unified field, and
 > [1P3](https://ethica.bc.edu/#/element/1P3) Two substances having different attributes have nothing in common with one another.
 
 Spinoza was looking at physical world and mind environment as 2 different things, and they have nothing in common with each other, an idea in your mind can't be shared with the physical world, and vice versa.
-He explain everything about both environments and how they contribute to the casualty of the universe, you can read about mind under life section (if I have written it yet).
+He explain everything about both environments and how they contribute to the causality of the universe, you can read about [mind](/life/mind) under life section.
 
 For more info of this P take a look at [God]({/universe/god/)
 

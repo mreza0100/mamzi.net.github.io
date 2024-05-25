@@ -1,5 +1,6 @@
-import { PageLayout } from "../../src/components";
+import { Image, PageLayout } from "../../src/components";
 import Markdown from "../../src/components/Markdown";
+import { ImageSize } from "../../src/shared/enums";
 
 const content = `
 Requirements to know:
@@ -61,7 +62,7 @@ Many people might think, so now that things exactly happen in the way they do, d
 
 <!-- TODO add meaning page link -->
 
-### Relationships between causes and effects and casualty levels in perfect time
+### Relationships between causes and effects and causality levels in perfect time
 
 - Many to many - Network causality
 
@@ -133,7 +134,7 @@ Because time is infinity perfect, the causes and affect between a cause and effe
 For now consider moment as the smallest unit of time, but briefly what I mean here:
 
 Because there are infinite moments in a second, time is infinity perfect.
-I will talk more about this [perfect time] and casualty later on, the concept of [infinite perfection] deserves to have its own post.
+I will talk more about this [perfect time] and causality later on, the concept of [infinite perfection] deserves to have its own post.
 
 <!-- ### The interfaces and cross attribute causality
 
@@ -244,6 +245,12 @@ I will talk about this in details in the mind section under life later on.
 const Article = () => {
 	return (
 		<PageLayout blogwithsidebar>
+			<Image
+				className="mt-5"
+				src="/public/images/chaos-system.jpg"
+				alt="butterfly effect - chaos theory"
+				size={ImageSize.DEFAULT}
+			/>
 			<Markdown>{content}</Markdown>
 		</PageLayout>
 	);

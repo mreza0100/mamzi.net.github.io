@@ -120,7 +120,7 @@ const content = `
   
   <!--
   - [Ethics and Spinoza](/everything/spinoza-and-ethics/)
-  - Cause and affect
+  - Cause and effect
   - Our perspective, understanding and point of view
   - Substance, Mode and attributes
   

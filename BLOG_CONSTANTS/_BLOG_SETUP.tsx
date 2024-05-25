@@ -5,7 +5,7 @@ import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 export const MAMZI: IAuthor = {
 	name: "Mamzi Khosravi",
 	designation: "Software Engineer and Thinker",
-	bio: "A software engineer who thinks with a common sense",
+	bio: "A software engineer and a thinker with common sense",
 
 	profilePic: "",
 	social: [

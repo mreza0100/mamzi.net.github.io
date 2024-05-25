@@ -53,7 +53,7 @@ const content = `
 - People think that stone moved because of a reason and there was a meaning in it
 - People would not believe it happen by chance
 - If you explain that it was wind blowing, they ask why wind was blowing
-- They continue looking for meaning in the causes of that effect till you accept the
+- They continue looking for meaning in the causes of that effect till you accept the existence of 
 - Ignorance of causes
 
 > So, again, when they survey the frame of the human body, they are amazed; and being ignorant of the causes of so great a work of art, conclude that it has been fashioned, not mechanically, but by divine and supernatural skill, and has been so put together that one part shall not hurt another.
