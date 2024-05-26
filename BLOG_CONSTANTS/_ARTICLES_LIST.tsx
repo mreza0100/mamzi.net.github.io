@@ -295,7 +295,7 @@ const LIFE: iArticle[] = [
 		url: "/life/mind/emotions",
 		path: "/pages/life/mind/emotions.tsx",
 		featureArticle: false,
-		isPublished: true,
+		isPublished: false,
 		preview: {
 			author: MAMZI,
 			date: "May 26 2024",

@@ -11,7 +11,7 @@ const nextConfig = {
 		path: "",
 		unoptimized: true,
 	},
-	pageExtensions: ["tsx"],
+	pageExtensions: ["page.tsx"],
 };
 
 module.exports = nextConfig;
