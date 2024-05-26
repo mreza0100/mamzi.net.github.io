@@ -7,7 +7,7 @@ import { iSEO } from "../src/shared/interfaces";
 const AboutUs = () => {
 	const PAGE_SEO: iSEO = {
 		title: "Mamzi Khosravi - About Me",
-		description: `A software engineer with a common sense`,
+		description: `Software developer and thinker`,
 		keywords: "Mamzi Khosravi Software Engineering Thinker Philosophy",
 		author: "Mamzi Khosravi",
 	};
@@ -57,8 +57,7 @@ const AboutUs = () => {
 				<h3>What is the purpose of this blog?</h3>
 				<Text>
 					Just writing, human does do everything with an end goal in mind,
-					but I just want to do This. This blog with grow as my
-					observations change over time.
+					but I want to develope it as my obsession grows.
 				</Text>
 			</section>
 		</PageLayout>

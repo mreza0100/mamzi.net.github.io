@@ -71,9 +71,9 @@ In many sentences in your day to day life, you can easily change the word "God" 
 - Being absolutely infinite: Not limited by anything, it's infinite.
 - Substance: It's the nature itself, which is the building block of everything.
 - Attributes: It's the characteristics of the substance, which is the nature itself.
-- Eternal and infinite essentiality: Refers to essence of nature, its self cause, it's essential for it be eternal and infinite. It's infinity essential to be eternal and infinite.
+- Eternal and infinite essentiality: Refers to essence of nature, its self cause, it's essential for it be eternal and infinite. it's infinitely essential to be eternal and infinite.
 
-By God, Spinoza means a absolutely infinite and not limited by anything. A substance being with infinite attributes each expose eternal essentiality (It's infinity essential to exist eternally).
+By God, Spinoza means a absolutely infinite and not limited by anything. A substance being with infinite attributes each expose eternal essentiality (it's infinitely essential to exist eternally).
 God is the underlying reality of everything, nothing can conceive without God, because everything is part of God.
 
 Attribute and substance do not has the same meaning as you think, if you are curious about it, you can read more about it here: [Building blocks of our universe](/universe/building-blocks/)

@@ -79,6 +79,7 @@ const MarkdownStyles = styled("article")(props => ({
 		["padding-left"]: "1em",
 		fontSize: "1.1em",
 		color: "#f88400",
+		strong: {},
 	},
 }));
 

@@ -4,8 +4,8 @@ import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 
 export const MAMZI: IAuthor = {
 	name: "Mamzi Khosravi",
-	designation: "Software Engineer and Thinker",
-	bio: "A software engineer and a thinker with common sense",
+	designation: "Software Developer and Thinker",
+	bio: "software developer and thinker with common sense",
 
 	profilePic: "",
 	social: [
@@ -39,7 +39,7 @@ export const PRIMARY_NAV: iNavSetup = {
 	// },
 	logo: {
 		type: LogoType.TEXT,
-		logo: "Mamzi's Blog! The Ultimate Answer to Life, the Universe and Everything!",
+		logo: "Mamzi's Blog!",
 	},
 	// navLinks are the main navbar links that apper on top of every page
 	navLinks: [

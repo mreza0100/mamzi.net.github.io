@@ -7,7 +7,7 @@ const content = `
 
 It's important to understand what he was trying to do first.
 
-He was trying to model the world in a way that it make sense with logic.
+He was trying to model the world in a way that it makes sense with logic.
 To do that you have to define everything from the ground up and make abstract model of things.
 Only then you can start to play with the model and make propositions and corollaries from them.
 
@@ -44,7 +44,7 @@ Some examples of substance:
 
 Essentiality refers to the core nature of something, its fundamental properties that define its existence. In the context of Spinoza’s philosophy:
 
-Essentiality and Causality: Essentiality is intrinsically linked to cause and effect. Spinoza believed that the essence of a thing includes the necessity of its existence and the actions that follow from it. The nature of something dictates how it interacts with and affects other things. It's related to the concept of causality, where the essence of a thing determines its effects on other things.
+Essentiality and Causality: Essentiality is intrinsically linked to cause and effect. Spinoza believed that the essence of a thing includes the necessity of its existence and the actions that follow from it. The nature of something dictates how it interacts with and effects other things. It's related to the concept of causality, where the essence of a thing determines its effects on other things.
 For example 2 substance which react differently to the same cause, because of their essence:
 
 - Iron: When exposed to fire, iron heats up and eventually melts but maintains its structure longer due to its high melting point.
@@ -86,7 +86,7 @@ Think of mode as the state of substance, in which exposes the attribute of the s
 - We know that substance is the fundamental building block of the universe.
 - We know substance has a core/underlying nature called essence.
 - This essence is the reason for the existence of the substance, and also the cause of the effects of the substance.
-- Essence for a substance is the reason of it's existence, and the cause of the effects of it.
+- Essence for a substance is the reason of it's existence, and the cause of the effects on it.
 
 #### Mode of extension:
 
