@@ -84,7 +84,7 @@ There are 2 topics that confirm causality in brain
 > [2P1](https://ethica.bc.edu/#/element/2P1): Thought is an attribute of God, or God is a thinking thing.
 
 - Because our thoughts come from body(brain/head), and our body is in nature, and nature is God, so our thoughts are from God.
-- This does not indicate that God is a thinking thing, but God is a substance that has thought as an attribute.
+- This does not indicate that God is a thinking thing, but God is a substance that has thought as an attribute, and because our thoughts are inside God, then God is a thinking thing.
      - God does not think, but God is a thinking thing, because God is a substance that has thought as an attribute, so nature has the characteristic of mind.
 
 <!--
@@ -353,6 +353,14 @@ What we do in action is a direct result of our ideas, our action and ideas are t
 
 Now since our will is a direct result of our ideas, the true will is in understanding subject and having adequate ideas.
 I'll explain more on [free-will](/life/mind/free-will) and also more on [knowledge](/life/mind/knowledge)
+
+<!--
+## Conclusion
+
+1. We are not separated
+2. Mind is not perfect, nether body, there are lots of errors and misunderstanding in our commination and interpretation.
+-->
+
 
 <!--
 // TODO: check later

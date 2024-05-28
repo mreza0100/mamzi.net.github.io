@@ -1,3 +1,6 @@
+const pageExtensions =
+	process.env.NODE_ENV === "development" ? ["draft.tsx", "page.tsx"] : ["page.tsx"];
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
 	output: "export",
@@ -11,7 +14,7 @@ const nextConfig = {
 		path: "",
 		unoptimized: true,
 	},
-	pageExtensions: ["page.tsx"],
+	pageExtensions,
 };
 
 module.exports = nextConfig;

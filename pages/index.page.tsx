@@ -94,8 +94,7 @@ I strive to keep it that way, and I hope you also find it useful.
      - [Body](${getPageURL(ArticlesKeys.Body)})
      - [Meaning](${getPageURL(ArticlesKeys.Meaning)})
 - Everything
-
-- [Spinoza and Ethics](${getPageURL(ArticlesKeys.SpinozaEthics)})
+     - [Spinoza and Ethics](${getPageURL(ArticlesKeys.SpinozaEthics)})
 
      
 ### Be my feedback loop

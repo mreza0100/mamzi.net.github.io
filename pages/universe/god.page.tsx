@@ -9,21 +9,24 @@ Spinoza defined all the words from the ground up, the word God, does not have th
 
 ## Nature
 
-It's equal to Universe, which I explained here: [Universe](/universe/)
+It's equal to Universe, which I explained in [Universe](/universe/) page.
 
 ## Spinoza definition of God
 
 First of all, Spinoza's God is fairly famous, but it's not well understood.
-When they asked [Albert Einstein](https://nds-nl.wikipedia.org/wiki/Albert_Einstein) if he believed in God, he said: "I believe in Spinoza's God".
+When they asked [Albert Einstein](https://nds-nl.wikipedia.org/wiki/Albert_Einstein) if he believed in God,
+ he said:
+> I believe in Spinoza's God who reveals himself in the orderly harmony of what exists, not in a God who concerns himself with the fates and actions of human beings.
+
 Don't you want to know Einstein's God? I do!
 
 Spinoza was looking at God, as the nature itself.
 God to him, is the creator of everything.
 God is the cause of everything.
 God is the essence of everything.
-God is the reason that cause and effect
-God is what makes existence possible
-God is what sits between cause and effect and makes it possible
+God is the reason of cause and effect.
+God is what makes existence possible.
+God is what sits between cause and effect and makes it possible.
 
 - What is controlling your heart to beat?
      - It's a complex great number of cause and effect that makes it beat.
@@ -37,6 +40,7 @@ For Spinoza, God was the nature itself.
 We are part of the Nature, so we are part of God.
 But, for Spinoza, you and the door are both substance, because you are part of the nature, and the door is also part of the nature, so you and the door are part of the same thing, which he calls God.
 So, don't think that you are God; you are part of God just as much as the door is.
+
 
 > [2P10](https://ethica.bc.edu/#/element/2P10) The being of substance does not appertain to the essence of man—in other words, substance does not constitute the actual being of man.
 
