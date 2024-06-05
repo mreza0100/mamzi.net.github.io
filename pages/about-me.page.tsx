@@ -14,51 +14,72 @@ const AboutUs = () => {
 	return (
 		<PageLayout PAGE_SEO={PAGE_SEO} home>
 			<section className="container px-3 md:pb-20 md:pt-10 pt-20">
-				<div className="">
+				<div>
 					<Text
 						title
 						className="mb-5 mt-10 dark:text-sky-400 text-sky-600"
 					>
-						My name is Mamzi
+						I'm Mamzi
 					</Text>
-					<Text subtitle className="text-xl mb-5">
-						This is an open source blog hosted by Github Pages and used
+					<Text className="text-s mb-5">
+						This is an open source blog hosted by Github Pages using
 						<a href="https://github.com/webexpe13/blog-template-using-nextjs-typescript-tailwindcss">
-							blog-template-using-nextjs-typescript-tailwindcss
+							[this template]
 						</a>
-						as it's react template.
 					</Text>
 				</div>
-
-				<Text>
-					I have made this blog to write my ideas and thoughts about
-					everything.
+				<div>
+					<h5>Why I made this blog?</h5>
+					<span>
+						This is my personal Doctrine as the guide to Life, Universe
+						and everything. I have decided to make this manifesto
+						online so others may use in variant ways for themselves. I
+						have to point out that unfortunately this doctrine is not
+						yet completed. You see, because the answer to Life,
+						Universe and everything is everything, it cannot finish
+						anytime soon and it will be permanently under construction.
+						So thank you for your patience, I strive to write and grow
+						it as I change my obsession and fit it into this wild
+						picture.
+					</span>
+				</div>
+				<div>
 					<br />
-					This is a good chance for me to write my thoughts in an organized
-					way. Also it's a good thing to work with React as it's been a
-					while I haven't touched these stuffs.
-				</Text>
-				<h3>Why did I named it like this?</h3>
-				<Text>
-					Because this way I can write about any topic I want. I can write.
-				</Text>
-
-				<h3>Why Spinoza?</h3>
-				<Text>
-					Spinoza has answered the question before, after reading and
-					understanding him, I found a framework of thinking to proof
-					reality and the world we live in. So I decided to restructure it
-					in the context of ultimate question and use it as the framework
-					of my blog, so others can also use. So far, this has been my most
-					ambitious attempt to get into details of any Philosophy and I
-					have the goal in mind to complete it over the time of my life.
-				</Text>
-
-				<h3>What is the purpose of this blog?</h3>
-				<Text>
-					Just writing, human does do everything with an end goal in mind,
-					but I want to develope it as my obsession grows.
-				</Text>
+					<br />
+					<h2>FAQ</h2>
+					<List>
+						<li>
+							What are the quotes I see in between text?
+							<List>
+								<li>
+									Every quote has a reference link that you
+									can check out. But it's mostly Spinoza
+								</li>
+							</List>
+						</li>
+						<li>
+							Why Spinoza
+							<List>
+								<li>
+									I have restructured Spinoza's Ethics as
+									to fit into the picture of the ultimate
+									question. His way of thinking and the
+									Doctrine of him is spectacularly
+									magnificent and wondering. It's been one
+									of the best guides I have found to
+									explain how life and universe works. This
+									is a mental framework which helps you
+									understand reality. If you are interested
+									to know more, you can read
+									<br />
+									<a href="/everything/spinoza-ethics">
+										spinoza and ethics
+									</a>
+								</li>
+							</List>
+						</li>
+					</List>
+				</div>
 			</section>
 		</PageLayout>
 	);

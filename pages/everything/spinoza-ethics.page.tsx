@@ -3,8 +3,8 @@ import { Image, PageLayout, Text } from "../../src/components";
 import Markdown from "../../src/components/Markdown";
 import { ImageSize } from "../../src/shared/enums";
 
-const content = `
-
+const content = [
+	`
 # Spinoza and Ethics - The ground proof framework
 
 #### A quick recap on who he was, what he did, and what happened to him
@@ -35,9 +35,16 @@ He was trying to prove his ideas in a deduced way of [Euclid](https://en.wikiped
 ### Just so you get how it looks like:
 
 <div style="text-align:center">
-
+`,
+	<Image
+		key={null}
+		src="/images/ethics-map.png"
+		alt="Spinoza Ethics proposition map"
+		size={ImageSize.DEFAULT}
+	/>,
+	`
 <img
-src="/images/ethics-map.png"
+src="/images/ethics-map.png2"
 alt="ethics-deductive-map"
 title="ethics-map"
 width="100%"
@@ -143,18 +150,21 @@ But if you define religion as a way of living and set of rules to follow, then y
 [Mapping Spinoza's Ethics](https://ethica.bc.edu/#/graph)
 
 [Standford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/spinoza/)
-`;
+`,
+];
 
 const Article = () => {
 	return (
 		<PageLayout blogwithsidebar>
-			<Image
-				className="mt-5"
-				src="/public/images/spinoza-ethics.jpg"
-				alt="universe"
-				size={ImageSize.DEFAULT}
-			/>
-			<Markdown>{content}</Markdown>
+			<>
+				<Image
+					className="mt-5"
+					src="/public/images/spinoza-ethics.jpg"
+					alt="universe"
+					size={ImageSize.DEFAULT}
+				/>
+				<Markdown>{content}</Markdown>
+			</>
 		</PageLayout>
 	);
 };

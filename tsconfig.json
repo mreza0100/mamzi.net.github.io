@@ -13,30 +13,13 @@
 		"resolveJsonModule": true,
 		"isolatedModules": true,
 		"jsx": "preserve",
-		"incremental": true,
+		"incremental": false,
 		"baseUrl": "/",
 		"importHelpers": true,
 		"paths": {
 			"@/src/*": ["/src/*"]
 		}
 	},
-	"include": [
-		"next-env.d.ts",
-		"**/*.ts",
-		"**/*.tsx",
-		"tailwind.config.jsm",
-		"/src/components/index.ts",
-		"src/components/index.ts",
-		"src/components/CodeBlock/style.js",
-		"pages/**/*",
-		"src/**/*",
-		"src/**/*.ts",
-		"src/**/*.tsx",
-		"src",
-		"pages/blog",
-		"tmp/tutorial",
-		"tmp/draft/idea",
-		"tmp/draft/emotions"
-	],
+	"include": ["next-env.d.ts", "tailwind.config.jsm", "pages/**/*", "src/**/*"],
 	"exclude": ["node_modules", "tmp", ".next", "out", "build"]
 }

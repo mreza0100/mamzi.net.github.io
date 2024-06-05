@@ -25,18 +25,22 @@ What is a extend thing? it's a thing that has a length, width, and height.
 
 Body expresses in a certain and determinate manner the essence of God( substance ), in so far as he is considered as an extended thing, in so far as he is displayed through the attributes of extension.
 
+If you want to know more of body and connections to mind, you can read [mind](/life/mind)
+
 `;
 
 const Article = () => {
 	return (
 		<PageLayout blogwithsidebar>
-			<Image
-				className="mt-5"
-				src="/public/images/body.webp"
-				alt="universe"
-				size={ImageSize.DEFAULT}
-			/>
-			<Markdown>{content}</Markdown>
+			<>
+				<Image
+					className="mt-5"
+					src="/public/images/body.webp"
+					alt="universe"
+					size={ImageSize.DEFAULT}
+				/>
+				<Markdown>{content}</Markdown>
+			</>
 		</PageLayout>
 	);
 };

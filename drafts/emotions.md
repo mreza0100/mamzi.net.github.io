@@ -65,7 +65,9 @@ PROP. XXIV. If we conceive that anyone pleasurably affects an object of our hate
 - You hate Taylor swift, you see someone who likes her, you feel hatred towards them.
 - You hate Taylor swift, you see someone who hates her, you feel love towards them.
 
-XXVII.Corollary1 I. If we conceive that anyone, whom we have hitherto regarded with no emotion, pleasurably affects something similar to ourselves, we shall be affected with love towards him. If, on the other hand, we conceive that he painfully affects the same, we shall be affected with hatred towards him.
+---
+
+27.Corollary1 I. If we conceive that anyone, whom we have hitherto regarded with no emotion, pleasurably affects something similar to ourselves, we shall be affected with love towards him. If, on the other hand, we conceive that he painfully affects the same, we shall be affected with hatred towards him.
 
 XXVII.Corollary2 We cannot hate a thing which we pity, because its misery affects us painfully.
 

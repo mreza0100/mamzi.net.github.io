@@ -197,13 +197,15 @@ Almost everything else you have in mind about God, is the same with Spinoza's Go
 const Article = () => {
 	return (
 		<PageLayout blogwithsidebar>
-			<Image
-				className="mt-5"
-				src="/public/images/god.webp"
-				alt="universe"
-				size={ImageSize.DEFAULT}
-			/>
-			<Markdown>{content}</Markdown>
+			<>
+				<Image
+					className="mt-5"
+					src="/public/images/god.webp"
+					alt="universe"
+					size={ImageSize.DEFAULT}
+				/>
+				<Markdown>{content}</Markdown>
+			</>
 		</PageLayout>
 	);
 };

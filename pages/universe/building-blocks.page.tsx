@@ -15,7 +15,7 @@ The way to do it is to start from the most general forms of things, and then set
 
 ## Attributes, Substance, and Modes
 
-Each of them are related to each other, to understand one of them you need to understand the others, so you need to be patient.
+Each of them are related to each other, to understand one of them you need to understand the others, so you need to be patience.
 They do not have the same meaning as in English, they are defined by him in his book as abstracts to make sense of the universe.
 
 ### Substance
@@ -154,13 +154,15 @@ We have 3 redefined words that are the building blocks of the universe:
 const Article = () => {
 	return (
 		<PageLayout blogwithsidebar>
-			<Image
-				className="mt-5"
-				src="/public/images/building-blocks.png"
-				alt="substance attributes modes"
-				size={ImageSize.DEFAULT}
-			/>
-			<Markdown>{content}</Markdown>
+			<>
+				<Image
+					className="mt-5"
+					src="/public/images/building-blocks.png"
+					alt="substance attributes modes"
+					size={ImageSize.DEFAULT}
+				/>
+				<Markdown>{content}</Markdown>
+			</>
 		</PageLayout>
 	);
 };

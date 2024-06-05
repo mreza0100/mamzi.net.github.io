@@ -15,13 +15,15 @@ const content = `
 const Article = () => {
 	return (
 		<PageLayout blogwithsidebar>
-			<Image
-				className="mt-5"
-				src="/public/images/perfection.webp"
-				alt=""
-				size={ImageSize.DEFAULT}
-			/>
-			<Markdown>{content}</Markdown>
+			<>
+				<Image
+					className="mt-5"
+					src="/public/images/perfection.webp"
+					alt=""
+					size={ImageSize.DEFAULT}
+				/>
+				<Markdown>{content}</Markdown>
+			</>
 		</PageLayout>
 	);
 };

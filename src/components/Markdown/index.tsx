@@ -65,7 +65,7 @@ const MarkdownStyles = styled("article")(props => ({
 		margin: "1em 0",
 	},
 	"& a": {
-		color: "blue",
+		// color: "blue",
 	},
 	"& ul": {
 		paddingInlineStart: "1em",
@@ -79,7 +79,12 @@ const MarkdownStyles = styled("article")(props => ({
 		["padding-left"]: "1em",
 		fontSize: "1.1em",
 		color: "#f88400",
-		strong: {},
+		["a"]: {
+			color: "red",
+			":hover": {
+				color: "ActiveBorder",
+			},
+		},
 	},
 }));
 

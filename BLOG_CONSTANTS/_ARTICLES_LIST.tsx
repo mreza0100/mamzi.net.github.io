@@ -5,20 +5,70 @@ import { MAMZI } from "./_BLOG_SETUP";
 
 export enum ArticlesKeys {
 	Home = "Home",
+	Everything = "Everything",
 	Universe = "Universe",
 	Life = "Life",
 	Causality = "Causality",
 	God = "God",
-	BuildingBlocks = "Building_Blocks",
+	BuildingBlocks = "Building Blocks",
 	Miracles = "Miracles",
 	Perfection = "Perfection",
 	Meaning = "Meaning",
 	Body = "Body",
 	Mind = "Mind",
 	Emotions = "Emotions",
-	SpinozaEthics = "Spinoza_Ethics",
+	SpinozaEthics = "Spinoza Ethics",
 	Stack = "Stack",
 }
+
+export type IArticleBranch = {
+	key: ArticlesKeys;
+	title?: string;
+	children?: IArticlesTree;
+	url?: string;
+	shallow?: boolean;
+};
+
+export type IArticlesTree = (IArticleBranch | ArticlesKeys)[];
+
+export const ArticlesTree: IArticlesTree = [
+	{
+		key: ArticlesKeys.Home,
+		title: "Home",
+		url: "/",
+		children: [
+			{
+				key: ArticlesKeys.Universe,
+				children: [
+					ArticlesKeys.BuildingBlocks,
+					{
+						key: ArticlesKeys.God,
+						title: "God or Nature",
+					},
+					ArticlesKeys.Causality,
+					ArticlesKeys.Miracles,
+				],
+			},
+			{
+				key: ArticlesKeys.Life,
+				children: [
+					{ key: ArticlesKeys.Mind, children: [ArticlesKeys.Emotions] },
+					ArticlesKeys.Body,
+					ArticlesKeys.Meaning,
+				],
+			},
+			{
+				key: ArticlesKeys.Everything,
+				shallow: true,
+				children: [
+					{
+						key: ArticlesKeys.SpinozaEthics,
+					},
+				],
+			},
+		],
+	},
+];
 
 // clear this article list and add your own
 const UNIVERSE: iArticle[] = [
@@ -31,17 +81,17 @@ const UNIVERSE: iArticle[] = [
 		preview: {
 			author: MAMZI,
 			date: "May 22 2024",
-			articleTitle: "Main Page",
+			articleTitle: "Home Page",
 			tags: "life, universe, everything, answer, question, blog, 42",
 			thumbnail: "/public/images/42.png",
 			shortIntro:
-				"The main page of the ultimate answer to life, the universe, and everything.",
+				"The home page of the ultimate answer to life, the universe, and everything.",
 			category: "Universe",
 		},
 		seo: {
 			title: "Mamzi's Blog",
 			description:
-				"The main page of the ultimate answer to life, the universe, and everything.",
+				"The home page of the ultimate answer to life, the universe, and everything.",
 			keywords: "life, universe, everything, answer, question, blog, 42",
 			ogImage: "/public/images/42.png",
 			author: MAMZI.name,
@@ -171,7 +221,7 @@ const UNIVERSE: iArticle[] = [
 		url: "/universe/perfection",
 		path: "/pages/universe/perfection.tsx",
 		featureArticle: true,
-		isPublished: true,
+		isPublished: false,
 		preview: {
 			author: MAMZI,
 			date: "May 23 2024",
@@ -278,7 +328,7 @@ const LIFE: iArticle[] = [
 			date: "May 22 2024",
 			articleTitle: "Mind",
 			tags: "Spinoza, Ethics, Mind, Idea, Feelings, Emotions, Memory",
-			thumbnail: "/public/images/mind.jpg",
+			thumbnail: "/public/images/mind.webp",
 			shortIntro: "Spinoza's view on the mind, idea, memory as a substance",
 			category: "Life",
 		},
@@ -286,7 +336,7 @@ const LIFE: iArticle[] = [
 			title: "Mind",
 			description: "Spinoza's view on the mind, idea, memory as substance",
 			keywords: "Spinoza, Ethics, mind, idea, memory, substance, attribute, thought",
-			ogImage: "/public/images/mind.jpg",
+			ogImage: "/public/images/mind.webp",
 			author: MAMZI.name,
 		},
 	},
@@ -294,22 +344,22 @@ const LIFE: iArticle[] = [
 		key: ArticlesKeys.Emotions,
 		url: "/life/mind/emotions",
 		path: "/pages/life/mind/emotions.tsx",
-		featureArticle: false,
-		isPublished: false,
+		featureArticle: true,
+		isPublished: true,
 		preview: {
 			author: MAMZI,
-			date: "May 26 2024",
+			date: "Jun 6 2024",
 			articleTitle: "Emotions",
 			tags: "Spinoza, Ethics, Mind, Idea, Emotions, Feelings",
-			thumbnail: "/public/images/emotions.jpg",
-			shortIntro: "Spinoza's view on the emotions and feelings as a substance",
+			thumbnail: "/public/images/life/mind/emotions/emotions-preview.jpg",
+			shortIntro: "Spinoza's view on the emotions contrariwise",
 			category: "Life",
 		},
 		seo: {
 			title: "Emotions",
 			description: "Spinoza's view on the emotions and feelings as a substance",
 			keywords: "Spinoza, Ethics, mind, idea, memory, substance, attribute, thought",
-			ogImage: "/public/images/emotions.jpg",
+			ogImage: "/public/images/life/mind/emotions/emotions-preview.jpg",
 			author: MAMZI.name,
 		},
 	},
@@ -351,6 +401,9 @@ function removeUnpublished(arts: iArticle[]): iArticle[] {
 
 const ARTICLES_LIST: iArticle[] = removeUnpublished([...UNIVERSE, ...LIFE, ...EVERYTHING]);
 
+export const FindArticleByPath = (path: string) => {
+	return ARTICLES_LIST.find(art => art.url === path);
+};
 export const SORTED_ARTICLES_BY_DATE = ARTICLES_LIST.sort((a, b) =>
 	new Date(a.preview.date) > new Date(b.preview.date) ? -1 : 1,
 );

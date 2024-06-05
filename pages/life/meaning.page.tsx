@@ -62,22 +62,27 @@ const content = `
 
 ## Conclusion
 
-Everything in Nature act with a end in view and goal
+Everything in Nature act with a end in view and goal, including us.
 
-This will lead to misconception that Nature, life, reason of things, also has a a meaningful/goal end in view.
-
+This will lead to misconception that Universe or life also has a meaning and a goal in view.
+This is the essential reason of existential panic, our expectation of finding meaning in the world
+  would met reality and that makes people very angry and sad.
+But essentially there is nothing sad about it, this is just the way that nature works,
+  and we are part of it.
 `;
 
 const Article = () => {
 	return (
 		<PageLayout blogwithsidebar>
-			<Image
-				className="mt-5"
-				src="/public/images/meaning.webp"
-				alt="universe"
-				size={ImageSize.DEFAULT}
-			/>
-			<Markdown>{content}</Markdown>
+			<>
+				<Image
+					className="mt-5"
+					src="/public/images/meaning.webp"
+					alt="universe"
+					size={ImageSize.DEFAULT}
+				/>
+				<Markdown>{content}</Markdown>
+			</>
 		</PageLayout>
 	);
 };

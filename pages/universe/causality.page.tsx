@@ -226,10 +226,13 @@ Anything that happens, happens because of the necessary, it's necessary for ever
 
 You might think that you could simply just not to read this post!
 
-Well... you can't, because you are part of the universe, and you are bound by the laws of nature.
-You see, the event that made you read this post was caused by the necessity, and you had no choice but to read it, even though our sense of free will makes us think that we have a choice in the moment, but in reality, we don't.
+Because you are part of the universe, and you are bound by the laws of nature, like everything else,
+  and we know that as long as there is cause and effect, it will happen exactly as it should.
 
-I will talk about this in details in the mind section under life later on.
+You see, the event that made you read this post was the effect of causes that pushed you to read and me to write it.
+Both are ncessesery as they have causes which followed by causes before them.
+
+You want to know how and how mind works? [go to life/mind](/life/mind)
 
 ## References
 
@@ -245,13 +248,15 @@ I will talk about this in details in the mind section under life later on.
 const Article = () => {
 	return (
 		<PageLayout blogwithsidebar>
-			<Image
-				className="mt-5"
-				src="/public/images/chaos-system.jpg"
-				alt="butterfly effect - chaos theory"
-				size={ImageSize.DEFAULT}
-			/>
-			<Markdown>{content}</Markdown>
+			<>
+				<Image
+					className="mt-5"
+					src="/public/images/chaos-system.jpg"
+					alt="butterfly effect - chaos theory"
+					size={ImageSize.DEFAULT}
+				/>
+				<Markdown>{content}</Markdown>
+			</>
 		</PageLayout>
 	);
 };

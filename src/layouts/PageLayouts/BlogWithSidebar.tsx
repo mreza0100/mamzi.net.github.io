@@ -1,8 +1,9 @@
 import classes from "./PageLayout.module.scss";
 import { combineClasses, getArticleDetails } from "../../utils/utils";
-import { SORTED_ARTICLES_BY_DATE } from "../../../BLOG_CONSTANTS/_ARTICLES_LIST";
+import { ArticlesTree, SORTED_ARTICLES_BY_DATE } from "../../../BLOG_CONSTANTS/_ARTICLES_LIST";
 import ArticleHeader from "../../components/ArticleHeader";
 import ArticleMoreFromAuthor from "../../components/Misc/ArticleMoreFromAuthor";
+import UltimateTree from "../../components/Tree";
 
 const WithSidebar = ({ children, ads }: { children: any; ads?: string[] }) => {
 	const ARTICLE_DETAILS = getArticleDetails();
@@ -34,6 +35,7 @@ const WithSidebar = ({ children, ads }: { children: any; ads?: string[] }) => {
 							author={author}
 							relatedArticles={relatedArticles}
 						/>
+						<UltimateTree />
 						{ads && ads.length ? (
 							<div className="flex flex-wrap">
 								{ads.map((each: string, i: any) => (

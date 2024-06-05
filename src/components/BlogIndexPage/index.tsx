@@ -11,9 +11,11 @@ import { AiFillCaretRight, AiFillCaretLeft } from "react-icons/ai";
 const BlogIndexPage = ({ articlesPerPage = 6 }: { articlesPerPage?: number }) => {
 	const router = useRouter();
 	const { category, author } = router.query;
+	console.log({ category });
 	const categoryArticles = SORTED_ARTICLES_BY_DATE.filter(
 		each => each.preview.category === category,
 	);
+	console.log({ categoryArticles });
 	const authorArticles = SORTED_ARTICLES_BY_DATE.filter(
 		each => each.preview.author.name === author,
 	);
@@ -65,13 +67,17 @@ const BlogIndexPage = ({ articlesPerPage = 6 }: { articlesPerPage?: number }) =>
 
 				<div className="flex flex-wrap">
 					{currentItems
-						? (currentItems as any).map((each: iArticle, i: any) => (
-								<ArticleCard
-									article={each.preview}
-									path={each.path}
-									key={i}
-								/>
-						  ))
+						? (currentItems as any).map((each: iArticle, i: any) => {
+								return (
+									each.isPublished && (
+										<ArticleCard
+											article={each.preview}
+											path={each.path}
+											key={i}
+										/>
+									)
+								);
+						  })
 						: null}
 				</div>
 

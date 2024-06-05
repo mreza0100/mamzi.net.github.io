@@ -1,10 +1,10 @@
 {
 	"name": "my-answers-to-life-universe-and-everything",
-	"homepage": "https://www.my-answers-to-life-universe-and-everything.me/",
+	"homepage": "https://www.mamzi.net/",
 	"version": "0.1.0",
 	"private": true,
 	"scripts": {
-		"deploy": "gh-pages -b gh-pages --dotfiles -d out -m 'Deploying to gh-pages' --cname ./CNAME",
+		"deploy": "gh-pages -b gh-pages --dotfiles -d out -m 'Deploying to gh-pages' --cname ./CNAME/root_content",
 		"start": "next dev",
 		"build": "next build",
 		"start-prod": "next start",
