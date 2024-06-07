@@ -2,7 +2,8 @@ import { Image, PageLayout } from "../../src/components";
 import Markdown from "../../src/components/Markdown";
 import { ImageSize } from "../../src/shared/enums";
 
-const content = `
+const content = [
+	`
 Requirements to know:
 
 - [Universe](/universe/)
@@ -169,20 +170,15 @@ Hume introduced the idea of constant conjunction where we see that one event con
 Simple answer: Nature and the laws of nature.
 These are the laws that cannot be broken, they are the laws that make the universe work the way it does.
 There are no cause and effect that happen outside the laws of nature, as long as it's happening in the nature.
-
-Consider the scale:
-
-<div style="text-align:center">
-<img
-src="/images/scale.png"
-alt="matrix"
-title="choice"
-width="55%"
-height="300px"
-style="padding: 15px; "
-/>
-</div>
-
+`,
+	<Image
+		key={Math.random()}
+		src="/images/scale.webp"
+		caption="Scale is an example of how effect every time follows cause in such a predictable way"
+		size={ImageSize.MEDIUM}
+		alt="Scale of Nature rules"
+	/>,
+	`
 What will happen if we adjust it with 10kg on the left side? and nothing on the right side?
 
 The scale will tilt to the left side, because the left side is heavier than the right side. We know that as the law of gravity, it happens every time we put something on the scale.
@@ -233,7 +229,8 @@ You see, the event that made you read this post was the effect of causes that pu
 Both are ncessesery as they have causes which followed by causes before them.
 
 You want to know how and how mind works? [go to life/mind](/life/mind)
-
+`,
+	`
 ## References
 
 [Edward Norton Lorenz#chaos theory](https://en.wikipedia.org/wiki/Edward_Norton_Lorenz)
@@ -241,9 +238,8 @@ You want to know how and how mind works? [go to life/mind](/life/mind)
 [Deterministic Nonprediodic Flow](https://www.astro.puc.cl/~rparra/tools/PAPERS/lorenz1962.pdf)
 
 [Chaos theory](https://en.wikipedia.org/wiki/Chaos_theory)
-
-
-`;
+`,
+];
 
 const Article = () => {
 	return (

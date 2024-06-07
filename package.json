@@ -4,7 +4,7 @@
 	"version": "0.1.0",
 	"private": true,
 	"scripts": {
-		"deploy": "gh-pages -b gh-pages --dotfiles -d out -m 'Deploying to gh-pages' --cname ./CNAME/root_content",
+		"deploy": "gh-pages -b gh-pages --dotfiles -d out -m 'Deploying to gh-pages' --cname ./root_content/CNAME",
 		"start": "next dev",
 		"build": "next build",
 		"start-prod": "next start",

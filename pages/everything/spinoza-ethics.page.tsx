@@ -1,5 +1,5 @@
 import { DEFAULT_SEO } from "../../BLOG_CONSTANTS/_BLOG_SETUP";
-import { Image, PageLayout, Text } from "../../src/components";
+import { Image, PageLayout } from "../../src/components";
 import Markdown from "../../src/components/Markdown";
 import { ImageSize } from "../../src/shared/enums";
 
@@ -34,25 +34,16 @@ He was trying to prove his ideas in a deduced way of [Euclid](https://en.wikiped
 
 ### Just so you get how it looks like:
 
-<div style="text-align:center">
 `,
 	<Image
-		key={null}
+		key={Math.random()}
 		src="/images/ethics-map.png"
 		alt="Spinoza Ethics proposition map"
 		size={ImageSize.DEFAULT}
+		caption="Ethics graph dependency"
+		source="https://ethica.bc.edu/#/graph"
 	/>,
 	`
-<img
-src="/images/ethics-map.png2"
-alt="ethics-deductive-map"
-title="ethics-map"
-width="100%"
-height="400px"
-style="padding: 15px; cursor: pointer;"
-onclick="window.open('https://ethica.bc.edu/#/graph')" />
-
-</div>
 
 ### Don't panic!
 

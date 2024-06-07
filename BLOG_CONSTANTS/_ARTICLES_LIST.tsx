@@ -18,6 +18,7 @@ export enum ArticlesKeys {
 	Mind = "Mind",
 	Emotions = "Emotions",
 	SpinozaEthics = "Spinoza Ethics",
+	// Ethics = "Ethics",
 	Stack = "Stack",
 }
 
@@ -391,6 +392,31 @@ const EVERYTHING: iArticle[] = [
 			author: MAMZI.name,
 		},
 	},
+	// {
+	// 	key: ArticlesKeys.Ethics,
+	// 	url: "/everything/ethics",
+	// 	path: "/pages/everything/ethics.tsx",
+	// 	featureArticle: true,
+	// 	isPublished: true,
+	// 	preview: {
+	// 		author: MAMZI,
+	// 		date: "May 15 2024",
+	// 		articleTitle: "Spinoza and Ethics",
+	// 		tags: "Spinoza, Ethics, Deductive reasoning, Propositions, Logic",
+	// 		thumbnail: "/public/images/spinoza-ethics.jpg",
+	// 		shortIntro:
+	// 			"Spinoza's view on the ethics and how he proves his propositions",
+	// 		category: "Everything",
+	// 	},
+	// 	seo: {
+	// 		title: "Spinoza and Ethics",
+	// 		description:
+	// 			"Spinoza's view on the ethics and how he proves his propositions",
+	// 		keywords: "Spinoza, Ethics, Deductive reasoning, Propositions, Logic",
+	// 		ogImage: "/public/images/spinoza-ethics.jpg",
+	// 		author: MAMZI.name,
+	// 	},
+	// },
 ];
 
 function removeUnpublished(arts: iArticle[]): iArticle[] {

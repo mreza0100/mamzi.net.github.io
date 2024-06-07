@@ -16,9 +16,6 @@ const content = [
 
 # ON THE ORIGIN AND NATURE OF THE EMOTIONS
 
-# Yet in progress
-
-
 > He who succeeds in hitting off the weakness of the human mind more eloquently or more acutely than his fellows, is looked upon as a seer.
 
 
@@ -39,16 +36,44 @@ The sense of free will leads to the idea of being separated from the rest of the
  which accordingly they bemoan, deride, despise, or, as usually happens,
  abuse.
 
+### Why should I want to know?
+
 Human mind is not perfect, there are errors because of it's complex contingent nature which we explained in the [mind](/life/mind/);
 Anger, disappointment, pride, love, willing to limit someone else's life, these just don't happen by itself in a mysterious way,
-There are causes that makes them happen.
-If we know ourselves contingent, we would never understand and always be confused and go by the mercy of fortune.
+There are causes that makes them happen, just like how causes make things happen in real world.
+Our mind also works by cause and effect, and we already talked about it that as long as there is cause and effect,
+  it's nature's rules sit in between and make it happen.
+
+We are not exceptional from nature, we are part of it.
+
+### Desire and free-will
+
+In the mind page and others we talked about how the world works by a rational determinism and
+  how we don't have free-will.
+Now with not having free-will, and being aware of such a phenomena, what can we do?
+  The answer is understanding, knowing of the true causes that push
+  us toward specific actions that doesn't make sense with logic and solely following desire.
+
+Desire is part of nature, desire is the main guide for animals and almost all the other living beings.
+In a way that what we wish to regard as desire we call will, meanwhile we are unaware of true
+  causes that makes us to desire something.
+For example when we desire Revenge, we regard it as will, but we might be unaware of the true causes that makes the emotion
+  Revenge happen.
+
+> Will and understanding are one and the same thing
+
+So to have the will over actions which arise from emotions, we need to understand emotions to take control.
 
 
-In the [mind](/life/mind/) we learned that mind is not perfect and there are lots of weakness and errors because of it's contingent nature.
-
-
----
+`,
+	<Image
+		key={Math.random()}
+		className="mt-5"
+		src="/public/images/life/mind/emotions/spinozaQ-understand-emotions.jpg"
+		alt="universe"
+		size={ImageSize.DEFAULT}
+	/>,
+	`
 
 
 > [3D1](https://ethica.bc.edu/#/element/3D1): By an adequate cause, I mean a cause through which its effect can be clearly and distinctly perceived. By an inadequate or partial cause,
@@ -293,10 +318,13 @@ We said before in this page that things are contrary, and they cannot exist in t
   now our emotions are also contrary as it categorizes in sadness and joy as - and +,
   which exist in mind as emotions.
 
-- [-] = Sadness
-- [+] = Joy
-- [i] = Idea or imagination
-- [f] = Feeling
+- [-] = Pain feelings
+- [+] = Pleasure feelings
+- [S] = State towards the object
+  - This symbol is the force of emotion towards the object and will multiply to the indicator of emotion towards object
+- [C] = Cause or idea of it
+- [O] = Strength of feeling or output
+  - This is the output or result of emotion, which will multiply to it's indicator
 
 ### Loved object
 
@@ -305,9 +333,9 @@ We said before in this page that things are contrary, and they cannot exist in t
  if he conceives that it is preserved he will feel pleasure.
 
 - You have a car, you love it, you see it destroyed, you feel pain.
-  - [(+) (i)] * (-) = [(f) (-)]
+  - [(+) (S)] * (C-) = [(O) (-)]
 - You have a car, you love it, you see it preserved from destruction, you feel pleasure.
-  - [(+) (i)] * (+) = [(f) (+)]
+  - [(+) (S)] * (C+) = [(O) (+)]
 
 ### Hated object
 
@@ -331,10 +359,10 @@ Enemy = Object of hate -
 
 - You have a car, you love it, you see it affected pleasurably(adoration of others) you feel pleasure.
   - You would feel pleasure as much as you love your car.
-  - [(+) (i)] * (+) = [(f) (+)]
+  - [(+) (S)] * (C+) = [(O) (+)]
 - You have a car, you love it, you see it affected painfully(people hate it) you feel pain.
   - You would feel pain as much as you love your car.
-  - [(+) (i)] * (-) = [(f) (-)]
+  - [(+) (S)] * (C-) = [(O) (-)]
 
 
 Car = Object of love
@@ -351,9 +379,9 @@ Hate = Pain -
  we shall be affected with hatred towards it.
 
 - You have a dog, you love your dog, someone gives a treat to your dog, you love that person.
-  - [(+) (i)] * (+) = [(f) (+)]
+  - [(+) (S)] * (C+) = [(O) (+)]
 - You have a dog, you love your dog, someone kicks your dog, you hate that person.
-  - [(+) (i)] * (-) = [(f) (-)]
+  - [(+) (S)] * (C-) = [(O) (-)]
 
 Dog = Object of love
 
@@ -370,10 +398,10 @@ Kick = Pain -
 
 - You have a enemy, you hate him, you see him affected painfully, you feel pleasure.
   - You would feel pleasure as much as you hate your enemy.
-  - [(-) (i)] * (-) = [(f) (+)]
+  - [(-) (S)] * (C-) = [(O) (+)]
 - You have a enemy, you hate him, you see him affected pleasurably, you feel pain.
   - You would feel pain as much as you hate your enemy.
-  - [(-) (i)] * (+) = [(f) (-)]
+  - [(-) (S)] * (C+) = [(O) (-)]
 
 
 ### Love and hate toward people by our object of hate
@@ -383,9 +411,9 @@ Kick = Pain -
  we shall feel love towards him.
 
 - You hate Taylor swift, you see someone who likes her, you feel hatred towards them.
-  - [(-) (i)] * (+) = [(f) (-)]
+  - [(-) (S)] * (C+) = [(O) (-)]
 - You hate Taylor swift, you see someone who hates her, you feel love towards them.
-  - [(-) (i)] * (-) = [(f) (+)]
+  - [(-) (S)] * (C-) = [(O) (+)]
 
 Taylor swift = Object of hate
 
@@ -401,9 +429,9 @@ Note: As far as we rejoin to participate in another's pain, it's attributed to j
  ourselves or the loved object.
 
 - You have a dog, you love your dog, you would like to see your dog happy and healthy.
-  - [(+) (i)] * (+) = [(f) (+)]
+  - [(+) (S)] * (C+) = [(O) (+)]
 - You have a dog, you love your dog, you would not like to see your dog in pain or sick.
-  - [(+) (i)] * (-) = [(f) (-)]
+  - [(+) (S)] * (C-) = [(O) (-)]
 
 > ${EthSts("3P26")}: We endeavour to affirm, concerning that which we hate,
  everything which we conceive to affect it painfully;
@@ -411,9 +439,9 @@ Note: As far as we rejoin to participate in another's pain, it's attributed to j
  everything which we conceive to affect it pleasurably.
 
 - You hate your enemy, you would like to confirm anything that would affect him painfully.
-  - [(-) (i)] * (-) = [(f) (+)]
+  - [(-) (S)] * (C-) = [(O) (+)]
 - You hate your enemy, you would like to deny anything that would affect him pleasurably.
-  - [(-) (i)] * (+) = [(f) (-)]
+  - [(-) (S)] * (C+) = [(O) (-)]
 
 Based on this, we strive to think too highly of ourselves and our loved objects.
 For example, we think of our own capabilities too high because
@@ -725,14 +753,14 @@ If the loved object hate us, we get into a conflicting state of love and hate.
   whom he has hitherto regarded without emotion,
   has done him any injury from motives of hatred,
   he will forthwith seek to repay the injury in kind.
+  
+If someone which we have no emotion to, do injury to us,
+  we would immediately seek to repay the injury in the same kind.
 
-If someone random do injury to us, we would immediately seek to repay the injury in the same kind.
-
-Anger = Desire to injure someone who made we hate.
+Anger = Desire to injure someone who made us hate.
 
 Revenge = Desire to make injury as the same kind received.
-
-  `,
+`,
 	<Image
 		key={Math.random()}
 		className="mt-5"
@@ -801,7 +829,7 @@ Also, contrary, hate can destroy love, as far as hate is greater than love.
 		className="mt-5"
 		src="/public/images/life/mind/emotions/fight.jpg"
 		alt="Hating"
-		caption="Giulio del Torre Zwei raufende Buben 1927"
+		caption="Reciprocal hate brings hate"
 		source="https://commons.wikimedia.org/wiki/File:Giulio_del_Torre_Zwei_raufende_Buben_1927.jpg"
 		size={ImageSize.DEFAULT}
 	/>,
@@ -825,7 +853,7 @@ No one wish to be harmed just to experience greater pleasure after recovery,
 		className="mt-5"
 		src="/public/images/life/mind/emotions/fight-to-love.jpg"
 		alt="Love after hate"
-		caption="Hjalmar Parting from Orvar Odd after the Fight on Samsö"
+		caption="The love after hate will be greater if there were no hate at all"
 		source="https://wikidata.org/wiki/Q18573191"
 		size={ImageSize.DEFAULT}
 	/>,
@@ -836,8 +864,8 @@ No one wish to be harmed just to experience greater pleasure after recovery,
   that anyone similar to himself hates anything also similar to himself,
   which he loves, he will hate that person.
 
-- You have a dog, you love your dog, someone similar to you hates dogs, you would hate that person.
-  - [(+) (i)] * (-) = [(f) (-)]
+- You have a dog, you love your dog, someone similar to you hates dogs, you would hate them.
+  - [(+) (S)] * (C-) = [(O) (-)]
 
 Why? Because loved object will hate who ever hates it, and you would also hate who ever hates your loved object.
 
@@ -861,7 +889,7 @@ We can always see that different groups have pride in themselves and hate contra
 		className="mt-5"
 		src="/public/images/life/mind/emotions/revolution.jpg"
 		alt="French Revolution"
-		caption="Liberty Leading the People"
+		caption="Hate toward nation/class as nation/class"
 		source="https://en.wikipedia.org/wiki/Liberty_Leading_the_People"
 		size={ImageSize.DEFAULT}
 	/>,
@@ -1068,8 +1096,8 @@ So as a result, imaginations are the first kind of knowledge which is falsy and 
 		key={Math.random()}
 		className="mt-5"
 		src="/public/images/life/mind/emotions/hero-flying.webp"
-		alt="Vasnetsov samolet"
-		caption="Vasnetsov samolet"
+		alt="how imaginations feel"
+		caption="How illusionary imaginations of self-love might feel"
 		source="https://en.wikipedia.org/wiki/File:Vasnetsov_samolet.jpg"
 		size={ImageSize.DEFAULT}
 	/>,
@@ -1094,7 +1122,8 @@ Pain grows by us thinking of our own weakness and jealousy to others who does no
 
 Narration of Exploits: People love talking about there achievements and power,
   which can lead to envy and bothering others.
-This envy naturally comes from arising joy in others who are similar to us.
+This envy naturally comes from arising joy in others by there own power of activity,
+  in a way that it causes pain in others in comparison to self.
 
 Comparison: The greater our uniqueness which brings us power of action be comparing to others,
   will remove the pain of Humility and denigration to others.
@@ -1147,7 +1176,7 @@ const Article = () => {
 			<>
 				<Image
 					className="mt-5"
-					src="/public/images/life/mind/emotions/emotions.jpg"
+					src="/public/images/life/mind/emotions/emotions.webp"
 					alt="universe"
 					size={ImageSize.DEFAULT}
 				/>
