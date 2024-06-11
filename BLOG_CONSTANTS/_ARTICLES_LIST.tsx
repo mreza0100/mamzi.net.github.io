@@ -17,6 +17,7 @@ export enum ArticlesKeys {
 	Body = "Body",
 	Mind = "Mind",
 	Emotions = "Emotions",
+	EmotionsDefinitions = "EmotionsDefinitions",
 	SpinozaEthics = "Spinoza Ethics",
 	// Ethics = "Ethics",
 	Stack = "Stack",
@@ -53,7 +54,20 @@ export const ArticlesTree: IArticlesTree = [
 			{
 				key: ArticlesKeys.Life,
 				children: [
-					{ key: ArticlesKeys.Mind, children: [ArticlesKeys.Emotions] },
+					{
+						key: ArticlesKeys.Mind,
+						children: [
+							{
+								key: ArticlesKeys.Emotions,
+								children: [
+									{
+										key: ArticlesKeys.EmotionsDefinitions,
+										title: "Definitions of Emotions",
+									},
+								],
+							},
+						],
+					},
 					ArticlesKeys.Body,
 					ArticlesKeys.Meaning,
 				],
@@ -361,6 +375,30 @@ const LIFE: iArticle[] = [
 			description: "Spinoza's view on the emotions and feelings as a substance",
 			keywords: "Spinoza, Ethics, mind, idea, memory, substance, attribute, thought",
 			ogImage: "/public/images/life/mind/emotions/emotions-preview.jpg",
+			author: MAMZI.name,
+		},
+	},
+	{
+		key: ArticlesKeys.EmotionsDefinitions,
+		url: "/life/mind/emotions/definitions",
+		path: "/pages/life/mind/emotions/definitions.tsx",
+		featureArticle: true,
+		isPublished: true,
+		preview: {
+			author: MAMZI,
+			date: "Jun 6 2024",
+			articleTitle: "Emotions",
+			tags: "Emotions definitions Spinoza",
+			thumbnail:
+				"/public/images/life/mind/emotions/definitions/emotions-definition.jpg",
+			shortIntro: "Spinoza's view on the emotions contrariwise",
+			category: "Life",
+		},
+		seo: {
+			title: "Emotions",
+			description: "Spinoza's view on the emotions and feelings as a substance",
+			keywords: "Spinoza, Ethics, mind, idea, memory, substance, attribute, thought",
+			ogImage: "/public/images/life/mind/emotions/definitions/emotions-definition.jpg",
 			author: MAMZI.name,
 		},
 	},

@@ -18,8 +18,6 @@ const content = [
 
 > He who succeeds in hitting off the weakness of the human mind more eloquently or more acutely than his fellows, is looked upon as a seer.
 
-
-
 ## Introduction and motivation
 
 > [3PREF](https://ethica.bc.edu/#/element/3PREF) Most writers on the emotions and on human conduct seem to be treating
@@ -39,12 +37,17 @@ The sense of free will leads to the idea of being separated from the rest of the
 ### Why should I want to know?
 
 Human mind is not perfect, there are errors because of it's complex contingent nature which we explained in the [mind](/life/mind/);
-Anger, disappointment, pride, love, willing to limit someone else's life, these just don't happen by itself in a mysterious way,
+Anger, disappointment, pride, love, shape these just don't happen by itself in a mysterious way,
 There are causes that makes them happen, just like how causes make things happen in real world.
 Our mind also works by cause and effect, and we already talked about it that as long as there is cause and effect,
-  it's nature's rules sit in between and make it happen.
+  it's nature's rules sit in between and make it happen, in emotions page, we will see what these rules are.
 
-We are not exceptional from nature, we are part of it.
+One of the reasons we would be surprised by seeing equations for emotions is that human knows
+  itself contingent from nature, in a way that our mind has not been made by nature and it's different from animals,
+  because mind is connected to the soul and this soul is what makes us special
+  and enables us do what we want with it's miseries free-will nature.
+  But so far, we know that we are not exceptional from nature, we are part of it.
+
 
 ### Desire and free-will
 
@@ -64,7 +67,6 @@ For example when we desire Revenge, we regard it as will, but we might be unawar
 
 So to have the will over actions which arise from emotions, we need to understand emotions to take control.
 
-
 `,
 	<Image
 		key={Math.random()}
@@ -74,6 +76,11 @@ So to have the will over actions which arise from emotions, we need to understan
 		size={ImageSize.DEFAULT}
 	/>,
 	`
+
+### Preview on how emotions work
+
+All emotions are based and deducted from pleasure, pain and desire, in a way similar to colors.
+With mixing enough of each, we get the specific emotion that arise.
 
 
 > [3D1](https://ethica.bc.edu/#/element/3D1): By an adequate cause, I mean a cause through which its effect can be clearly and distinctly perceived. By an inadequate or partial cause,
@@ -99,14 +106,19 @@ Inadequate cause: something that the effect isn't clear.
 
 ### Types of Emotions
 
-- Active/Activity:
+- Active - Pleasure:
   - Emotion that results from self action.
   - Example: feeling satisfied after workout.
   - We will be the cause of emotion, as the power of activity increases.
-- Passive/Passion:
+- Passive - Pain:
   - Emotion that results from external source which makes the mind to go to a passive state
   - Example: The news of a plain crash with dead people.
   - We will be part of the cause as it's external and we were not the cause, but part of it.
+- Desire
+  - An appetite arise from pain or pleasure with mind being aware of it.
+
+
+### Affection or emotional cause to others
 
 
 ### States of Mind
@@ -114,9 +126,9 @@ Inadequate cause: something that the effect isn't clear.
 // TODO: make example of mindfulness and what active and passive means
 -->
 - Active
-  - As far as mind has adequate ideas
+  - As far as mind has adequate ideas and as far as it's power of activity increase.
 - Passive
-  - As far as mind has inadequate ideas
+  - As far as mind has inadequate ideas and as far as it's power of activity decrease.
 
 ### Mind perfection
 
@@ -555,15 +567,19 @@ Such a desire is equal in all,
   In this case, everyone stands in everyone's way to gain love or praise by influencing others,
   and all become mutually hateful of each other by not being able to convince others.
 
+
+### Envy and hatred, the ambition to take ownership
+
 > ${EthSts("3P32")}: If we conceive that anyone takes delight in something,
   which only one person can possess,
   we shall endeavour to bring it about that the man
   in question shall not gain possession thereof.
 
-Consider a object that only one person can have ownership.
-If we realize someone enjoy the object, and have plan to take the ownership,
-  we would also become interested. Not as far as enjoying it,
-  but as far as securing the object and taking ownership to prevent the others to have it.
+If we conceive that someone taking ownership of a object that cannot be shared, we shall desire to delight the thing.
+And if we conceive that this pleasure cannot be shared, we shall desire to take it from them.
+So and so that we clearly see this is happening in the world,
+  some people might not have desire to possess in anything, that is not normal by this definition,
+  the natural human desire is the same as animals, we do not have a morality system embedded inside, by birth or education.
 `,
 	<Image
 		key={Math.random()}
@@ -573,13 +589,18 @@ If we realize someone enjoy the object, and have plan to take the ownership,
 		size={ImageSize.DEFAULT}
 	/>,
 	`
-Human nature is mixed with pity and envy.
-We feel pity for the poor and envy for the rich.
-It's a mix of pity, envy, and ambition.
-This behavior is visible in children as
-  children imitate and desire what others have driven by external influences
-  and competition to gain the same thing.
+Man's nature is constituted by pity for the ones in pain, and envy with hate towards the one who
+  take pleasure in what they love to delight but can't have it.
 
+This behavior is visible in children that they start to laugh or cry, simply by the act of imitation of others.
+It's a desire to imitate whatsoever others doing and take the same delight,
+  and we already know that the mind is determined to act in certain ways
+  by external causes.
+
+Also in here, we can see the nature of sympathy with others, is coming from imitation,
+  which itself, is related to the body as the object of mind (you will find it in life/mind)
+
+For example seeing someone having something better than you on social media or colonies in the history.
 
 > ${EthSts("3P33")}: When we love a thing similar to ourselves we endeavour,
   as far as we can, to bring about that it should love us in return.
@@ -821,8 +842,42 @@ It's because we strive to know ourselves cause of pleasure in others,
 We hate others as much as they hate us.
 And we love others as much as they love us, which can destroy hate since it's contrary.
 
+<!--
+This process of turning hate into love is not possible since it has absurdity with of which
+- - * - = - (reciprocated hate)
+- - * - = + (love)
+The reason of proof is underlying that he made them multiple steps as follows:
+1. love toward someone else makes pleasure in them
+  - Example: as pride for not being weak.
+  - - +-> -
+2. that person regards itself with pleasure
+  - - -> +
+3. he will try to pleasure the cause of his emotion as it's pleasure,
+  in which will be pleasure, if it was hate, the hate would have been returned.
+  Contrariwise to this, we will not hurt the cause of pleasure/honer, like killing your hero.
+  - - <-+ + or + <-+ +
+  - + <- +
+  - + <-> +
+This process of multiple steps I might call affection or might be as he says being the adequate cause of something,
+  in which that -> is the adequate cause, and * is the inadequate or incoming cause.
+  in which that we do not only multiplying, but also affect,
+  I might need to investigate this one more, serration of * and <->
+
+
+Proof.—He who conceives, that an object of his hatred hates him in return, will thereupon feel a new hatred,
+  while the former hatred (by hypothesis) still remains (III. xl.).
+  But if, on the other hand, he conceives that the object of hate loves him,
+  he will to this extent (III. xxxviii.) regard himself with pleasure,
+  and (III. xxix.) will endeavour to please the cause of his emotion.
+  In other words, he will endeavour not to hate him (III. xli.), and not to affect him painfully;
+  this endeavour (III. xxxvii.) will be greater or less in proportion to the emotion from which it arises.
+  Therefore, if it be greater than that which arises from hatred,
+  and through which the man endeavours to affect painfully the thing which he hates,
+  it will get the better of it and banish the hatred from his mind. Q.E.D.
+-->
+
 Love can destroy hate, as far as love is greater than hate.
-Also, contrary, hate can destroy love, as far as hate is greater than love.
+  Also, contrary, hate can destroy love, as far as hate is greater than love.
 `,
 	<Image
 		key={Math.random()}
@@ -853,7 +908,7 @@ No one wish to be harmed just to experience greater pleasure after recovery,
 		className="mt-5"
 		src="/public/images/life/mind/emotions/fight-to-love.jpg"
 		alt="Love after hate"
-		caption="The love after hate will be greater if there were no hate at all"
+		caption="Love that follows hate will be even stronger if there was no hate to begin with"
 		source="https://wikidata.org/wiki/Q18573191"
 		size={ImageSize.DEFAULT}
 	/>,
@@ -882,7 +937,7 @@ If someone from a different class/nation/group has affected you pleasurably or p
 
 This is coming from our nature to group ourselves by similarities and differences,
   and to reflect the feelings of individuals to the whole group.
-We can always see that different groups have pride in themselves and hate contrary groups.
+We can always see that different groups have pride in themselves and hate toward contrary group.
   `,
 	<Image
 		key={Math.random()}
@@ -1154,19 +1209,202 @@ When we wonder at something's courage or virtues, we do so by assuming these qua
 So we don't envy tree for being tall or lion for it's courage.
   `,
 	`
+
+### An emotion for each thing
+
 > ${EthSts("3P56")}: There are as many kinds of pleasure, of pain, of desire,
   and of every emotion compounded of these, such as vacillations of spirit,
   or derived from these, such as love, hatred, hope, fear, &c.,
   as there are kinds of objects whereby we are affected.
 
 
+Every specific emotion is a mix of pleasure, pain and desire.
+Each emotion is associated with a object, each object affect us in a different way than others.
+We should also mention that we can accidentally love or hate anything.
 
+### Emotion depends on essence of the thing
+
+> ${EthSts("3P57")}: Any emotion of a given individual
+  differs from the emotion of another individual,
+  only in so far as the essence of the one individual differs from the essence of the other.
+
+Each of us have a different experience of reality and emotion we get from it.
+We only have different emotions with each other, if the essence among is different from each other.
+Because the desire of each man is related to it's nature, and the nature of each individual is different.
+This concept applies to all living beings including animals,
+  the joy that a hours feels in procreation is equine(specific to it's nature)
+  while human experience something different from the same act in nature.
+It continues that the pleasure a philosopher takes is differ with what dankness feels.
+
+Irrational = Emotion of animals
+
+> ${EthSts("3P58")}: Besides pleasure and desire, which are passivities or passions,
+  there are other emotions derived from pleasure and desire,
+  which are attributable to us in so far as we are active.
+
+An emotion of pleasure or desire is passive or passion,
+  but some emotions driven from these which are active.
+
+Proof came from where we think of the self's power and by that conceiving adequate ideas of self, which are true.
+Now the mind is active filled by the pleasure emotion, and has adequate ideas.
+Example: when a scientist make a new discovery, he feels pleasure accompanied by a true idea of his discovery.
+
+So here we see that all emotions are passive, but increase or decrease power of activity,
+  but the activity of mind relies on the adequate ideas.
+
+> ${EthSts("3P59")}: Among all the emotions attributable to the mind as active,
+  there are none which cannot be referred to pleasure or desire.
+
+There is no emotion which not to be pleasure or pain and regard as active.
+All active emotions are attributable to pleasure or desire, pain on the other hand,
+  decrease the power of activity or understanding.
+
+### Last note:
+
+From all above we saw how emotions from the right mix of pain, pleasure and desire will result to a
+  specific emotion, this dynamic mix can go in all possible computations.
+Also we know that these causes in which leads to emotions, can be internal or external,
+  we can think of a memory and an emotion arise and do certain acts upon it,
+  or it can be an external influence by seeing a object.
+In case in which that a external cause leads to a emotion in us to act upon, we call this passive,
+  passively and emotionally doing a act by desire and nature will result going by the mercy of fortune.
+He talks that we all are like waves of see driven by this dynamic mixing system of emotion.
+Also bodily disposition will effect emotion, he makes example of the time that we love to eat food,
+  but after eating enough, the emotion of love changes with repulsion.
+
+
+`,
+	`
+## Conclusions
+
+From all we conceived above, there is one true point, which is the matter of fact that emotions are not mystical,
+  but actually mechanical, which is a hard proof of how we are part of the nature and following the general rules of it.
+
+The 3 primary emotions fundamental to human existence determining our behaviors and perception.
+
+Desire is the main drive of action, mostly masked as free-will,
+  we call what we desire as free-will, unknown of true causes that lead to that way.
+Also, this desire is fundamentally linked to our instinctual needs,
+  in a way that we desire what can help us stay in existence more(conatus).
+
+- Desire (toward +)
+  - fundamentally linked to our instinctual needs 
+  - If the desire would not be by conciseness, it's called appetite, like hunger.
+- Pleasure (+)
+  - Indicator of transition to a higher perfection, or indicating a increase in power of activity.
+  - It increases the activity of mind, or general power of activity
+- Pain (-)
+  - Indicator of transition to a lesser perfection, or indicating a decrease in power of activity.
+  - It decrease the activity of mind, or general power of activity of body and mind.
+
+### Emotion or change in state
+
+For Spinoza, emotion is a change in the state of our physical organism to greater or lesser state of vitality.
+This emotion can be an idea, or mental representation.
+
+
+### Active vs passive
+
+If we be the adequate and sole cause of a emotion in ourselves, we call it active emotion.
+If we would not be the cause of emotion, but rather emotion has external sources, it's regarded as passive,
+  because now we are not the cause of emotion anymore, but we are part of the causal chain of something in which
+  affects us with emotion, and we are determined to experience them by outside forces.
+
+### Perfection
+
+Perfection is the indicator of emotion on the scale of in which between pleasure and pain,
+  just like numbers from infinite negative to infinite positive, our state of activity can be anywhere on the scale,
+  or change and disposition itself.
+
+### Connection between Mind and Body
+
+> Mind and body are one and the same thing
+
+Each of them effect on the other.
+
+
+### Resemblance
+
+Mind has the ability to resemblance things to each other.
+One person can remind you of another by resemblance of confused memories,
+  and make you have the same emotions toward.
+
+Resemblance = Similarity through pattern recognition.
+
+
+### Accidental emotions
+
+> Anything can, accidentally, be the cause of pleasure, pain, or desire.
+
+So we have to doubt our emotions and validate with second kind of knowledge(logic), they can mix and confuse easily by memory.
+
+### Imaginations and image formation
+
+What ever we imagine, we see in front of self.
+Which means that it feels real, it would be more impactful if the imagination be in the past or future.
+Imagination is the first kind of knowledge, it has falsy nature and it makes us distance reality.
+
+### Objects
+
+We can have feelings toward objects, and not only of self.
+By this very mean, it follows that specific emotions and there own specific equations exist.
+Which can also be conceived through imaginations, for example if you imagine your loved objected destroy,
+  you would feel pain, which is equal to it's actual event in reality.
+
+### Emotion, the product
+
+Emotions are natural product of us, in which that is related to power of activity.
+Emotions are reflecting the nature of survival and evolution through years.
+
+
+### Nature of emotion
+
+How we experience the same emotion depends on our nature,
+  what a hours might experience from love is differ than us,
+  it follows that anything else, as far as it has a different essence or nature will differ from one to another.
+
+### Complex yet determined
+
+Our emotions are reflecting a chaotic dynamic complex picture,
+  but complexity is not a reason to define it as magical or contingent,
+  yet there is logic being which we saw how it works.
+Also we must now have a good picture of how mechanical and deterministic emotions are.
+
+### Pleasure at the pain of others
+
+It is clearly visible through envy that we can enjoy someone else's pain, and regard it as good.
+Or contrariwise, others enjoy our pain.
+The nature of man is based on envy and sympathy.
+
+### Thinking of others
+
+Logs of our actions are combined by us as the cause of emotion in others,
+  this shows the social life style of this nature.
+This thinking of others thoughts of self can be a unhealthy drive of action.
+It also shows that how people would see the reflection of themselves in others ideas,
+  and how difficult would it be without this drive.
+
+### Desire is the essence of man
+
+Any desire is reflecting to be the cause of pleasure for self,
+  which increase the power of activity by that very essence of man.
+For example, animals also have desires like eating and striving for something,
+  which just like us, it shows a activity which brings pleasure as the self would be the cause of it.
+
+
+### Grouping
+
+It shows from the nation proposition in which that it's the nature of us to group
+  self into all the onces fitting into the picture aligned with our nature and values,
+  and regarding the group as the object of love and pride and knowing it as a property of self,
+  and start fighting with contrary groups driven by emotion.
 
 
   `,
 	`
-  Resources:
-  - [Spinoza and the Emotions](https://www.faculty.umb.edu/gary_zabel/Courses/Spinoza/Texts/Spinoza%27s%20Approach%20to%20Understanding%20the%20Emotions.htm)
+#### Resources:
+- [Spinoza and the Emotions](https://www.faculty.umb.edu/gary_zabel/Courses/Spinoza/Texts/Spinoza%27s%20Approach%20to%20Understanding%20the%20Emotions.htm)
+- [Ethics lll: Overview](https://www.youtube.com/watch?v=91s5vHSjDEw)
   `,
 ];
 
@@ -1177,7 +1415,7 @@ const Article = () => {
 				<Image
 					className="mt-5"
 					src="/public/images/life/mind/emotions/emotions.webp"
-					alt="universe"
+					alt="contrary emotions"
 					size={ImageSize.DEFAULT}
 				/>
 				<Markdown>{content}</Markdown>

@@ -8,7 +8,7 @@ const AboutUs = () => {
 	const PAGE_SEO: iSEO = {
 		title: "Mamzi Khosravi - About Me",
 		description: `Software developer and thinker`,
-		keywords: "Mamzi Khosravi Software Engineering Thinker Philosophy",
+		keywords: "Mamzi Khosravi Software Engineering Thinking Philosophy",
 		author: "Mamzi Khosravi",
 	};
 	return (

@@ -5,7 +5,7 @@ import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 export const MAMZI: IAuthor = {
 	name: "Mamzi Khosravi",
 	designation: "Software Developer and Thinker",
-	bio: "software Engineer and Thinker, concerning everything",
+	bio: "Software engineer and thinker, concerning everything",
 
 	profilePic: "",
 	social: [
@@ -21,7 +21,7 @@ export const MAMZI: IAuthor = {
 };
 
 // This can your company name / your name etc for SEO purposes
-export const WEBSITE_NAME: string = "My Answers to Life, Universe and Everything";
+export const WEBSITE_NAME: string = "Mamzi's Blog or Ultimate Answer";
 export const WEBSITE_URL: string = "https://www.mamzi.net";
 
 /**

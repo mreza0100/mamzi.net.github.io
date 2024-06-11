@@ -11,16 +11,12 @@ const Home = () => {
 				<section className="w-full md:pt-[100px] md:pb-[70px] pt-[130px] pb-20 mb-10 dark:bg-slate-800 bg-slate-200">
 					<div className="container text-center px-3">
 						<Text title className="text-3xl">
-							Mamzi's Doctrine of Life, the Universe, and
-							Everything
+							Mamzi's Blog or the Ultimate Answer to Life, the
+							Universe and everything Everything
 						</Text>
 
-						<Text subtitle className="mt-1 text-l">
-							By M.Khosravivala - inspired by Spinoza and Douglas
-							Adams!
-						</Text>
 						<Text className="mt-5">
-							A place to think aligned with reality and a mental
+							A place to think aligned with reality or a mental
 							framework
 						</Text>
 						<Text className="text-yellow-700 dark:text-yellow-500">
