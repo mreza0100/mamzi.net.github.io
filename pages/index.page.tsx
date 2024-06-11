@@ -12,7 +12,7 @@ const Home = () => {
 					<div className="container text-center px-3">
 						<Text title className="text-3xl">
 							Mamzi's Blog or the Ultimate Answer to Life, the
-							Universe and everything Everything
+							Universe and Everything
 						</Text>
 
 						<Text className="mt-5">
