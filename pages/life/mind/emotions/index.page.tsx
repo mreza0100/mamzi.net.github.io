@@ -262,7 +262,7 @@ The thing might not be the cause of emotion, but the cause has formed in past ex
  although the point of resemblance be not the efficient cause of the said emotions,
  we shall still regard the first—named object with love or hate.
 
-Resemblance = Similarity through pattern recognition.
+- Resemblance = Similarity through pattern recognition.
 
 Mind constantly look for similar patterns in current state with provisos patterns.
 If we recognize a similarity in a object with another object in the past,
@@ -525,10 +525,10 @@ Since we see our own reflection in others,
   we would like to do things that others like and be part of them
   and avoid doing things that others hate and avoid as a group.
 
-Ambition = Desire for the approval of men which is desire from emulation.
-Kindliness = Act in ways to please other men, motivated by desire from compassion.
-Praise: Conceiving the action of another to gain our approval, which is desire from ambition.
-Blame: Conceiving the action of another to lose our approval, which is desire from ambition.
+- Ambition = Desire for the approval of men which is desire from emulation.
+- Kindliness = Act in ways to please other men, motivated by desire from compassion.
+- Praise: Conceiving the action of another to gain our approval, which is desire from ambition.
+- Blame: Conceiving the action of another to lose our approval, which is desire from ambition.
 
 > ${EthSts(
 		"3P30",
@@ -778,9 +778,8 @@ If the loved object hate us, we get into a conflicting state of love and hate.
 If someone which we have no emotion to, do injury to us,
   we would immediately seek to repay the injury in the same kind.
 
-Anger = Desire to injure someone who made us hate.
-
-Revenge = Desire to make injury as the same kind received.
+- Anger = Desire to injure someone who made us hate.
+- Revenge = Desire to make injury as the same kind received.
 `,
 	<Image
 		key={Math.random()}
@@ -800,7 +799,7 @@ Revenge = Desire to make injury as the same kind received.
 
 In the case of giving a cause for love, love feeling turns into pride.
 
-Pride = Being the cause of love in another.
+- Pride = Being the cause of love in others constantly till Honour being to a pride and part of us.
 
 Gratitude or thankfulness = Love toward someone who loves us, and consequently benefiting them.
 
@@ -811,7 +810,7 @@ If we receive love from a hated object, we get into a conflicting state of love 
 In this case, if hate is greater than love, yet we try to injure who he loves us,
   this is called cruelty, specifically if the victim has given no cause for hate.
 
-Cruelty = Desire to injure someone who loves us.
+- Cruelty = Desire to injure someone who loves us.
 `,
 
 	<Image
@@ -832,7 +831,7 @@ Cruelty = Desire to injure someone who loves us.
 
 If benefit is received without gratitude, the pain will be felt.
 It's because we strive to know ourselves cause of pleasure in others,
-  to feel honor and pride, and when it's not recognized, it causes pain.
+  to feel Honour and pride, and when it's not recognized, it causes pain.
 
 ### Reciprocal hate brings hate, reciprocal love brings love
 
@@ -1018,10 +1017,10 @@ The cause of fear is pain and the cause of hope is pleasure.
 We try to estimate things based on the hope we look in them, this process will lead to superstition.
 Superstition comes from fear of unknown, and the hope of the unknown.
 
-Omen = Things which are accidentally the causes of hope or fear are called good or evil omen.
+- Omen = Things which are accidentally the causes of hope or fear are called good or evil omen.
   `,
 	`
-### Perception of the same object by different
+### Different perception of the same object by different people
 
 > ${EthSts("3P51")}: Different men may be differently affected by the same object,
   and the same man may be differently affected at different times by the same object.
@@ -1236,7 +1235,7 @@ This concept applies to all living beings including animals,
   while human experience something different from the same act in nature.
 It continues that the pleasure a philosopher takes is differ with what dankness feels.
 
-Irrational = Emotion of animals
+- Irrational = Emotion of animals
 
 > ${EthSts("3P58")}: Besides pleasure and desire, which are passivities or passions,
   there are other emotions derived from pleasure and desire,
@@ -1329,7 +1328,7 @@ Mind has the ability to resemblance things to each other.
 One person can remind you of another by resemblance of confused memories,
   and make you have the same emotions toward.
 
-Resemblance = Similarity through pattern recognition.
+- Resemblance = Similarity through pattern recognition.
 
 
 ### Accidental emotions

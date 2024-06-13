@@ -386,8 +386,8 @@ const LIFE: iArticle[] = [
 		isPublished: true,
 		preview: {
 			author: MAMZI,
-			date: "Jun 6 2024",
-			articleTitle: "Emotions",
+			date: "Jun 13 2024",
+			articleTitle: "Emotion Definitions",
 			tags: "Emotions definitions Spinoza",
 			thumbnail:
 				"/public/images/life/mind/emotions/definitions/emotions-definition.jpg",

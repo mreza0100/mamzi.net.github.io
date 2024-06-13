@@ -18,7 +18,8 @@ When they asked [Albert Einstein](https://nds-nl.wikipedia.org/wiki/Albert_Einst
  he said:
 > I believe in Spinoza's God who reveals himself in the orderly harmony of what exists, not in a God who concerns himself with the fates and actions of human beings.
 
-Don't you want to know Einstein's God? I do!
+Don't you want to know Einstein's God? I do! If Spinoza's God was good enough for Einstein,
+  it's gonna be also good enough for us with a bit of common sense.
 
 Spinoza was looking at God, as the nature itself.
 God to him, is the creator of everything.

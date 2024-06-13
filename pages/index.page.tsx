@@ -3,6 +3,7 @@ import { ArticlesTree } from "../BLOG_CONSTANTS/_ARTICLES_LIST";
 import { DEFAULT_SEO } from "../BLOG_CONSTANTS/_BLOG_SETUP";
 import UltimateTree from "../src/components/Tree";
 import { ImageSize } from "../src/shared/enums";
+import Markdown from "../src/components/Markdown";
 
 const Home = () => {
 	return (
@@ -26,7 +27,7 @@ const Home = () => {
 						<Image
 							className="mt-1"
 							src="/public/images/42.png"
-							alt="nextjs-simple-blog-template"
+							alt="the Ultimate Answer to Life, the Universe and Everything"
 							size={ImageSize.XS}
 						/>
 					</div>
@@ -47,14 +48,14 @@ const Home = () => {
 					</Text>
 					<Text>---</Text>
 					<Text>Why he actually choose 42:</Text>
-					<Text>
-						The answer to this is very simple. It was a joke. It had to
+					<Markdown>
+						{`> The answer to this is very simple. It was a joke. It had to
 						be a number, an ordinary, smallish number, and I chose that
 						one. Binary representations, base thirteen, Tibetan monks
 						are all complete nonsense. I sat at my desk, stared into
 						the garden and thought '42 will do' I typed it out. End of
-						story.
-					</Text>
+						story.`}
+					</Markdown>
 					<Text>And 42 did it!</Text>
 					<Text>
 						Hitchhiker's Guide to the Galaxy is a great science fiction

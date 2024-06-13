@@ -14,3 +14,4 @@ The essence of a thing is how it's structure, for example a car's essence is to 
 ---
 
 https://www.youtube.com/watch?v=91s5vHSjDEw
+https://philarchive.org/archive/AKSSCA-2

@@ -13,8 +13,7 @@ const Markdown = ({ children, className }: IProps) => {
 	children = Array.isArray(children) ? children : [children];
 
 	return (
-		// padding
-		<div className={combineClasses("md:p-5 p-12", className)}>
+		<div className={combineClasses("p-1", className)}>
 			<div className="shadow-lg p-5">
 				{children.map((Child, index) => {
 					if (typeof Child === "string") {

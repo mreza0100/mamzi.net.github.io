@@ -1,16 +1,561 @@
+import styled from "styled-components";
 import { Image, PageLayout } from "../../../../src/components";
 import Markdown from "../../../../src/components/Markdown";
 import { ImageSize } from "../../../../src/shared/enums";
 import { EthSts } from "../../../../src/utils/markdown";
+import { useState } from "react";
+
+interface IEmotion {
+	name: string;
+	ancestor: string | null;
+	contrary?: string | string[];
+	description: string;
+	children?: { [key: string]: IEmotion };
+}
+
+interface IPrimaryEmotions {
+	desire: IEmotion;
+	pleasure: IEmotion;
+	pain: IEmotion;
+}
+
+class Emotions {
+	public emotions: IPrimaryEmotions = {
+		desire: {
+			name: "Desire",
+			ancestor: null,
+			description: "",
+			children: {
+				Regret: {
+					name: "Regret",
+					ancestor: "Desire",
+					description:
+						"Desire or appetite to possess something, kept alive by the remembrance of the said thing, and at the same time constrained by the remembrance of other things which exclude the existence of it.",
+				},
+				Emulation: {
+					name: "Emulation",
+					ancestor: "Desire",
+					description:
+						"Desire of something, engendered in us by our conception that others have the same desire",
+				},
+				Thankfulness: {
+					name: "Thankfulness or Gratitude",
+					ancestor: "Love",
+					contrary: "",
+					description:
+						"Desire or zeal springing from love, whereby we endeavour to benefit him, who with similar feelings of love has conferred a benefit on us",
+				},
+				Benevolence: {
+					name: "Benevolence",
+					ancestor: "Love",
+					description: "Desire of benefiting one whom we pity",
+				},
+				Anger: {
+					name: "Anger",
+					ancestor: "Hatred",
+					description:
+						"Desire, whereby through hatred we are induced to injure one whom we hate",
+				},
+				Revenge: {
+					name: "Revenge",
+					ancestor: "Hatred",
+					description:
+						"Desire whereby we are induced, through mutual hatred, to injure one who, with similar feelings, has injured us",
+				},
+				Cruelty: {
+					name: "Cruelty or Savageness",
+					ancestor: "Hatred",
+					description:
+						"Desire, whereby a man is impelled to injure one whom we love or pity",
+				},
+				Timidity: {
+					name: "Timidity",
+					ancestor: "Fear",
+					description:
+						"Desire to avoid a greater evil, which we dread, by undergoing a lesser evil",
+				},
+				Daring: {
+					name: "Daring",
+					ancestor: "Confidence",
+					contrary: "Cowardice",
+					description:
+						"Desire, whereby a man is set on to do something dangerous which his equals fear to attempt",
+				},
+				Cowardice: {
+					name: "Cowardice",
+					ancestor: "Despair",
+					contrary: "Daring",
+					description:
+						"Attributed to one, whose desire is checked by the fear of some danger which his equals dare to encounter",
+				},
+				Consternation: {
+					name: "Consternation",
+					ancestor: "Cowardice",
+					description:
+						"Attributed to one, whose desire of avoiding evil is checked by amazement at the evil which he fears",
+				},
+				Courtesy: {
+					name: "Courtesy, or deference",
+					ancestor: "Devotion",
+					description:
+						"Desire of acting in a way that should please men, and refraining from that which should displease them",
+				},
+				Ambition: {
+					name: "Ambition",
+					ancestor: "Pleasure",
+					description: "Immoderate desire of power",
+				},
+				Luxury: {
+					name: "Luxury",
+					ancestor: "Pleasure",
+					description:
+						"Excessive desire, or even love of living sumptuously",
+				},
+				Intemperance: {
+					name: "Intemperance",
+					ancestor: "Inclination",
+					description: "Excessive desire and love of drinking",
+				},
+				Avarice: {
+					name: "Avarice",
+					ancestor: "Pleasure",
+					description: "Excessive desire and love of riches",
+				},
+				Lust: {
+					name: "Lust",
+					ancestor: "Love",
+					description:
+						"Desire and love in the matter of sexual intercourse",
+				},
+			},
+		},
+		pleasure: {
+			name: "Pleasure",
+			contrary: "Pain",
+			description: "Transition to a greater perfection.",
+			ancestor: null,
+			children: {
+				Love: {
+					name: "Love",
+					ancestor: "Pleasure",
+					contrary: "Hatred",
+					description:
+						"Pleasure accompanied by the idea of an external cause",
+					children: {
+						Devotion: {
+							name: "Devotion",
+							ancestor: "Love",
+							contrary: "Derision",
+							description: "Love towards one whom we admire.",
+						},
+						Sympathy: {
+							name: "Sympathy",
+							contrary: "Envy",
+							ancestor: "Love",
+							description:
+								"Love, in so far as it induces a man to feel pleasure at another's good fortune, and pain at another's evil fortune",
+						},
+						Approval: {
+							name: "Approval",
+							contrary: "Indignation",
+							ancestor: "Love",
+							description:
+								"Love towards one who has done good to another",
+						},
+						Partiality: {
+							name: "Partiality",
+							contrary: "Disparagement",
+							ancestor: "Love",
+							description:
+								"Thinking too highly of anyone because of the love we bear him",
+						},
+						Pride: {
+							name: "Pride",
+							contrary: "SelfAbasement",
+							ancestor: "SelfApproval",
+							description:
+								"Thinking too highly of one's self from self—love",
+						},
+					},
+				},
+				Wonder: {
+					name: "Wonder",
+					ancestor: "Pleasure",
+					contrary: "Contempt",
+					description:
+						"Pleasure, accompanied by the idea of something which is accidentally a cause of pleasure",
+				},
+				Inclination: {
+					name: "Inclination",
+					ancestor: "Pleasure",
+					contrary: "Aversion",
+					description:
+						"Pleasure accompanied by the idea of something which is accidentally a cause of pleasure",
+				},
+				Hope: {
+					name: "Hope",
+					contrary: "Fear",
+					ancestor: "Pleasure",
+					description:
+						"Inconstant pleasure, arising from the idea of something past or future, whereof we to a certain extent doubt the issue",
+				},
+				Confidence: {
+					name: "Confidence",
+					contrary: "Despair",
+					ancestor: "Pleasure",
+					description:
+						"Pleasure arising from the idea of something past or future, wherefrom all cause of doubt has been removed",
+				},
+				Joy: {
+					name: "Joy",
+					contrary: "Disappointment",
+					ancestor: "Pleasure",
+					description:
+						"Pleasure accompanied by the idea of something past, which has had an issue beyond our hope",
+				},
+				SelfApproval: {
+					name: "Self—Approval or Self-Love",
+					contrary: ["Humility", "Repentance", "SelfAbasement"],
+					ancestor: "Pleasure",
+					description:
+						"Pleasure arising from a man's contemplation of himself and his own power of action",
+				},
+				Honour: {
+					name: "Honour",
+					ancestor: "Pleasure",
+					contrary: "Shame",
+					description:
+						"Pleasure accompanied by the idea of some action of our own, which we believe to be praised by others",
+				},
+			},
+		},
+		pain: {
+			name: "Pain",
+			contrary: "Pleasure",
+			description: "Transition to a lesser perfection.",
+			ancestor: null,
+			children: {
+				Hatred: {
+					name: "Hatred",
+					ancestor: "Pain",
+					contrary: "Love",
+					description: "Pain accompanied by the idea of an external cause",
+					children: {
+						Derision: {
+							name: "Derision",
+							contrary: "Devotion",
+							ancestor: "Hatred",
+							description:
+								"Pleasure arising from our conceiving the presence of a quality, which we despise, in an object which we hate",
+						},
+						Envy: {
+							name: "Envy",
+							ancestor: "Hatred",
+							contrary: ["Pity"],
+							description:
+								"Hatred, in so far as it induces a man to be pained by another's good fortune, and to rejoice in another's evil fortune",
+						},
+						Indignation: {
+							name: "Indignation",
+							contrary: "Approval",
+							ancestor: "Hatred",
+							description:
+								"Hatred towards one who has done evil to another",
+						},
+						Disparagement: {
+							name: "Disparagement",
+							contrary: "Partiality",
+							ancestor: "Hate",
+							description:
+								"Thinking too meanly of anyone because we hate him",
+						},
+					},
+				},
+				Contempt: {
+					name: "Contempt",
+					ancestor: "Pain",
+					contrary: "Wonder",
+					description:
+						"The conception of anything which touches the mind so little, that its presence leads the mind to imagine those qualities which are not in it rather than such as are in it ",
+				},
+				Aversion: {
+					name: "Aversion",
+					ancestor: "Pain",
+					contrary: "Inclination",
+					description:
+						"Pain accompanied by the idea of something which is accidentally the cause of pain",
+				},
+				Fear: {
+					name: "Fear",
+					contrary: "Hope",
+					ancestor: "Pain",
+					description:
+						"Inconstant pain arising from the idea of something past or future, whereof we to a certain extent doubt the issue",
+				},
+				Despair: {
+					name: "Despair",
+					contrary: "Confidence",
+					ancestor: "Pain",
+					description:
+						"Pain arising from the idea of something past or future, wherefrom all cause of doubt has been removed",
+				},
+				Disappointment: {
+					name: "Disappointment",
+					contrary: "Joy",
+					ancestor: "Pain",
+					description:
+						"Pain accompanied by the idea of something past, which has had an issue contrary to our hope",
+				},
+				Pity: {
+					name: "Pity or Compassion",
+					contrary: "Envy",
+					ancestor: "Pain",
+					description:
+						"Pity is pain accompanied by the idea of evil, which has befallen someone else whom we conceive to be like ourselves",
+				},
+				Humility: {
+					name: "Humility",
+					contrary: "SelfApproval",
+					ancestor: "Pain",
+					description:
+						"Pain arising from a man's contemplation of his own weakness of body or mind",
+				},
+				Repentance: {
+					name: "Repentance",
+					contrary: "SelfApproval",
+					description:
+						"pain accompanied by the idea of some action, which we believe we have performed by the free decision of our mind",
+					ancestor: "Pain",
+				},
+				SelfAbasement: {
+					name: "Self-Abasement",
+					contrary: "SelfApproval",
+					description:
+						"Thinking too meanly of one's self by reason of pain",
+					ancestor: "Pain",
+				},
+				Shame: {
+					name: "Shame",
+					ancestor: "Pain",
+					contrary: "Honour",
+					description:
+						"Pain accompanied by the idea of some action of our own, which we believe to be blamed by others",
+				},
+			},
+		},
+	};
+
+	// Helper method to get an emotion by name
+	public getEmotion(name: string): IEmotion | null {
+		for (const key in this.emotions) {
+			const emotions = this.emotions[key as keyof IPrimaryEmotions];
+			const emotion = this.findEmotion(emotions, name);
+			if (emotion) return emotion;
+		}
+		return null;
+	}
+
+	// Recursive method to find an emotion in the hierarchy
+	private findEmotion(emotion: IEmotion, name: string): IEmotion | null {
+		if (emotion.name.toLowerCase() === name.toLowerCase()) {
+			return emotion;
+		}
+		if (emotion.children) {
+			for (const key in emotion.children) {
+				const childEmotion = this.findEmotion(emotion.children[key], name);
+				if (childEmotion) return childEmotion;
+			}
+		}
+		return null;
+	}
+
+	// Helper method to get the ancestor of an emotion
+	public getAncestor(name: string): string | null {
+		const emotion = this.getEmotion(name);
+		return emotion ? emotion.ancestor : null;
+	}
+
+	// Helper method to get the contrary emotions of an emotion
+	public getContrary(name: string): string | string[] | null {
+		const emotion = this.getEmotion(name);
+		return emotion && emotion.contrary ? emotion.contrary : null;
+	}
+
+	// Helper method to get all children of an emotion
+	public getChildren(name: string): { [key: string]: IEmotion } | null {
+		const emotion = this.getEmotion(name);
+		return emotion ? emotion.children || null : null;
+	}
+}
+const StyledEmotions = styled("div")(({}) => {
+	return {
+		display: "flex",
+		flexWrap: "wrap",
+		justifyContent: "space-around",
+		margin: "20px 0",
+		"@media (max-width: 768px)": {
+			flexDirection: "column",
+			alignItems: "center",
+		},
+	};
+});
+
+const EmotionColumn = styled("div")(({}) => {
+	return {
+		flex: 1,
+		margin: "10px",
+		padding: "10px",
+		border: "1px solid #ddd",
+		borderRadius: "5px",
+		backgroundColor: "#f9f9f9",
+		minWidth: "200px",
+		maxWidth: "300px",
+		h2: {
+			textAlign: "center",
+			color: "#333",
+		},
+	};
+});
+
+const EmotionBox = styled("div")<{ isHovered: boolean }>(({ isHovered }) => {
+	return {
+		margin: "5px 0",
+		padding: "10px",
+		borderRadius: "5px",
+		backgroundColor: isHovered ? "#eef" : "#fff",
+		transition: "background-color 0.3s",
+		"&:hover": {
+			backgroundColor: "#eef",
+		},
+	};
+});
+
+const EmotionTitle = styled("div")(() => {
+	return {
+		fontWeight: "bold",
+		marginBottom: "5px",
+		color: "#333",
+	};
+});
+
+const EmotionDescription = styled("div")(() => {
+	return {
+		fontSize: "0.9em",
+		color: "#666",
+		marginBottom: "5px",
+	};
+});
+
+const EmotionAncestor = styled("div")(() => {
+	return {
+		fontSize: "0.8em",
+		color: "#999",
+		marginBottom: "5px",
+	};
+});
+
+const EmotionContrary = styled("div")<{ isActive: boolean }>(({ isActive }) => {
+	return {
+		fontSize: "0.8em",
+		color: isActive ? "#d33" : "#999",
+		marginBottom: "5px",
+		transition: "color 0.3s",
+	};
+});
+
+// Rendering emotions with hover effect for contrary emotions
+const renderEmotions = (
+	emotion: IEmotion,
+	hoveredEmotion: string | null,
+	setHoveredEmotion: React.Dispatch<React.SetStateAction<string | null>>,
+) => {
+	const handleMouseEnter = () => setHoveredEmotion(emotion.name);
+	const handleMouseLeave = () => setHoveredEmotion(null);
+
+	const isContraryActive = (contrary: string | string[]) => {
+		if (Array.isArray(contrary)) {
+			return contrary.includes(hoveredEmotion || "");
+		}
+		return contrary === hoveredEmotion;
+	};
+
+	return (
+		<EmotionBox
+			key={emotion.name}
+			isHovered={hoveredEmotion === emotion.name}
+			onMouseEnter={handleMouseEnter}
+			onMouseLeave={handleMouseLeave}
+		>
+			<EmotionTitle>{emotion.name}</EmotionTitle>
+			<EmotionDescription>{emotion.description}</EmotionDescription>
+			{emotion.ancestor && (
+				<EmotionAncestor>Ancestor: {emotion.ancestor}</EmotionAncestor>
+			)}
+			{emotion.contrary && (
+				<EmotionContrary isActive={isContraryActive(emotion.contrary)}>
+					Contrary:{" "}
+					{Array.isArray(emotion.contrary)
+						? emotion.contrary.join(", ")
+						: emotion.contrary}
+				</EmotionContrary>
+			)}
+			{emotion.children && (
+				<div style={{ marginLeft: 20 }}>
+					{Object.values(emotion.children).map(childEmotion =>
+						renderEmotions(
+							childEmotion,
+							hoveredEmotion,
+							setHoveredEmotion,
+						),
+					)}
+				</div>
+			)}
+		</EmotionBox>
+	);
+};
+
+function DeductedEmotions() {
+	const [hoveredEmotion, setHoveredEmotion] = useState<string | null>(null);
+	const emotionsData = new Emotions();
+
+	return (
+		<StyledEmotions>
+			<EmotionColumn>
+				<h2>Desire</h2>
+				{renderEmotions(
+					emotionsData.emotions.desire,
+					hoveredEmotion,
+					setHoveredEmotion,
+				)}
+			</EmotionColumn>
+			<EmotionColumn>
+				<h2>Pleasure</h2>
+				{renderEmotions(
+					emotionsData.emotions.pleasure,
+					hoveredEmotion,
+					setHoveredEmotion,
+				)}
+			</EmotionColumn>
+			<EmotionColumn>
+				<h2>Pain</h2>
+				{renderEmotions(
+					emotionsData.emotions.pain,
+					hoveredEmotion,
+					setHoveredEmotion,
+				)}
+			</EmotionColumn>
+		</StyledEmotions>
+	);
+}
 
 const content = [
+	<DeductedEmotions key={Math.random()} />,
+	// ---
 	`
 # Definitions
 
-##### In here I only want to place the original definitions, may change it later.
-`,
+#### In here I only want to place the original definitions, may change it later.
 
-	`
 I. Desire is the actual essence of man, in so far as it is conceived, as determined to a particular activity by some given modification of itself.
 
 Explanation.—We have said above, in the note to Prop. ix. of this part, that desire is appetite, with consciousness thereof; further, that appetite is the essence of man, in so far as it is determined to act in a way tending to promote its own persistence. But, in the same note, I also remarked that, strictly speaking, I recognize no distinction between appetite and desire. For whether a man be conscious of his appetite or not, it remains one and the same appetite. Thus, in order to avoid the appearance of tautology, I have refrained from explaining desire by appetite; but I have take care to define it in such a manner, as to comprehend, under one head, all those endeavours of human nature, which we distinguish by the terms appetite, will, desire, or impulse. I might, indeed, have said, that desire is the essence of man, in so far as it is conceived as determined to a particular activity; but from such a definition (cf. II. xxiii.) it would not follow that the mind can be conscious of its desire or appetite. Therefore, in order to imply the cause of such consciousness, it was necessary to add, in so far as it is determined by some given modification, &c. For, by a modification of man's essence, we understand every disposition of the said essence, whether such disposition be innate, or whether it be conceived solely under the attribute of thought, or solely under the attribute of extension, or whether, lastly, it be referred simultaneously to both these attributes. By the term desire, then, I here mean all man's endeavours, impulses, appetites, and volitions, which vary according to each man's disposition, and are, therefore, not seldom opposed one to another, according as a man is drawn in different directions, and knows not where to turn.

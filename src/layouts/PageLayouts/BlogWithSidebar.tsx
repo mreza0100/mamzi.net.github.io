@@ -20,7 +20,7 @@ const WithSidebar = ({ children, ads }: { children: any; ads?: string[] }) => {
 					"dark:bg-slate-900 dark:text-white",
 				)}
 			>
-				<div className="container px-0 md:px-[15px] lg:flex pb-[50px] pt-[50px]">
+				<div className="container px-0 md:px-[15px] lg:flex pb-[50px] pt-[50px] justify-between">
 					<article
 						className={combineClasses(
 							classes.article_content,
