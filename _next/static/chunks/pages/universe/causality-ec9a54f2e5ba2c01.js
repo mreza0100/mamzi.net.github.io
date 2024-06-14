@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[226],{3912:function(n,u,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/universe/causality",function(){return _(8495)}])}},function(n){n.O(0,[774,888,179],(function(){return u=3912,n(n.s=u);var u}));var u=n.O();_N_E=u}]);

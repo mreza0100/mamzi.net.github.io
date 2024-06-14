@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[238],{9471:function(n,i,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/life/mind/emotions/definitions",function(){return _(2666)}])}},function(n){n.O(0,[774,888,179],(function(){return i=9471,n(n.s=i);var i}));var i=n.O();_N_E=i}]);
