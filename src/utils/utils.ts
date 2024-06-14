@@ -1,8 +1,9 @@
+import { SORTED_ARTICLES_BY_DATE } from "../../BLOG_CONSTANTS/_ARTICLES_LIST";
+import { WEBSITE_NAME, WEBSITE_URL } from "../../BLOG_CONSTANTS/_BLOG_SETUP";
+import { ArticlesKeys } from "../../BLOG_CONSTANTS/_ARTICLE_PORT";
+import { iArticle, iSEO } from "../shared/interfaces";
 import { THEMES } from "../shared/enums";
 import { useRouter } from "next/router";
-import { ArticlesKeys, SORTED_ARTICLES_BY_DATE } from "../../BLOG_CONSTANTS/_ARTICLES_LIST";
-import { iArticle, iSEO } from "../shared/interfaces";
-import { WEBSITE_NAME, WEBSITE_URL } from "../../BLOG_CONSTANTS/_BLOG_SETUP";
 import { GAEvent } from "../../google";
 
 export function getPageURL(key: ArticlesKeys): string {
@@ -172,40 +173,42 @@ export const CREATE_SEO_CONFIG = (PAGE_SEO: iSEO) => {
 
 	// set url and path
 	const origin =
-		typeof window !== "undefined" && window.location.origin
-			? window.location.origin
-			: "";
-	const LOCAL_URL = IS_DEV_MODE ? origin : WEBSITE_URL ? WEBSITE_URL : origin;
-	const LOCAL_PATH = ARTICLE_DETAILS ? transformPath(ARTICLE_DETAILS.path) : router.asPath;
+		typeof window !== "undefined" && window.location.origin ?
+			window.location.origin
+		:	"";
+	const LOCAL_URL =
+		IS_DEV_MODE ? origin
+		: WEBSITE_URL ? WEBSITE_URL
+		: origin;
+	const LOCAL_PATH =
+		ARTICLE_DETAILS ? transformPath(ARTICLE_DETAILS.path) : router.asPath;
 
 	const meta_description = ARTICLE_DETAILS?.preview?.shortIntro || PAGE_SEO.description;
 
 	const keywords = PAGE_SEO?.keywords || ARTICLE_DETAILS?.preview?.tags;
 	const ogUrl = `${LOCAL_URL}${LOCAL_PATH}`;
 
-	const ogImage = PAGE_SEO.ogImage
-		? `${LOCAL_URL}${transformImagePaths(PAGE_SEO?.ogImage)}`
-		: `${LOCAL_URL}${
-				ARTICLE_DETAILS?.preview.thumbnail
-					? transformImagePaths(ARTICLE_DETAILS?.preview.thumbnail)
-					: null
-		  }`;
+	const ogImage =
+		PAGE_SEO.ogImage ?
+			`${LOCAL_URL}${transformImagePaths(PAGE_SEO?.ogImage)}`
+		:	`${LOCAL_URL}${
+				ARTICLE_DETAILS?.preview.thumbnail ?
+					transformImagePaths(ARTICLE_DETAILS?.preview.thumbnail)
+				:	null
+			}`;
 
 	const twitterHandle = PAGE_SEO?.twitterHandle || "";
-	const author = ARTICLE_DETAILS ? ARTICLE_DETAILS?.preview.author.name : PAGE_SEO?.author;
+	const author =
+		ARTICLE_DETAILS ? ARTICLE_DETAILS?.preview.author.name : PAGE_SEO?.author;
 
 	const title =
-		router.asPath === "/"
-			? `${
-					ARTICLE_DETAILS
-						? ARTICLE_DETAILS?.preview?.articleTitle
-						: PAGE_SEO?.title
-			  } ${author ? "| " + author : null}`
-			: `${
-					ARTICLE_DETAILS
-						? ARTICLE_DETAILS?.preview?.articleTitle
-						: PAGE_SEO?.title
-			  } | ${WEBSITE_NAME} ${author ? "| " + author : null}`;
+		router.asPath === "/" ?
+			`${
+				ARTICLE_DETAILS ? ARTICLE_DETAILS?.preview?.articleTitle : PAGE_SEO?.title
+			} ${author ? "| " + author : null}`
+		:	`${
+				ARTICLE_DETAILS ? ARTICLE_DETAILS?.preview?.articleTitle : PAGE_SEO?.title
+			} | ${WEBSITE_NAME} ${author ? "| " + author : null}`;
 
 	let seo_config = {
 		title: title,

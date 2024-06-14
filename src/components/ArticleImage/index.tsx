@@ -31,8 +31,7 @@ const Image = ({
 				className,
 				classes["size_" + size],
 				"display-block mx-auto my-5",
-			)}
-		>
+			)}>
 			<Zoom>
 				<img
 					src={transformImagePaths(src)}
@@ -46,8 +45,7 @@ const Image = ({
 					className={combineClasses(
 						classes.article_image__caption,
 						"mb-0 mt-2 text-sm w-full text-center",
-					)}
-				>
+					)}>
 					{caption}
 				</p>
 			)}
@@ -56,8 +54,7 @@ const Image = ({
 					className={combineClasses(
 						classes.article_image__caption,
 						"mb-0 mt-2 text-sm w-full text-center",
-					)}
-				>
+					)}>
 					<LinkTo newTab href={source}>
 						source
 					</LinkTo>

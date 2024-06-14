@@ -1,7 +1,22 @@
+import { ArticlesKeys } from "../../BLOG_CONSTANTS/_ARTICLE_PORT";
 import { DEFAULT_SEO } from "../../BLOG_CONSTANTS/_BLOG_SETUP";
 import { Image, PageLayout } from "../../src/components";
 import Markdown from "../../src/components/Markdown";
 import { ImageSize } from "../../src/shared/enums";
+
+export const SpinozaEthicsMetadata = {
+	key: ArticlesKeys.SpinozaEthics,
+	url: "/everything/spinoza-ethics",
+	path: "/pages/everything/spinoza-ethics.tsx",
+	featureArticle: true,
+	isPublished: true,
+	date: "May 15 2024",
+	articleTitle: "Spinoza and Ethics",
+	tags: "Spinoza, Ethics, Deductive reasoning, Propositions, Logic",
+	thumbnail: "/public/images/spinoza-ethics.jpg",
+	shortIntro: "Spinoza's view on the ethics and how he proves his propositions",
+	category: "Everything",
+};
 
 const content = [
 	`

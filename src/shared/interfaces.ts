@@ -1,3 +1,4 @@
+import { ArticlesKeys } from "../../BLOG_CONSTANTS/_ARTICLE_PORT";
 import { LogoType, NavbarType } from "./enums";
 
 export interface IAuthor {
@@ -17,6 +18,16 @@ export interface IArticleHeaderData {
 	shortIntro: string;
 	category?: string;
 }
+
+export type IArticleBranch = {
+	key: ArticlesKeys;
+	title?: string;
+	children?: IArticlesTree;
+	url?: string;
+	shallow?: boolean;
+};
+
+export type IArticlesTree = (IArticleBranch | ArticlesKeys)[];
 
 export interface iArticle {
 	key: string;

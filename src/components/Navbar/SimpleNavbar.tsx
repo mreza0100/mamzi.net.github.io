@@ -33,81 +33,61 @@ const SimpleNavbar = ({
 					classes.navbar__container,
 					"container flex items-center justify-between",
 					"px-2",
-				)}
-			>
+				)}>
 				<div className="flex items-center">
 					<div
 						className={combineClasses(
 							classes.mobileBurgerToggle,
 							"mr-5",
-							openSidebar
-								? classes.mobileBurgerToggle__close
-								: " ",
+							openSidebar ? classes.mobileBurgerToggle__close : " ",
 						)}
-						onClick={() => toggleSideMenu()}
-					>
+						onClick={() => toggleSideMenu()}>
 						<AiOutlineMenu className="dark:text-white text-black text-2xl" />
 					</div>
 					<Link href="/" passHref>
-						{logo ? (
-							logo.type === LogoType.IMAGE ? (
+						{logo ?
+							logo.type === LogoType.IMAGE ?
 								<img
 									src={
-										theme === THEMES.DARK
-											? transformImagePaths(
-													logo.logoLight,
-											  )
-											: transformImagePaths(
-													logo.logo,
-											  )
+										theme === THEMES.DARK ?
+											transformImagePaths(logo.logoLight)
+										:	transformImagePaths(logo.logo)
 									}
 									alt="WebExpe"
 									className="cursor-pointer"
 									width="100px"
 								/>
-							) : (
-								<a className="text-[22px] font-semibold">
-									{logo.logo}
-								</a>
-							)
-						) : (
-							<a className="text-[22px] font-semibold">Logo</a>
-						)}
+							:	<a className="text-[22px] font-semibold">{logo.logo}</a>
+						:	<a className="text-[22px] font-semibold">Logo</a>}
 					</Link>
 				</div>
 				<div className="flex items-center">
 					<div className="text-[14px] font-normal items-center lg:flex hidden">
 						{navLinks.map((each: iNavLink, i: any) =>
-							each.type !== "dropdown" ? (
-								!each.newTab ? (
+							each.type !== "dropdown" ?
+								!each.newTab ?
 									<LinkTo
 										href={each.path}
 										key={i}
 										passHref
-										className="mx-2"
-									>
+										className="mx-2">
 										{each.label}
 									</LinkTo>
-								) : (
-									<a
+								:	<a
 										href={each.path}
 										key={each.path + 1}
 										target="_blank"
 										rel="noopener noreferrer"
-										className="d-block mx-2 flex-wrap"
-									>
+										className="d-block mx-2 flex-wrap">
 										{each.label}
 									</a>
-								)
-							) : (
-								<NavCatergoryDD
+							:	<NavCatergoryDD
 									key={i}
 									label={each.label}
 									openDD={openDD}
 									setOpenDD={() => setOpenDD(!openDD)}
 									floating
-								/>
-							),
+								/>,
 						)}
 						{socials && (
 							<div className="ml-5 pt-1">
@@ -117,8 +97,7 @@ const SimpleNavbar = ({
 										key={i}
 										target="_blank"
 										rel="noopener noreferrer"
-										className="text-[18px] inline-block mr-4"
-									>
+										className="text-[18px] inline-block mr-4">
 										{each.icon}
 									</a>
 								))}
@@ -131,8 +110,7 @@ const SimpleNavbar = ({
 							classes.search_icon_wrapper,
 							"ml-5 dark:text-white",
 						)}
-						onClick={() => openSearch()}
-					>
+						onClick={() => openSearch()}>
 						<button name="search-button" aria-label="search button">
 							<AiOutlineSearch className="dark:text-white text-black text-[22px]" />
 						</button>
@@ -151,13 +129,10 @@ const SimpleNavbar = ({
 							classes.theme_switch,
 							"pl-3 dark:text-white text-black",
 						)}
-						onClick={changeTheme}
-					>
-						{theme && theme === "dark" ? (
+						onClick={changeTheme}>
+						{theme && theme === "dark" ?
 							<BsFillSunFill className="text-2xl" />
-						) : (
-							<BsFillMoonFill className="text-md " />
-						)}
+						:	<BsFillMoonFill className="text-md " />}
 					</button>
 				</div>
 				<div></div>

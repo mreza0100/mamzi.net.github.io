@@ -1,6 +1,21 @@
+import { ArticlesKeys } from "../../../BLOG_CONSTANTS/_ARTICLE_PORT";
 import { Image, PageLayout } from "../../../src/components";
 import Markdown from "../../../src/components/Markdown";
 import { ImageSize } from "../../../src/shared/enums";
+
+export const MindMetadata = {
+	key: ArticlesKeys.Mind,
+	url: "/life/mind",
+	path: "/pages/life/mind.tsx",
+	featureArticle: true,
+	isPublished: true,
+	date: "May 22 2024",
+	articleTitle: "Mind",
+	tags: "Spinoza, Ethics, Mind, Idea, Feelings, Emotions, Memory",
+	thumbnail: "/public/images/mind.webp",
+	shortIntro: "Spinoza's view on the mind, idea, memory as a substance",
+	category: "Life",
+};
 
 const content = `
 

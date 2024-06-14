@@ -20,27 +20,24 @@ const LinkTo = ({
 }: iLinkTo) => {
 	return (
 		<>
-			{newTab || external ? (
+			{newTab || external ?
 				<a
 					href={transformPath(href)}
 					className={className}
 					target="_blank"
-					rel="noopener noreferrer"
-				>
+					rel="noopener noreferrer">
 					{children}
 				</a>
-			) : (
-				<Link href={transformPath(href)} passHref={passHref}>
+			:	<Link href={transformPath(href)} passHref={passHref}>
 					<a
 						className={combineClasses(
 							"cursor-pointer hover:text-blue-500",
 							className,
-						)}
-					>
+						)}>
 						{children}
 					</a>
 				</Link>
-			)}
+			}
 		</>
 	);
 };

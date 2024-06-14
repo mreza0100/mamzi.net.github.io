@@ -1,6 +1,22 @@
+import { ArticlesKeys } from "../../BLOG_CONSTANTS/_ARTICLE_PORT";
 import { Image, PageLayout } from "../../src/components";
 import Markdown from "../../src/components/Markdown";
 import { ImageSize } from "../../src/shared/enums";
+
+export const BuildingBlocksMetadata = {
+	key: ArticlesKeys.BuildingBlocks,
+	url: "/universe/building-blocks",
+	path: "/pages/universe/building-blocks.tsx",
+	featureArticle: true,
+	isPublished: true,
+	date: "May 17 2024",
+	articleTitle: "Building Blocks",
+	tags: "Spinoza, Nature, attribute, substance, mode",
+	thumbnail: "/public/images/building-blocks.png",
+	shortIntro:
+		"Spinoza's view on the building blocks of the fundamental elements of the universe",
+	category: "Universe",
+};
 
 const content = `
 ## Building blocks of God or Nature or Universe

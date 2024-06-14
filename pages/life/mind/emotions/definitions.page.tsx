@@ -1,9 +1,24 @@
-import styled from "styled-components";
+import { ArticlesKeys } from "../../../../BLOG_CONSTANTS/_ARTICLE_PORT";
 import { Image, PageLayout } from "../../../../src/components";
 import Markdown from "../../../../src/components/Markdown";
 import { ImageSize } from "../../../../src/shared/enums";
 import { EthSts } from "../../../../src/utils/markdown";
+import styled from "styled-components";
 import { useState } from "react";
+
+export const EmotionsDefinitionsMetadata = {
+	key: ArticlesKeys.EmotionsDefinitions,
+	url: "/life/mind/emotions/definitions",
+	path: "/pages/life/mind/emotions/definitions.tsx",
+	featureArticle: true,
+	isPublished: true,
+	date: "Jun 13 2024",
+	articleTitle: "Emotion Definitions",
+	tags: "Emotions definitions Spinoza",
+	thumbnail: "/public/images/life/mind/emotions/definitions/emotions-definition.jpg",
+	shortIntro: "Spinoza's view on the emotions contrariwise",
+	category: "Life",
+};
 
 interface IEmotion {
 	name: string;
@@ -108,8 +123,7 @@ class Emotions {
 				Luxury: {
 					name: "Luxury",
 					ancestor: "Pleasure",
-					description:
-						"Excessive desire, or even love of living sumptuously",
+					description: "Excessive desire, or even love of living sumptuously",
 				},
 				Intemperance: {
 					name: "Intemperance",
@@ -124,8 +138,7 @@ class Emotions {
 				Lust: {
 					name: "Lust",
 					ancestor: "Love",
-					description:
-						"Desire and love in the matter of sexual intercourse",
+					description: "Desire and love in the matter of sexual intercourse",
 				},
 			},
 		},
@@ -139,8 +152,7 @@ class Emotions {
 					name: "Love",
 					ancestor: "Pleasure",
 					contrary: "Hatred",
-					description:
-						"Pleasure accompanied by the idea of an external cause",
+					description: "Pleasure accompanied by the idea of an external cause",
 					children: {
 						Devotion: {
 							name: "Devotion",
@@ -159,8 +171,7 @@ class Emotions {
 							name: "Approval",
 							contrary: "Indignation",
 							ancestor: "Love",
-							description:
-								"Love towards one who has done good to another",
+							description: "Love towards one who has done good to another",
 						},
 						Partiality: {
 							name: "Partiality",
@@ -330,8 +341,7 @@ class Emotions {
 				SelfAbasement: {
 					name: "Self-Abasement",
 					contrary: "SelfApproval",
-					description:
-						"Thinking too meanly of one's self by reason of pain",
+					description: "Thinking too meanly of one's self by reason of pain",
 					ancestor: "Pain",
 				},
 				Shame: {
@@ -484,8 +494,7 @@ const renderEmotions = (
 			key={emotion.name}
 			isHovered={hoveredEmotion === emotion.name}
 			onMouseEnter={handleMouseEnter}
-			onMouseLeave={handleMouseLeave}
-		>
+			onMouseLeave={handleMouseLeave}>
 			<EmotionTitle>{emotion.name}</EmotionTitle>
 			<EmotionDescription>{emotion.description}</EmotionDescription>
 			{emotion.ancestor && (
@@ -494,19 +503,15 @@ const renderEmotions = (
 			{emotion.contrary && (
 				<EmotionContrary isActive={isContraryActive(emotion.contrary)}>
 					Contrary:{" "}
-					{Array.isArray(emotion.contrary)
-						? emotion.contrary.join(", ")
-						: emotion.contrary}
+					{Array.isArray(emotion.contrary) ?
+						emotion.contrary.join(", ")
+					:	emotion.contrary}
 				</EmotionContrary>
 			)}
 			{emotion.children && (
 				<div style={{ marginLeft: 20 }}>
 					{Object.values(emotion.children).map(childEmotion =>
-						renderEmotions(
-							childEmotion,
-							hoveredEmotion,
-							setHoveredEmotion,
-						),
+						renderEmotions(childEmotion, hoveredEmotion, setHoveredEmotion),
 					)}
 				</div>
 			)}

@@ -6,8 +6,6 @@ import { CREATE_SEO_CONFIG, getArticleDetails } from "../../utils/utils";
 import Centered from "./BlogCentered";
 import WithSidebar from "./BlogWithSidebar";
 import HomeLayout from "./HomeLayout";
-import UltimateTree from "../../components/Tree";
-import { ArticlesTree } from "../../../BLOG_CONSTANTS/_ARTICLES_LIST";
 
 interface IBlogLayout {
 	children: JSX.Element;
@@ -26,30 +24,34 @@ const PageLayout = ({
 	home = false,
 	ads = [],
 }: IBlogLayout) => {
+	// Get article details and destructure for easier access
 	const ARTICLE_DETAILS = getArticleDetails();
-	let SEO_CONFIG = {};
-	if (ARTICLE_DETAILS && ARTICLE_DETAILS.seo) {
-		SEO_CONFIG = CREATE_SEO_CONFIG({ ...ARTICLE_DETAILS.seo });
-	} else if (PAGE_SEO) {
-		SEO_CONFIG = CREATE_SEO_CONFIG({ ...DEFAULT_SEO, ...PAGE_SEO });
-	} else {
-		SEO_CONFIG = CREATE_SEO_CONFIG({ ...DEFAULT_SEO });
-	}
+	const seoDetails = ARTICLE_DETAILS?.seo || PAGE_SEO || DEFAULT_SEO;
+
+	// Create SEO configuration using available details
+	const SEO_CONFIG = CREATE_SEO_CONFIG(seoDetails);
+
+	// Determine layout based on provided props
+	const renderLayout = () => {
+		if (blogwithsidebar) {
+			return <WithSidebar ads={ads}>{children}</WithSidebar>;
+		}
+		if (blogcentered) {
+			return <Centered>{children}</Centered>;
+		}
+		if (home) {
+			return <HomeLayout>{children}</HomeLayout>;
+		}
+		return <HomeLayout>{children}</HomeLayout>;
+	};
 
 	return (
 		<>
 			<NextSeo {...SEO_CONFIG} />
 			<Navbar />
-			{blogwithsidebar ? (
-				<WithSidebar ads={ads}>{children}</WithSidebar>
-			) : blogcentered ? (
-				<Centered> {children}</Centered>
-			) : home ? (
-				<HomeLayout>{children}</HomeLayout>
-			) : (
-				<HomeLayout>{children}</HomeLayout>
-			)}
+			{renderLayout()}
 		</>
 	);
 };
+
 export default PageLayout;

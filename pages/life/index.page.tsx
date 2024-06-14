@@ -1,6 +1,22 @@
+import { ArticlesKeys } from "../../BLOG_CONSTANTS/_ARTICLE_PORT";
 import { Image, PageLayout } from "../../src/components";
 import Markdown from "../../src/components/Markdown";
 import { ImageSize } from "../../src/shared/enums";
+
+export const LifeMetadata = {
+	key: ArticlesKeys.Life,
+	url: "/life/",
+	path: "/pages/life.tsx",
+	featureArticle: true,
+	isPublished: true,
+	date: "May 19 2024",
+	articleTitle: "Life or Living Beings",
+	tags: "Spinoza, Ethics, Life, Living Beings",
+	thumbnail: "/public/images/life.webp",
+	shortIntro:
+		"Spinoza's view on the life and living beings and how they are part of nature",
+	category: "Life",
+};
 
 const content = `
 

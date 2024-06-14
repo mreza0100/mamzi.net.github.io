@@ -1,6 +1,21 @@
+import { ArticlesKeys } from "../../BLOG_CONSTANTS/_ARTICLE_PORT";
 import { Image, PageLayout, Text } from "../../src/components";
 import Markdown from "../../src/components/Markdown";
 import { ImageSize } from "../../src/shared/enums";
+
+export const UniverseMetadata = {
+	key: ArticlesKeys.Universe,
+	url: "/universe/",
+	path: "/pages/universe.tsx",
+	date: "May 22 2024",
+	featureArticle: true,
+	isPublished: true,
+	articleTitle: "Universe",
+	tags: "universe, cause and effect, space, time, matter, energy",
+	thumbnail: "/public/images/beginning-adams.jpg",
+	shortIntro: "Cause and effect in the universe",
+	category: "Universe",
+};
 
 const content = [
 	`

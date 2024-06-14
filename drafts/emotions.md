@@ -6,10 +6,6 @@ Corollary.—Hence it follows that the mind shrinks from conceiving those things
 
 Note.—From what has been said we may clearly understand the nature of Love and Hate. Love is nothing else but pleasure accompanied by the idea of an external cause: Hate is nothing else but pain accompanied by the idea of an external cause. We further see, that he who loves necessarily endeavours to have, and to keep present to him, the object of his love; while he who hates endeavours to remove and destroy the object of his hatred. But I will treat of these matters at more length hereafter. -->
 
-Emotion overlap learning pattern aka emotional intuition made by past experiences.
-
-PROP. XIV. If the mind has once been affected by two emotions at the same time, it will, whenever it is afterwards affected by one of these two, be also affected by the other.
-
 Proof.—If the human body has once been affected by two bodies at once, whenever afterwards the mind conceives one of them, it will straightway remember the other also (II. xviii.). But the mind's conceptions indicate rather the emotions of our body than the nature of external bodies (II. xvi. Coroll. ii.); therefore, if the body, and consequently the mind (III. Def. iii.) has been once affected by two emotions at the same time, it will, whenever it is afterwards affected by one of the two, be also affected by the other.
 
 ! he continues that because of the dual emotion learning pattern, anything can accidentally give us the feeling of hate or love, you can accidentally love or hate anything, but not to know the reason.
@@ -33,37 +29,37 @@ Proof.—The point of resemblance was in the object (by hypothesis), when we reg
 
 PROP. XIX. He who conceives that the object of his love is destroyed will feel pain; if he conceives that it is preserved he will feel pleasure.
 
-- You have a car, you love it, you see it destroyed, you feel pain.
-- You have a car, you love it, you see it preserved from destruction, you feel pleasure.
+-   You have a car, you love it, you see it destroyed, you feel pain.
+-   You have a car, you love it, you see it preserved from destruction, you feel pleasure.
 
 PROP. XX. He who conceives that the object of his hate is destroyed will also feel pleasure.
 
-- You have a car, you hate it, you see it destroyed, you feel pleasure.
-- You have a car, you hate it, you see it preserved from destruction, you feel pain.
+-   You have a car, you hate it, you see it destroyed, you feel pleasure.
+-   You have a car, you hate it, you see it preserved from destruction, you feel pain.
 
 PROP. XXI. He who conceives, that the object of his love is affected pleasurably or painfully, will himself be affected pleasurably or painfully; and the one or the other emotion will be greater or less in the lover according as it is greater or less in the thing loved.
 
-- You have a car, you love it, you see it affected pleasurably(adoration of others) you feel pleasure.
-- You have a car, you love it, you see it affected painfully(people hate it) you feel pain.
+-   You have a car, you love it, you see it affected pleasurably(adoration of others) you feel pleasure.
+-   You have a car, you love it, you see it affected painfully(people hate it) you feel pain.
 
 PROP. XXII. If we conceive that anything pleasurably affects some object of our love, we shall be affected with love towards that thing. Contrariwise, if we conceive that it affects an object of our love painfully, we shall be affected with hatred towards it.
 
-- You have a car, you love it, you see it pleasurably affects others(adoration of others) you feel love towards others who loved your loved thing.
-- You have a car, you love it, you see it painfully affects others(someone hate it) you feel hatred towards others who hated your loved thing.
+-   You have a car, you love it, you see it pleasurably affects others(adoration of others) you feel love towards others who loved your loved thing.
+-   You have a car, you love it, you see it painfully affects others(someone hate it) you feel hatred towards others who hated your loved thing.
 
 XXIII. He who conceives, that an object of his hatred is painfully affected, will feel pleasure. Contrariwise, if he thinks that the said object is pleasurably affected, he will feel pain. Each of these emotions will be greater or less, according as its contrary is greater or less in the object of hatred.
 
 You will pleasure of your hated car destruction as much as you hate it.
 
-- You have a car, you hate it, you see it painfully affects others(someone hate it) you feel pleasure.
-- You feel pleasure of your hated car as much as you hate it.
-- You have a car, you hate it, you see it pleasurably affects others(adoration of others) you feel pain.
-- You feel pain of your adored car as much as you hate it.
+-   You have a car, you hate it, you see it painfully affects others(someone hate it) you feel pleasure.
+-   You feel pleasure of your hated car as much as you hate it.
+-   You have a car, you hate it, you see it pleasurably affects others(adoration of others) you feel pain.
+-   You feel pain of your adored car as much as you hate it.
 
 PROP. XXIV. If we conceive that anyone pleasurably affects an object of our hate, we shall feel hatred towards him also. If we conceive that he painfully affects that said object, we shall feel love towards him.
 
-- You hate Taylor swift, you see someone who likes her, you feel hatred towards them.
-- You hate Taylor swift, you see someone who hates her, you feel love towards them.
+-   You hate Taylor swift, you see someone who likes her, you feel hatred towards them.
+-   You hate Taylor swift, you see someone who hates her, you feel love towards them.
 
 ---
 
@@ -85,19 +81,19 @@ This is called benevolence coming from desire from compassion.
 
 > PROP. XXVIII. We endeavour to bring about whatsoever we conceive to conduce to pleasure; but we endeavour to remove or destroy whatsoever we conceive to be truly repugnant thereto, or to conduce to pain.
 
-- Something conceived that leads to pleasure, we try to bring it.
-- Something conceived that leads to pain, we try to avoid it.
+-   Something conceived that leads to pleasure, we try to bring it.
+-   Something conceived that leads to pain, we try to avoid it.
 
 > PROP. XXXVI. He who remembers a thing, in which he has once taken delight, desires to possess it under the same circumstances as when he first took delight therein.
 
-- You remember that you had good time with your car in the west coast, you desire to have the same car in the west coast. You would desire same road and same weather with the same car.
+-   You remember that you had good time with your car in the west coast, you desire to have the same car in the west coast. You would desire same road and same weather with the same car.
 
 Corollary: If one of those circumstances is missing, you will not feel the same delight. (related to expectations and reality)
 
 > PROP. XXXIX. He who hates anyone will endeavour to do him an injury, unless he fears that a greater injury will thereby accrue to himself; on the other hand, he who loves anyone will, by the same law, seek to benefit him.
 
-- You hate someone, you will try to hurt them, unless you fear that they will hurt you back more.
-- You love someone, you will try to benefit them.
+-   You hate someone, you will try to hurt them, unless you fear that they will hurt you back more.
+-   You love someone, you will try to benefit them.
 
 > PROP. XL. He, who conceives himself to be hated by another, and believes that he has given him no cause for hatred, will hate that other in return.
 
@@ -107,7 +103,7 @@ Someone hate you for no reason, you will hate them back.
 
 Someone love you for no reason, you will love them back!
 
-- Note: You might argue that not everyone would love you back, but I should tell you that other behaviors are because of the complex nature of mind, our experiences from past and how we gone through it. But I tell you that people should logically be like this, unless other causes are in play.
+-   Note: You might argue that not everyone would love you back, but I should tell you that other behaviors are because of the complex nature of mind, our experiences from past and how we gone through it. But I tell you that people should logically be like this, unless other causes are in play.
 
 > PROP. XLII. He who has conferred a benefit on anyone from motives of love or honour will feel pain, if he sees that the benefit is received without gratitude.
 
@@ -131,15 +127,15 @@ You hate them back.
 
 > PROP. XLVI. If a man has been affected pleasurably or painfully by anyone, of a class or nation different from his own, and if the pleasure or pain has been accompanied by the idea of the said stranger as cause, under the general category of the class or nation: the man will feel love or hatred, not only to the individual stranger, but also to the whole class or nation whereto he belongs.
 
-- One of your mate collages meet a manager from a higher class in the department, someone important.
+-   One of your mate collages meet a manager from a higher class in the department, someone important.
 
-- They made your mate feel pain/pleasure.
-- You will feel love/hate towards the manager and all the other people from that class.
+-   They made your mate feel pain/pleasure.
+-   You will feel love/hate towards the manager and all the other people from that class.
 
-- You see a rich narcissist.
+-   You see a rich narcissist.
 
-- You see them as a cause of your pain.
-- You will hate all the rich people.
+-   You see them as a cause of your pain.
+-   You will hate all the rich people.
 
 > PROP. LIII. When the mind regards itself and its own power of activity, it feels pleasure: and that pleasure is greater in proportion to the distinctness wherewith it conceives itself and its own power of activity.
 

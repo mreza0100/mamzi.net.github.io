@@ -1,7 +1,22 @@
+import { ArticlesKeys } from "../../../../BLOG_CONSTANTS/_ARTICLE_PORT";
 import { Image, PageLayout } from "../../../../src/components";
 import Markdown from "../../../../src/components/Markdown";
 import { ImageSize } from "../../../../src/shared/enums";
 import { EthSts } from "../../../../src/utils/markdown";
+
+export const EmotionsMetadata = {
+	key: ArticlesKeys.Emotions,
+	url: "/life/mind/emotions",
+	path: "/pages/life/mind/emotions.tsx",
+	featureArticle: true,
+	isPublished: true,
+	date: "Jun 6 2024",
+	articleTitle: "Emotions",
+	tags: "Spinoza, Ethics, Mind, Idea, Emotions, Feelings",
+	thumbnail: "/public/images/life/mind/emotions/emotions-preview.jpg",
+	shortIntro: "Spinoza's view on the emotions contrariwise",
+	category: "Life",
+};
 
 const content = [
 	`

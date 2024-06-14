@@ -4,23 +4,22 @@ import Markdown from "../../../../src/components/Markdown";
 import { ImageSize } from "../../../../src/shared/enums";
 import { EthSts } from "../../../../src/utils/markdown";
 
-export const EmotionalCausalityMetadata = {
-	key: ArticlesKeys.EmotionCausality,
-	url: "/life/mind/emotions/causality",
-	path: "/pages/life/mind/emotions/causality.tsx",
+export const KnowledgeThirdMetadata = {
+	key: ArticlesKeys.KnowledgeThird,
+	url: "/life/mind/knowledge/third",
+	path: "/life/mind/knowledge/third.tsx",
 	featureArticle: true,
 	isPublished: false,
 	date: "Jun 14 2024",
-	articleTitle: "Emotional Causality",
-	tags: "Spinoza, Ethics, Emotions, Causality",
+	articleTitle: "Third kind of knowledge",
+	tags: "Spinoza, Ethics, third kind of knowledge",
 	thumbnail: "/public/images/spinoza-ethics.jpg", // TODO
-	shortIntro: "",
+	shortIntro: "", // TODO
 	category: "Life",
 };
 
 const content = [
 	`
-### Synchronization of Body and Mind
 
 
 

@@ -1,15 +1,11 @@
 import { List } from "..";
 import LinkTo from "../LinkTo";
 import Text from "../Text";
-import {
-	ArticlesKeys,
-	ArticlesTree,
-	FindArticleByPath,
-	IArticleBranch,
-	IArticlesTree,
-} from "../../../BLOG_CONSTANTS/_ARTICLES_LIST";
+import { ArticlesTree, FindArticleByPath } from "../../../BLOG_CONSTANTS/_ARTICLES_LIST";
 import { getPageURL } from "../../utils/utils";
 import { useRouter } from "next/router";
+import { ArticlesKeys } from "../../../BLOG_CONSTANTS/_ARTICLE_PORT";
+import { IArticleBranch, IArticlesTree } from "../../shared/interfaces";
 
 interface IProps {
 	articles?: IArticlesTree;
@@ -28,13 +24,12 @@ export default function UltimateTree({ articles = ArticlesTree }: IProps) {
 				b.title = isThisCurrentPage ? b.title + " - You are here" : b.title;
 				return (
 					<li key={b.key}>
-						{b.shallow ? (
+						{b.shallow ?
 							<Text>{b.title}</Text>
-						) : (
-							<LinkTo newTab={false} href={b.url || ""}>
+						:	<LinkTo newTab={false} href={b.url || ""}>
 								{b.title}
 							</LinkTo>
-						)}
+						}
 						{b.children && <UltimateTree articles={b.children} />}
 					</li>
 				);

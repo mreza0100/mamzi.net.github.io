@@ -22,9 +22,23 @@ const content = [
 	`
 ### Synchronization of Body and Mind
 
+Inclination
+Pleasure accompanied by the idea of something which is accidentally a cause of pleasure
+Ancestor: Pleasure
+Contrary: Aversion
+
+Aversion
+Pain accompanied by the idea of something which is accidentally the cause of pain
+Ancestor: Pain
+Contrary: Inclination
 
 
+Emotion overlap learning pattern aka emotional intuition made by past experiences.
 
+PROP. XIV. If the mind has once been affected by two emotions at the same time, it will, whenever it is afterwards affected by one of these two, be also affected by the other.
+
+! he continues that because of the dual emotion learning pattern, anything can accidentally give us the feeling of hate or love, you can accidentally love or hate anything, but not to know the reason.
+PROP. XV. Anything can, accidentally, be the cause of pleasure, pain, or desire.
      `,
 ];
 

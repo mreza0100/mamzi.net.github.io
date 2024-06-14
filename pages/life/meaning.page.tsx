@@ -1,6 +1,22 @@
+import { ArticlesKeys } from "../../BLOG_CONSTANTS/_ARTICLE_PORT";
 import { Image, PageLayout } from "../../src/components";
 import Markdown from "../../src/components/Markdown";
 import { ImageSize } from "../../src/shared/enums";
+
+export const MeaningMetadata = {
+	key: ArticlesKeys.Meaning,
+	url: "/life/meaning",
+	path: "/pages/life/meaning.tsx",
+	featureArticle: true,
+	isPublished: true,
+	date: "May 19 2024",
+	articleTitle: "Meaning for all beings",
+	tags: "Spinoza, appendix, meaning, ignorance, Ethics",
+	thumbnail: "/public/images/meaning.webp",
+	shortIntro:
+		"Spinoza's view on the meaning of life and how all beings find meaning in everything",
+	category: "Life",
+};
 
 const content = `
 
@@ -65,10 +81,10 @@ const content = `
 Everything in Nature act with a end in view and goal, including us.
 
 This will lead to misconception that Universe or life also has a meaning and a goal in view.
-This is the essential reason of existential panic, our expectation of finding meaning in the world
-  would met reality and that makes people very angry and sad.
-But essentially there is nothing sad about it, this is just the way that nature works,
-  and we are part of it.
+This is the essential reason of existential panic, our expectation to find meaning in the world
+  would not met reality and that makes people very angry and sad!
+But essentially there is nothing sad about it, this is just the way in which nature works,
+  which we are part of it.
 `;
 
 const Article = () => {

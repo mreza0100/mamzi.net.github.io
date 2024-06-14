@@ -1,3 +1,3 @@
 > Note.—Hence we see, that the infinite essence and the eternity of God are known to all. Now as all things are in God, and are conceived through God, we can from this knowledge infer many things, which we may adequately know, and we may form that third kind of knowledge of which we spoke in the note to II. xl., and of the excellence and use of which we shall have occasion to speak in Part V. Men have not so clear a knowledge of God as they have of general notions, because they are unable to imagine God as they do bodies, and also because they have associated the name God with images of things that they are in the habit of seeing, as indeed they can hardly avoid doing, being, as they are, men, and continually affected by external bodies.
 
-- We can't imagine god/nature as we do bodies, because body is the object of mind.
+-   We can't imagine god/nature as we do bodies, because body is the object of mind.

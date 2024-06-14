@@ -1,6 +1,21 @@
+import { ArticlesKeys } from "../../BLOG_CONSTANTS/_ARTICLE_PORT";
 import { Image, PageLayout } from "../../src/components";
 import Markdown from "../../src/components/Markdown";
 import { ImageSize } from "../../src/shared/enums";
+
+export const CausalityMetadata = {
+	key: ArticlesKeys.Causality,
+	url: "/universe/causality",
+	path: "/pages/universe/causality.tsx",
+	featureArticle: true,
+	isPublished: true,
+	date: "May 15 2024",
+	articleTitle: "Causality",
+	tags: "causality, cause and effect, time, randomness, determinism",
+	thumbnail: "/public/images/dominos.jpeg",
+	shortIntro: "Cause and effect, how things happen in the universe",
+	category: "Universe",
+};
 
 const content = [
 	`

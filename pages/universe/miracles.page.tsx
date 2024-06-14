@@ -1,6 +1,22 @@
+import { ArticlesKeys } from "../../BLOG_CONSTANTS/_ARTICLE_PORT";
 import { Image, PageLayout } from "../../src/components";
 import Markdown from "../../src/components/Markdown";
 import { ImageSize } from "../../src/shared/enums";
+
+export const MiraclesMetadata = {
+	key: ArticlesKeys.Miracles,
+	url: "/universe/miracles",
+	path: "/pages/universe/miracles.tsx",
+	featureArticle: true,
+	isPublished: true,
+	date: "May 17 2024",
+	articleTitle: "Miracles",
+	tags: "Spinoza, Ethics, Miracles, conditioned, contingent",
+	thumbnail: "/public/images/miracles.jpg",
+	shortIntro:
+		"Spinoza's view on the miracles and the impossibility of breaking the laws of nature",
+	category: "Universe",
+};
 
 const content = `
 ### Requirements to know:

@@ -39,20 +39,18 @@ function MyApp({ Component, pageProps }: AppProps) {
 				<meta name="google" content="notranslate" />
 			</Head>
 
-			{env !== "development" ? (
+			{env !== "development" ?
 				<>
 					<Script
 						async
 						strategy="afterInteractive"
 						src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${gtag.GA_ADSENSE_ID}`}
-						crossOrigin="anonymous"
-					></Script>
+						crossOrigin="anonymous"></Script>
 					{/* Google tag (gtag.js) */}
 					<Script
 						async
 						strategy="afterInteractive"
-						src={`https://www.googletagmanager.com/gtag/js?id=${gtag.GA_TRACKING_ID}`}
-					></Script>
+						src={`https://www.googletagmanager.com/gtag/js?id=${gtag.GA_TRACKING_ID}`}></Script>
 					<Script
 						id="gtag-init"
 						strategy="afterInteractive"
@@ -68,7 +66,7 @@ function MyApp({ Component, pageProps }: AppProps) {
 						}}
 					/>
 				</>
-			) : null}
+			:	null}
 			<ThemeProvider enableSystem={true} attribute="class">
 				<Component {...pageProps} />
 				<Footer />

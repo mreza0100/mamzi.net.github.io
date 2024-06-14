@@ -8,13 +8,13 @@ Note.—This proposition is comprehended much more clearly from what we have sai
 
 **Example with an Apple**:
 
-- **First-Order Idea**: I know an apple.
-- **Second-Order Idea**: I know that I know an apple because I can recall my perception of the apple.
-- **Third-Order Idea**: I know that I know that I know an apple because I can reflect on my ability to recall the perception.
+-   **First-Order Idea**: I know an apple.
+-   **Second-Order Idea**: I know that I know an apple because I can recall my perception of the apple.
+-   **Third-Order Idea**: I know that I know that I know an apple because I can reflect on my ability to recall the perception.
 
 ### Reflecting on Our Own Thoughts:
 
-- **Recursive Process**: Reflecting on our own thoughts means continuously forming higher-order ideas about our thoughts. For example, thinking about my perception of the apple (first-order) leads to thinking about my awareness of that perception (second-order), and then thinking about my awareness of my awareness (third-order), and so on.
+-   **Recursive Process**: Reflecting on our own thoughts means continuously forming higher-order ideas about our thoughts. For example, thinking about my perception of the apple (first-order) leads to thinking about my awareness of that perception (second-order), and then thinking about my awareness of my awareness (third-order), and so on.
 
 This recursive process deepens understanding and creates a layered abstraction of our cognition, demonstrating the mind's capability to introspect and analyze its own processes.
 

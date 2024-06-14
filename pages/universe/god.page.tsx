@@ -1,6 +1,21 @@
+import { ArticlesKeys } from "../../BLOG_CONSTANTS/_ARTICLE_PORT";
 import { Image, PageLayout } from "../../src/components";
 import Markdown from "../../src/components/Markdown";
 import { ImageSize } from "../../src/shared/enums";
+
+export const GodMetadata = {
+	key: ArticlesKeys.God,
+	url: "/universe/god",
+	path: "/pages/universe/god.tsx",
+	featureArticle: true,
+	isPublished: true,
+	date: "May 16 2024",
+	articleTitle: "God or Nature or Universe",
+	tags: "Spinoza, God, Nature, Universe, Ethics",
+	thumbnail: "/public/images/god.webp",
+	shortIntro: "Spinoza's view on God, Nature, and Universe",
+	category: "Universe",
+};
 
 const content = `
 ##### I do not try to convince you of anything, but you need to logically know what God means in this context to continue the rest of the blog. **Nothing here is personal; everything is logical..**

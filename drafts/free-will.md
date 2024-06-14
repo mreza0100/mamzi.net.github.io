@@ -16,9 +16,9 @@ Proof.—Will and understanding are nothing beyond the individual volitions and 
 
 > Note: Note.—We have thus removed the cause which is commonly assigned for error. For we have shown above, that falsity consists solely in the privation of knowledge involved in ideas which are fragmentary and confused. Wherefore, a false idea, inasmuch as it is false, does not involve certainty. When we say, then, that a man acquiesces in what is false, and that he has no doubts on the subject, we do not say that he is certain, but only that he does not doubt, or that he acquiesces in what is false, inasmuch as there are no reasons, which should cause his imagination to waver (see II. xliv. note). Thus, although the man be assumed to acquiesce in what is false, we shall never say that he is certain. For by certainty we mean something positive (II. xliii. and note), not merely the absence of doubt.
 
-- Falsity comes from limited knowledge, in a way that person has no doubt, but he is not certain.
-- Certainty is positive, not just the absence of doubt. If you don't have doubt, it does not mean you are certain.
-- Certainty comes from understanding things in a conditioned way, for example in the triangle, you are certain because you understand the nature of triangle(as A) with its properties(as B) and related conceive one through the other(B from A).
+-   Falsity comes from limited knowledge, in a way that person has no doubt, but he is not certain.
+-   Certainty is positive, not just the absence of doubt. If you don't have doubt, it does not mean you are certain.
+-   Certainty comes from understanding things in a conditioned way, for example in the triangle, you are certain because you understand the nature of triangle(as A) with its properties(as B) and related conceive one through the other(B from A).
 
 <!-- > I begin, then, with the first point, and warn my readers to make an accurate distinction between an idea, or conception of the mind, and the images of things which we imagine. It is further necessary that they should distinguish between idea and words, whereby we signify things. These three—namely, images, words, and ideas—are by many persons either entirely confused together, or not distinguished with sufficient accuracy or care, and hence people are generally in ignorance, how absolutely necessary is a knowledge of this doctrine of the will, both for philosophic purposes and for the wise ordering of life.
 

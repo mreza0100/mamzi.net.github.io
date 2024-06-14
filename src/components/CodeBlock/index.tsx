@@ -27,8 +27,7 @@ const CodeBlock = ({ code, className }: { code: string; className?: string }) =>
 							{tokens.map((line, i) => (
 								<div
 									{...getLineProps({ line, key: i })}
-									key={Math.random()}
-								>
+									key={Math.random()}>
 									{line.map((token, key) => (
 										<span
 											{...getTokenProps({

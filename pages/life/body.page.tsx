@@ -1,7 +1,22 @@
+import { ArticlesKeys } from "../../BLOG_CONSTANTS/_ARTICLE_PORT";
 import { DEFAULT_SEO } from "../../BLOG_CONSTANTS/_BLOG_SETUP";
 import { Image, PageLayout, Text } from "../../src/components";
 import Markdown from "../../src/components/Markdown";
 import { ImageSize } from "../../src/shared/enums";
+
+export const BodyMetadata = {
+	key: ArticlesKeys.Body,
+	url: "/life/body",
+	path: "/pages/life/body.tsx",
+	featureArticle: false,
+	isPublished: true,
+	date: "May 19 2024",
+	articleTitle: "Body",
+	tags: "Spinoza, Ethics, Body, Mode, Substance",
+	thumbnail: "/public/images/body.webp",
+	shortIntro: "Spinoza's view on the body and how it is a mode of substance",
+	category: "Life",
+};
 
 const content = `
 ### Requirements to know:

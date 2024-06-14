@@ -25,10 +25,7 @@ const ArticleMoreFromAuthor = ({
 		<>
 			<div className={wrapperClasses}>
 				<div className="flex items-center">
-					<Avatar
-						author={author}
-						className="w-[60px] h-[60px] mr-3 text-xl"
-					/>
+					<Avatar author={author} className="w-[60px] h-[60px] mr-3 text-xl" />
 					<div className="font-semibold">
 						<p className={"text-[20px]  mb-0 mt-0"}>{author.name}</p>
 						<p className="text-xs mt-0 mb-0">{author.designation}</p>
@@ -43,8 +40,7 @@ const ArticleMoreFromAuthor = ({
 								key={i}
 								target="_blank"
 								className="mr-[15px] text-[32px]"
-								rel="noopener noreferrer"
-							>
+								rel="noopener noreferrer">
 								{each.icon}
 							</a>
 						))}
@@ -68,43 +64,29 @@ const ArticleMoreFromAuthor = ({
 					</p>
 					<div className={articleGrid ? "flex flex-wrap" : ""}>
 						{relatedArticles.slice(0, 3).map((each, i) => (
-							<Link
-								href={transformPath(each.path)}
-								key={i}
-								passHref
-							>
+							<Link href={transformPath(each.path)} key={i} passHref>
 								<div
 									className={combineClasses(
 										"mb-3 cursor-pointer",
-										articleGrid
-											? "lg:w-1/3 md:w-1/2 w-full md:pr-2"
-											: "w-full",
+										articleGrid ?
+											"lg:w-1/3 md:w-1/2 w-full md:pr-2"
+										:	"w-full",
 									)}
-									key={each.path}
-								>
+									key={each.path}>
 									<div
 										className="
                                             rounded-[3px] dark:bg-slate-800
                                             border border-slate-200 dark:border-slate-900
                                             flex items-center overflow-hidden
                                             shadow-lg hover:shadow-md
-                                        "
-									>
-										<div
-											className={
-												"object-cover shrink-0"
-											}
-										>
+                                        ">
+										<div className={"object-cover shrink-0"}>
 											<img
 												src={transformImagePaths(
-													each.preview
-														.thumbnail,
+													each.preview.thumbnail,
 												)}
 												className="w-[120px] h-[70px] mr-2 object-cover"
-												alt={
-													each.preview
-														.articleTitle
-												}
+												alt={each.preview.articleTitle}
 											/>
 										</div>
 										<div className="pr-1 text-[16px] hover:text-blue-500 font-semibold">
@@ -114,15 +96,14 @@ const ArticleMoreFromAuthor = ({
 								</div>
 							</Link>
 						))}
-						{relatedArticles.length > 3 ? (
+						{relatedArticles.length > 3 ?
 							<LinkTo
 								href={"/blog?author=" + author.name}
 								passHref
-								className="block text-sm py-3 px-2 text-center dark:bg-slate-900 bg-blue-500 rounded text-white font-bold hover:!text-blue-900 dark:hover:!text-slate-400 transition-all"
-							>
+								className="block text-sm py-3 px-2 text-center dark:bg-slate-900 bg-blue-500 rounded text-white font-bold hover:!text-blue-900 dark:hover:!text-slate-400 transition-all">
 								<p>All articles from {author.name}</p>
 							</LinkTo>
-						) : null}
+						:	null}
 					</div>
 				</div>
 			)}
