@@ -152,6 +152,14 @@ Also, at the times that mind don't manage to make any connection to the existing
 
 ## (Unconscious or conscious links) and biases
 
+
+<img
+  src="/public/images/life/mind/emotions/memory/karen-haircut.jpeg"
+  caption="Karen Haircut!"
+  size={ImageSize.LARGE}
+  alt="memory-karen-haircut"
+/>
+
 <img
   src="/public/images/life/mind/emotions/memory/hidden-link-karen.png"
   caption="Hidden memory link"
