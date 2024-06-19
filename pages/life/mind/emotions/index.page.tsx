@@ -268,8 +268,9 @@ Example.2: You have been listening to a specific song while feeling pleasure by 
 > 3P15.Corollary: Simply from the fact that we have regarded a thing with the emotion of pleasure or pain,
  though that thing be not the efficient cause of the emotion, we can either love or hate it.
 
-We can love or hate anything since good and bad are our preservation of things which form by affecting by them at the same time.
-The thing might not be the cause of emotion, but the cause has formed in past experiences.
+We can love or hate anything since good and bad are our preservation of things which form by
+  affecting multiple causes which form the idea and memory of love or hate of a thing.
+The object itself might not be the cause of emotion, but the cause has formed in past experiences.
 
 > [3P16](https://ethica.bc.edu/#/element/3P16): Simply from the fact that we conceive,
  that a given object has some point of resemblance with another object
@@ -477,7 +478,8 @@ This feeling of thinking too high of ourselves or loved object is called pride.
 A man might dream with open eyes, and think of himself with special abilities,
  thinking that he can accomplish anything he thinks of and accounting
  them as real since the imaginations effect as present.
-This will continue until evidence of the contrary is shown and exclude the idea of the dream.
+This will continue until evidence of the contrary is shown and exclude the idea of the dream,
+  this event will make the person very angry because now there idea of pride in question is excluded in reality.
 
 
 Pride = Pleasure springing from a man thinking too highly of himself that he caused pleasure in others
@@ -1285,8 +1287,6 @@ In case in which that a external cause leads to a emotion in us to act upon, we 
 He talks that we all are like waves of see driven by this dynamic mixing system of emotion.
 Also bodily disposition will effect emotion, he makes example of the time that we love to eat food,
   but after eating enough, the emotion of love changes with repulsion.
-
-
 `,
 	`
 ## Conclusions
@@ -1412,9 +1412,19 @@ It shows from the nation proposition in which that it's the nature of us to grou
   self into all the onces fitting into the picture aligned with our nature and values,
   and regarding the group as the object of love and pride and knowing it as a property of self,
   and start fighting with contrary groups driven by emotion.
+  `, // TODO: Rewrite
+	`
+<!--
 
+# Chapter 4 - Of Human Bondage, or the Strength of the Emotions
 
-  `,
+PROP. II. We are only passive, in so far as we are apart of Nature, which cannot be conceived by itself without other parts.
+
+Proof.—We are said to be passive, when something arises in us, whereof we are only a partial cause (III. Def. ii.), that is (III. Def. i.), something which cannot be deduced solely from the laws of our nature. We are passive therefore, in so far as we are a part of Nature, which cannot be conceived by itself without other parts. Q.E.D.
+
+-->
+
+`,
 	`
 #### Resources:
 - [Spinoza and the Emotions](https://www.faculty.umb.edu/gary_zabel/Courses/Spinoza/Texts/Spinoza%27s%20Approach%20to%20Understanding%20the%20Emotions.htm)

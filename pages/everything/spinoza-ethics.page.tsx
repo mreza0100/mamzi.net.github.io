@@ -55,7 +55,7 @@ He was trying to prove his ideas in a deduced way of [Euclid](https://en.wikiped
 		src="/images/ethics-map.png"
 		alt="Spinoza Ethics proposition map"
 		size={ImageSize.DEFAULT}
-		caption="Ethics graph dependency"
+		caption="Ethics Dependency Graph"
 		source="https://ethica.bc.edu/#/graph"
 	/>,
 	`

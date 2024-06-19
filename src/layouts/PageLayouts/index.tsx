@@ -14,6 +14,7 @@ interface IBlogLayout {
 	blogcentered?: boolean;
 	home?: boolean;
 	ads?: string[];
+	titles?: string[];
 }
 
 const PageLayout = ({
@@ -23,6 +24,7 @@ const PageLayout = ({
 	blogcentered = false,
 	home = false,
 	ads = [],
+	titles,
 }: IBlogLayout) => {
 	// Get article details and destructure for easier access
 	const ARTICLE_DETAILS = getArticleDetails();
@@ -34,7 +36,11 @@ const PageLayout = ({
 	// Determine layout based on provided props
 	const renderLayout = () => {
 		if (blogwithsidebar) {
-			return <WithSidebar ads={ads}>{children}</WithSidebar>;
+			return (
+				<WithSidebar ads={ads} titles={titles}>
+					{children}
+				</WithSidebar>
+			);
 		}
 		if (blogcentered) {
 			return <Centered>{children}</Centered>;

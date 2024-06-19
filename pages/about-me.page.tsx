@@ -1,21 +1,10 @@
-/**These are necessary imports / components for the page */
-import { ImageSize, TextAlign, ListType } from "../src/shared/enums";
-import {
-	PageLayout,
-	Text,
-	List,
-	Image,
-	LinkTo,
-	Seperator,
-	Slider,
-} from "../src/components";
-import { CURRENT_YEAR } from "../src/constants/appConstants";
+import { PageLayout, Text, List } from "../src/components";
 import { iSEO } from "../src/shared/interfaces";
 
-const AboutUs = () => {
+const AboutMe = () => {
 	const PAGE_SEO: iSEO = {
 		title: "Mamzi Khosravi - About Me",
-		description: `Software developer and thinker`,
+		description: `Software engineer and thinker`,
 		keywords: "Mamzi Khosravi Software Engineering Thinking Philosophy",
 		author: "Mamzi Khosravi",
 	};
@@ -87,4 +76,4 @@ const AboutUs = () => {
 	);
 };
 
-export default AboutUs;
+export default AboutMe;

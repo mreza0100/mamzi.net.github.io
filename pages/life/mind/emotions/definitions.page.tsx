@@ -427,12 +427,18 @@ const EmotionColumn = styled("div")(({}) => {
 	};
 });
 
-const EmotionBox = styled("div")<{ isHovered: boolean }>(({ isHovered }) => {
+const EmotionBox = styled("div")<{ isHovered: boolean; isActive: boolean }>(({
+	isHovered,
+	isActive,
+}) => {
 	return {
-		margin: "5px 0",
-		padding: "10px",
+		margin: "15px 0",
+		padding: "5px",
 		borderRadius: "5px",
-		backgroundColor: isHovered ? "#eef" : "#fff",
+		backgroundColor:
+			isActive ? "red"
+			: isHovered ? "#eef"
+			: "#fff",
 		transition: "background-color 0.3s",
 		"&:hover": {
 			backgroundColor: "#eef",
@@ -482,7 +488,7 @@ const renderEmotions = (
 	const handleMouseEnter = () => setHoveredEmotion(emotion.name);
 	const handleMouseLeave = () => setHoveredEmotion(null);
 
-	const isContraryActive = (contrary: string | string[]) => {
+	const isContraryActive = (contrary: string | string[] | undefined) => {
 		if (Array.isArray(contrary)) {
 			return contrary.includes(hoveredEmotion || "");
 		}
@@ -493,6 +499,7 @@ const renderEmotions = (
 		<EmotionBox
 			key={emotion.name}
 			isHovered={hoveredEmotion === emotion.name}
+			isActive={isContraryActive(emotion.contrary)}
 			onMouseEnter={handleMouseEnter}
 			onMouseLeave={handleMouseLeave}>
 			<EmotionTitle>{emotion.name}</EmotionTitle>

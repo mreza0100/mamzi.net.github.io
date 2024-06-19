@@ -1,18 +1,13 @@
+import { addBodyNoScroll, combineClasses, removeBodyNoScroll } from "../../utils/utils";
+import { iNavLink, iNavSetup, iNavSocials } from "../../shared/interfaces";
+import { BsFillMoonFill, BsFillSunFill } from "react-icons/bs";
+import NavCatergoryDD from "../Misc/NavCategoryDD";
+import { MdOutlineClose } from "react-icons/md";
 import { useEffect, useState } from "react";
 import { THEMES } from "../../shared/enums";
-import {
-	addBodyNoScroll,
-	combineClasses,
-	getCategories,
-	removeBodyNoScroll,
-} from "../../utils/utils";
 import classes from "./Navbar.module.scss";
-import { Text, LinkTo } from "..";
 import { useTheme } from "next-themes";
-import { BsFillMoonFill, BsFillSunFill } from "react-icons/bs";
-import { MdOutlineClose } from "react-icons/md";
-import NavCatergoryDD from "../Misc/NavCategoryDD";
-import { iNavLink, iNavSetup, iNavSocials } from "../../shared/interfaces";
+import { LinkTo } from "..";
 
 interface IProps {
 	openSidebar: boolean;
@@ -36,7 +31,6 @@ const NavSidebar = ({
 		};
 	}, [openSidebar]);
 
-	const env = process.env.NODE_ENV;
 	const [openDD, setOpenDD] = useState(false);
 
 	return (
@@ -86,68 +80,6 @@ const NavSidebar = ({
 								setOpenDD={() => setOpenDD(!openDD)}
 							/>,
 					)}
-					{env === "development" ?
-						<>
-							<hr />
-							<Text subtitle className="mt-3 !text-[18px]">
-								Examples and tutorials
-							</Text>
-							<LinkTo
-								href="/pages/tutorial/all-components.tsx"
-								passHref
-								className="text-[16px] block my-3">
-								All Components
-							</LinkTo>
-							<LinkTo
-								href="/pages/tutorial/style-guide.tsx"
-								passHref
-								className="text-[16px] block my-3">
-								Style Guide
-							</LinkTo>
-							<LinkTo
-								href="/pages/tutorial/home-layout.tsx"
-								passHref
-								className="text-[16px] block my-3">
-								Home Page Layout
-							</LinkTo>
-							<LinkTo
-								href="/pages/tutorial/blog-with-sidebar-layout.tsx"
-								passHref
-								className="text-[16px] block my-3">
-								Page Layout for article with sidebar
-							</LinkTo>
-							<LinkTo
-								href="/pages/tutorial/blog-with-centered-layout.tsx"
-								passHref
-								className="text-[16px] block my-3">
-								Page Layout for centered article
-							</LinkTo>
-							<LinkTo
-								href="/pages/tutorial/how-to-setup-blog.tsx"
-								passHref
-								className="text-[16px] block my-3">
-								How to setup your blog
-							</LinkTo>
-							<LinkTo
-								href="/pages/tutorial/how-to-write-your-first-article.tsx"
-								passHref
-								className="text-[16px] block my-3">
-								How to write your first article
-							</LinkTo>
-							<LinkTo
-								href="/pages/tutorial/how-to-deploy-blog.tsx"
-								passHref
-								className="text-[16px] block my-3">
-								How to export the blog
-							</LinkTo>
-							<LinkTo
-								href="/pages/tutorial/icons.tsx"
-								passHref
-								className="text-[16px] block my-3">
-								Icons
-							</LinkTo>
-						</>
-					:	null}
 				</div>
 				<hr />
 				<div className="my-5">

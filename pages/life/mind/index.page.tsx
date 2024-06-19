@@ -294,6 +294,7 @@ Having read or heard certain words we remember things and form certain ideas con
 - Remembering things and forming ideas concerning them
 - Imaginations (something that is not part of reality, but we imagine it)
 - Assumptions or beliefs
+- Words and Symbols
 - Senses or feelings
 - Memory
 

@@ -1,40 +1,64 @@
+import { Image } from "../../../src/components";
 import { combineClasses } from "../../utils/utils";
 import styled from "styled-components";
-import ReactMarkdown from "react-markdown";
-import rehypeRaw from "rehype-raw";
 import React from "react";
+import RenderMD from "markdown-to-jsx";
+import LinkTo from "../LinkTo";
+
+type Child = React.ReactElement<IProps> | string;
 
 interface IProps {
-	children: (JSX.Element | string) | (JSX.Element | string)[];
+	children: Child | Child[];
 	className?: string;
+	featured?: boolean;
+	title?: string;
 }
+
+export function collectTitles(md: string): string[] {
+	return md.split("\n").filter(line => line.startsWith("#"));
+}
+
+const H1 = ({ children, ...rest }: { children: string }) => {
+	console.log(rest);
+	return <h1 id="awd">{children}</h1>;
+};
 
 const Markdown = ({ children, className }: IProps) => {
 	children = Array.isArray(children) ? children : [children];
+	const overrides = { img: Image, a: LinkTo, h1: H1 };
 
 	return (
-		<div className={combineClasses("p-1", className)}>
-			<div className="shadow-lg p-5">
-				{children.map((Child, index) => {
-					if (typeof Child === "string") {
+		<div className={combineClasses("pl-1", className)}>
+			<MarkdownStyles className="shadow-lg">
+				{children.map((child, index) => {
+					if (typeof child === "string") {
 						return (
-							<MarkdownStyles key={index}>
-								<ReactMarkdown rehypePlugins={[rehypeRaw]}>
-									{Child}
-								</ReactMarkdown>
-							</MarkdownStyles>
+							<RenderMD options={{ overrides }} key={index}>
+								{child}
+							</RenderMD>
 						);
 					}
-					return Child;
+
+					let title = null;
+					if (child.props && child.props.title) {
+						title = <RenderMD key={index}>{child.props.title + "\n<br />"}</RenderMD>;
+					}
+
+					return (
+						<>
+							{title}
+							{child}
+						</>
+					);
 				})}
-			</div>
+			</MarkdownStyles>
 		</div>
 	);
 };
 
 const MarkdownStyles = styled("article")(props => ({
 	padding: "0.5em",
-	fontSize: "0.9em",
+	fontSize: "1em",
 	lineHeight: "1.7",
 	"& p": {
 		margin: "1em 0",

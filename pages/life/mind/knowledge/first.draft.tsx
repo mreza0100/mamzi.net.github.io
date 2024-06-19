@@ -20,7 +20,8 @@ export const KnowledgeFirstMetadata = {
 
 const content = [
 	`
-
+Opinions
+Disorganized confused knowledge
 
 
 

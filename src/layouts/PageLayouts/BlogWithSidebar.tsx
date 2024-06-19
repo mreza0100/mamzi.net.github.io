@@ -7,8 +7,36 @@ import {
 import ArticleHeader from "../../components/ArticleHeader";
 import ArticleMoreFromAuthor from "../../components/Misc/ArticleMoreFromAuthor";
 import UltimateTree from "../../components/Tree";
+import { List } from "../../components";
 
-const WithSidebar = ({ children, ads }: { children: any; ads?: string[] }) => {
+const Titles = ({ titles }: { titles?: string[] }) => {
+	if (!titles) return null;
+
+	titles = titles.map(t => t.replaceAll("#", ""));
+
+	return (
+		<>
+			<br />
+			<br />
+			<br />
+			<List>
+				{titles.map(t => {
+					return <li key={t}>{t}</li>;
+				})}
+			</List>
+		</>
+	);
+};
+
+const WithSidebar = ({
+	children,
+	ads,
+	titles,
+}: {
+	children: any;
+	ads?: string[];
+	titles?: string[];
+}) => {
 	const ARTICLE_DETAILS = getArticleDetails();
 	const author = ARTICLE_DETAILS.preview.author;
 	const relatedArticles = SORTED_ARTICLES_BY_DATE.filter(
@@ -32,12 +60,10 @@ const WithSidebar = ({ children, ads }: { children: any; ads?: string[] }) => {
 						{children}
 					</article>
 					<div className={classes.article_sidebar_wrapper}>
-						<ArticleMoreFromAuthor
-							author={author}
-							relatedArticles={relatedArticles}
-						/>
+						<ArticleMoreFromAuthor author={author} relatedArticles={relatedArticles} />
 						<UltimateTree />
-						{ads && ads.length ?
+						<Titles titles={titles} />
+						{/* {ads && ads.length ?
 							<div className="flex flex-wrap">
 								{ads.map((each: string, i: any) => (
 									<div
@@ -48,7 +74,7 @@ const WithSidebar = ({ children, ads }: { children: any; ads?: string[] }) => {
 									/>
 								))}
 							</div>
-						:	null}
+						:	null} */}
 					</div>
 				</div>
 			</section>

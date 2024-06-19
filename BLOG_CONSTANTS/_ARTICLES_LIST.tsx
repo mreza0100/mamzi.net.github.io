@@ -16,6 +16,7 @@ import { HomeMetadata } from "../pages/index.page";
 import { ArticlesKeys } from "./_ARTICLE_PORT";
 import { MAMZI } from "./_BLOG_SETUP";
 import _ from "lodash";
+import { MemoryMetadata } from "../pages/life/mind/emotions/memory.page";
 
 export type ArticleParam = Partial<iArticle & iArticle["preview"]>;
 
@@ -81,6 +82,7 @@ export const ArticlesTree: IArticlesTree = [
 										key: ArticlesKeys.EmotionsDefinitions,
 										title: "Definitions of Emotions",
 									},
+									ArticlesKeys.EmotionalMemory,
 								],
 							},
 						],
@@ -117,6 +119,8 @@ const LIFE: iArticle[] = [
 	importArticle(MeaningMetadata),
 	importArticle(BodyMetadata),
 	importArticle(MindMetadata),
+	importArticle(MemoryMetadata),
+
 	importArticle(EmotionsMetadata),
 	importArticle(EmotionsDefinitionsMetadata),
 ];
