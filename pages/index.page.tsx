@@ -84,13 +84,13 @@ const Home = () => {
 						world of improbability) to find the answer of how and why life began. Because
 						it's only possible in a deterministic world to form life.
 						<h4>
-							<strong>Does it bell a ring for you?</strong>
+							<strong>Does it ring a bell for you?</strong>
 						</h4>
 						<List>
 							<li>Is our world deterministic?</li>
 							<li>Is our world working like a computer?</li>
 							<li>Is there randomness in our world?</li>
-							<li>So then are we also programmed?</li>
+							<li>So then are we also programmed/mechanical?</li>
 							<li>
 								If we are mechanical, and there is no randomness, then the path of our
 								life is also determined?
