@@ -23,7 +23,7 @@ const ArticleMoreFromAuthor = ({
 		"bg-white dark:bg-slate-800 dark:border-none border-slate-100 shadow-lg border md:rounded-[8px] px-[15px] py-[10px] mb-[30px] overflow-hidden";
 	return (
 		<>
-			<div className={wrapperClasses}>
+			{/* <div className={wrapperClasses}>
 				<div className="flex items-center">
 					<Avatar author={author} className="w-[60px] h-[60px] mr-3 text-xl" />
 					<div className="font-semibold">
@@ -46,7 +46,7 @@ const ArticleMoreFromAuthor = ({
 						))}
 					</div>
 				)}
-			</div>
+			</div> */}
 
 			{isDesktopDevice() && (
 				<div className={wrapperClasses}>
@@ -68,9 +68,7 @@ const ArticleMoreFromAuthor = ({
 								<div
 									className={combineClasses(
 										"mb-3 cursor-pointer",
-										articleGrid ?
-											"lg:w-1/3 md:w-1/2 w-full md:pr-2"
-										:	"w-full",
+										articleGrid ? "lg:w-1/3 md:w-1/2 w-full md:pr-2" : "w-full",
 									)}
 									key={each.path}>
 									<div
@@ -82,9 +80,7 @@ const ArticleMoreFromAuthor = ({
                                         ">
 										<div className={"object-cover shrink-0"}>
 											<img
-												src={transformImagePaths(
-													each.preview.thumbnail,
-												)}
+												src={transformImagePaths(each.preview.thumbnail)}
 												className="w-[120px] h-[70px] mr-2 object-cover"
 												alt={each.preview.articleTitle}
 											/>

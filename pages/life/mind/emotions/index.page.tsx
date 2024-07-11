@@ -190,7 +190,7 @@ I'll write more about the note of this proposition in the free-will page.
 > [3P4](https://ethica.bc.edu/#/element/3P4): Nothing can be destroyed, except by a cause external to itself.
 
 
-> [3P5](https://ethica.bc.edu/#/element/3P4): Things are naturally contrary, that is, cannot exist in the same object,
+> [3P5](https://ethica.bc.edu/#/element/3P5): Things are naturally contrary, that is, cannot exist in the same object,
  in so far as one is capable of destroying the other.
 
 Like cold and heat, they influence(destroy) each other, they cannot be there at the same time, but engage and replace each other.
@@ -198,11 +198,14 @@ The very same for our emotions, we categorize them in sadness and joy, you canno
 One will counteract or diminish the other, like cold and heat.
 
 
-> [3P6](https://ethica.bc.edu/#/element/3P5): Everything, in so far as it is in itself,
+> [3P6](https://ethica.bc.edu/#/element/3P6): Everything, in so far as it is in itself,
  endeavours to persist in its own being.
 
 Self-preservation natural drive, things persist in there own being to exist more.
-The fundamental of all nature is striving for existence.
+The fundamental of all nature is striving for existence. This is universal for all things,
+  we know that nothing cannot happen from nothing, so a external cause has to force something on a thing,
+  otherwise without a cause it persist in it's being, for humans it's the same,
+  we also strive to be in the shape we are, and strive for pleasure, which we will dig after this.
 
 <!--
 
@@ -247,6 +250,10 @@ We automatically look for things that increase the power of our activity, or ple
 > [3P13](https://ethica.bc.edu/#/element/3P13): When the mind conceives things which diminish or hinder
  the body's power of activity, it endeavours, as far as possible,
  to remember things which exclude the existence of the first—named things.
+
+Mind persist as much as possible to remember those things
+  which hurt and feels pain and can lead to excluding of from existence,
+  this is natural, otherwise we would survived.
 
 
 ### Emotional Memory
@@ -1158,7 +1165,7 @@ This proposition states that imaginations can effect as reality.
   accompanied by the idea of himself.
 
 As much as we conceive ourselves great and cause of pleasure in others,
-  this feeling gets stringer in a compound way since the pleasure of greatness
+  this feeling gets stronger in a compound way since the pleasure of greatness
   does not have a limit.
 So as a result, imaginations are the first kind of knowledge which is falsy and wrong,
   it makes us detach from reality based on desires.

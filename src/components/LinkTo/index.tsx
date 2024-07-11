@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { combineClasses, transformPath } from "../../utils/utils";
+import { useRouter } from "next/router";
 
 interface iLinkTo {
 	href: string;
@@ -14,13 +15,12 @@ const LinkTo = ({
 	href,
 	passHref = true,
 	newTab = false,
-	external = false,
 	children,
 	className,
 }: iLinkTo) => {
 	return (
 		<>
-			{newTab || external ?
+			{newTab ?
 				<a
 					href={transformPath(href)}
 					className={className}
@@ -29,11 +29,7 @@ const LinkTo = ({
 					{children}
 				</a>
 			:	<Link href={transformPath(href)} passHref={passHref}>
-					<a
-						className={combineClasses(
-							"cursor-pointer hover:text-blue-500",
-							className,
-						)}>
+					<a className={combineClasses("cursor-pointer hover:text-blue-500", className)}>
 						{children}
 					</a>
 				</Link>

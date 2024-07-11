@@ -363,7 +363,7 @@ Thinking of an idea and willing are the same.
 What we do in action is a direct result of our ideas, our action and ideas are the same.
 
 
-#### Don't worry, free will exist
+#### Don't worry, will exist
 
 > [2P49.Corollary]: Will and understanding are one and the same.
 

@@ -5,9 +5,5 @@
  * @returns The HTML link to the Ethica website.
  */
 export function EthSts(address: string) {
-	return `<a
-      href="https://ethica.bc.edu/#/element/${address}"
-      target="_blank">
-      Ethics ${address}
-      </a>`;
+	return `<a href="https://ethica.bc.edu/#/element/${address}" target="_blank"> Ethics ${address} </a>`;
 }

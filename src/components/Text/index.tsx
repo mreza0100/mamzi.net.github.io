@@ -77,7 +77,7 @@ const Text = ({
 			ui = (
 				<p
 					className={combineClasses(
-						`font-regular mb-3 text-lg leading-relaxed`,
+						`font-normal mb-3 text-lg leading-relaxed p-2`,
 						className,
 					)}
 					style={{ color: color, textAlign: textAlign }}

@@ -24,6 +24,7 @@ export type IArticleBranch = {
 	title?: string;
 	children?: IArticlesTree;
 	url?: string;
+	id?: string;
 	shallow?: boolean;
 };
 

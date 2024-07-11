@@ -28,13 +28,21 @@ It's equal to Universe, which I explained in [Universe](/universe/) page.
 
 ## Spinoza definition of God
 
-First of all, Spinoza's God is fairly famous, but it's not well understood.
+Spinoza's God is fairly famous, but it's not well understood.
+
+<img
+  src="/public/images/universe/god/albert.jpg"
+  caption="Albert"
+  size={${ImageSize.DEFAULT}}
+  alt="Albert Einstein"
+/>
+
 When they asked [Albert Einstein](https://nds-nl.wikipedia.org/wiki/Albert_Einstein) if he believed in God,
  he said:
+
 > I believe in Spinoza's God who reveals himself in the orderly harmony of what exists, not in a God who concerns himself with the fates and actions of human beings.
 
-Don't you want to know Einstein's God? I do! If Spinoza's God was good enough for Einstein,
-  it's gonna be also good enough for us with a bit of common sense.
+If Spinoza's God was good enough for Einstein, it's gonna be also good enough for me and you!
 
 Spinoza was looking at God, as the nature itself.
 God to him, is the creator of everything.
@@ -42,7 +50,7 @@ God is the cause of everything.
 God is the essence of everything.
 God is the reason of cause and effect.
 God is what makes existence possible.
-God is what sits between cause and effect and makes it possible.
+God is what sits between cause and effect and makes it possible in the way it should happen.
 
 - What is controlling your heart to beat?
      - It's a complex great number of cause and effect that makes it beat.
@@ -52,7 +60,7 @@ It's interesting, when you think about it, it seems like he knew about the Darwi
 
 ### God = Nature = Universe = Reality = Everything = Door = You
 
-For Spinoza, God was the nature itself.
+For Spinoza, God was the nature itself, as one unified field, which is called substance or substance.
 We are part of the Nature, so we are part of God.
 But, for Spinoza, you and the door are both substance, because you are part of the nature, and the door is also part of the nature, so you and the door are part of the same thing, which he calls God.
 So, don't think that you are God; you are part of God just as much as the door is.

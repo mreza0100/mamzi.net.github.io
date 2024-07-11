@@ -20,7 +20,7 @@ export const KnowledgeSecondMetadata = {
 
 const content = [
 	`
-
+	"Whatsoever is contrary to nature is contrary to reason, and whatsoever is contrary to reason is absurd"?
 
 
 

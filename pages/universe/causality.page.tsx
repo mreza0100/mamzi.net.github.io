@@ -189,7 +189,7 @@ There are no cause and effect that happen outside the laws of nature, as long as
 	<Image
 		key={Math.random()}
 		src="/images/scale.webp"
-		caption="Scale is an example of how effect every time follows cause in such a predictable way"
+		caption="Scale is an example of how effect every time follows cause in such a predictable way, that if we don't know how it works, we would assume anything can happen"
 		size={ImageSize.MEDIUM}
 		alt="Scale of Nature rules"
 	/>,
@@ -238,9 +238,11 @@ Anything that happens, happens because of the necessary, it's necessary for ever
 You might think that you could simply just not to read this post!
 
 Because you are part of the universe, and you are bound by the laws of nature, like everything else,
-  and we know that as long as there is cause and effect, it will happen exactly as it should.
+  and we know that as long as there is cause and effect,
+  it will happen exactly as it should and execute by the natural laws of nature.
 
-You see, the event that made you read this post was the effect of causes that pushed you to read and me to write it.
+You see, the event that made you read this post was the effect of causes that pushed you to read,
+  and for me to write it.
 Both are ncessesery as they have causes which followed by causes before them.
 
 You want to know how and how mind works? [go to life/mind](/life/mind)

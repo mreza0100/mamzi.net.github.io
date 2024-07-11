@@ -1,5 +1,5 @@
 import { ArticlesKeys } from "../../../../BLOG_CONSTANTS/_ARTICLE_PORT";
-import { Image, PageLayout } from "../../../../src/components";
+import { Image, LinkTo, PageLayout } from "../../../../src/components";
 import Markdown, { collectTitles } from "../../../../src/components/Markdown";
 import { ImageSize } from "../../../../src/shared/enums";
 import { EthSts } from "../../../../src/utils/markdown";
@@ -163,7 +163,7 @@ Also, at the times that mind don't manage to make any connection to the existing
 <img
   src="/public/images/life/mind/emotions/memory/hidden-link-karen.png"
   caption="Hidden memory link"
-  size={ImageSize.DEFAULT}
+  size={${ImageSize.DEFAULT}}
   alt="memory-hidden-link-affection"
 />
 
@@ -215,7 +215,10 @@ A unique object which made us wonder before,
 
 ### Conclusion
 
-> ${EthSts("3P14")}: If the mind has once been affected by two emotions at the same time, it will, whenever it is afterwards affected by one of these two, be also affected by the other.
+
+> ${EthSts("3P14")}: If the mind has once been affected by two emotions at the same time,
+ it will, whenever it is afterwards affected by one of these two, be also affected by the other.
+
 
 > ${EthSts("3P15")}: Anything can, accidentally, be the cause of pleasure, pain, or desire.
 

@@ -16,6 +16,7 @@ export enum ArticlesKeys {
 	Emotions = "Emotions",
 	EmotionsDefinitions = "EmotionsDefinitions",
 	SpinozaEthics = "Spinoza Ethics",
+	Ethics = "Ethics",
 	EmotionCausality = "Emotional Causality",
 	Freewill = "Freewill",
 	KnowledgeFirst = "First kind of knowledge",

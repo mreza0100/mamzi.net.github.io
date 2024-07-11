@@ -22,11 +22,15 @@ export default function UltimateTree({ articles = ArticlesTree }: IProps) {
 			{branches.map(b => {
 				const isThisCurrentPage = currentArticle?.key === b.key;
 				b.title = isThisCurrentPage ? b.title + " - You are here" : b.title;
+
+				let href = b.url || "";
+				if (b.id) href += `#${b.id}`;
+
 				return (
 					<li key={b.key}>
 						{b.shallow ?
-							<Text>{b.title}</Text>
-						:	<LinkTo newTab={false} href={b.url || ""}>
+							<strong>{b.title}</strong>
+						:	<LinkTo newTab={false} href={href}>
 								{b.title}
 							</LinkTo>
 						}
@@ -62,6 +66,7 @@ function normalizeTree(articles: IArticlesTree | undefined): IArticleBranch[] {
 			branch.children = normalizeTree(art.children);
 			branch.shallow = art.shallow;
 			branch.url = branch?.shallow ? undefined : getPageURL(art.key);
+			branch.id = art.id;
 		}
 		result.push(branch);
 	}

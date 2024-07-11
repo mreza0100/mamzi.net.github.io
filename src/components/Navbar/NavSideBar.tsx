@@ -45,9 +45,7 @@ const NavSidebar = ({
 					openSidebar && classes.open,
 					"dark:bg-slate-900 dark:text-white bg-white text-black",
 				)}>
-				<div
-					className="flex items-center justify-between pb-3"
-					onClick={closeNavSidebar}>
+				<div className="flex items-center justify-between pb-3" onClick={closeNavSidebar}>
 					<p className="">menu</p>
 					<div>
 						<MdOutlineClose className="text-slate-800 dark:text-white text-[25px]" />
@@ -85,7 +83,7 @@ const NavSidebar = ({
 				<div className="my-5">
 					{navSetup.socials && (
 						<>
-							<p className="font-light">Follow us : </p>{" "}
+							<p className="font-light">Follow me : </p>{" "}
 							{navSetup.socials.map((each: iNavSocials) => (
 								<a
 									href={each.link}
@@ -107,10 +105,7 @@ const NavSidebar = ({
 					<button
 						name="theme-switch"
 						aria-label="theme-switch"
-						className={combineClasses(
-							classes.theme_switch,
-							"dark:text-white text-black",
-						)}
+						className={combineClasses(classes.theme_switch, "dark:text-white text-black")}
 						onClick={() => changeTheme()}>
 						{theme === THEMES.DARK ?
 							<BsFillSunFill className="text-2xl" />
