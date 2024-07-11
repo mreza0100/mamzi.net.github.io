@@ -25,7 +25,7 @@ const Home = () => {
 	return (
 		<PageLayout home PAGE_SEO={DEFAULT_SEO}>
 			<>
-				<section className="w-full md:pt-[100px] md:pb-[70px] pt-[130px] pb-20 mb-10 dark:bg-slate-800 bg-slate-200">
+				<div className="w-full md:pt-[100px] md:pb-[70px] pt-[130px] pb-20 mb-10 dark:bg-slate-800 bg-slate-200">
 					<div className="container text-center px-3">
 						<Text title className="text-3xl">
 							Mamzi's Blog or the Ultimate Answer to Life, the Universe and Everything
@@ -42,7 +42,7 @@ const Home = () => {
 							size={ImageSize.XS}
 						/>
 					</div>
-				</section>
+				</div>
 				<div className="container mx-auto lg:px-[15px] px-0">
 					<h3>What you will see in this blog</h3>
 					<Text>
@@ -51,7 +51,7 @@ const Home = () => {
 					</Text>
 					<Text>
 						Spinoza's Ethics is a perfect base for ultimate answer, Spinoza has proved the
-						fundamentals of Universe, life, mind and everything! through reading it I
+						fundamentals of the Universe, life, mind and everything! through reading it I
 						discovered many proven facts of the world which made me rethink of almost
 						everything I knew.
 					</Text>
@@ -61,21 +61,28 @@ const Home = () => {
 						comes with a deep peace.
 					</Text>
 					<h3>The ultimate answer and its story</h3>
-					<Text>
+					<div>
 						But about the ultimate answer, it's coming from{" "}
 						<a href="https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy">
 							Hitchhiker's Guide to the Galaxy
 						</a>{" "}
-						Hitchhiker's Guide to the Galaxy is a science fiction story which earth has
-						been made as a computational deterministic matrix by people in hyperspace and
-						world of improbabilities to discover the origin of life, the universe and
-						everything. This computational matrix were about to work for 10 million years
-						to compute the final result, but it accidentally destroyed because the
-						president thought his signing a autograph for a fan, and not the destruction
-						of a planet.
+						Hitchhiker's Guide to the Galaxy is a science fiction story which people from
+						hyperspace make a computer called deep thought to answer the question, it took
+						6.5 million years for it to deeply think of the answer and come up with 42!
+						Then it suggested to make a computational deterministic matrix to work for 10
+						million years to compute the final result, but it accidentally destroyed
+						because the president thought his signing a autograph for a fan, and not the
+						destruction of a planet.
+						<Image
+							className="mt-1"
+							src="/images/deep-thought.png"
+							alt="Deep Thought"
+							size={ImageSize.DEFAULT}
+						/>
 						{/*  */}
-						So the Earth was made by people in hyperspace to find the answer of how and
-						why life began, because only then it's possible to form life!?
+						The computational matrix was called Earth! made by people in hyperspace(the
+						world of improbability) to find the answer of how and why life began. Because
+						it's only possible in a deterministic world to form life.
 						<h4>
 							<strong>Does it bell a ring for you?</strong>
 						</h4>
@@ -93,27 +100,27 @@ const Home = () => {
 								predetermined system
 							</li>
 						</List>
-					</Text>
+					</div>
 					<h2>Why you should want to know Ethics?</h2>
-					<Text>
-						Each person crave for there own questions in life, if you want to know the
-						truth and care of authenticity of life. If you care of not blindly following
-						what has been determined on you by birth initial conditions, and seeking a way
-						to be your own master and know yourself more, Ethics is for you.
-					</Text>
-					<Text>
-						Ethics is about nature and reality, it shows the path to the astronomical
-						worldview of how things actually work and happen, included our existence and
-						experience.
-					</Text>
-					<Text>
-						Once you understand ethics you would realize its deep peace and self awareness
-						that it brings with itself. But this will not be free, Spinoza comes with
-						truth, and truth might not be so acceptable for everyone. So the seeker in
-						question which should be you has to be patient and an open minded rational
-						thinker.
-					</Text>
-
+					<section>
+						<Text>
+							Spinoza, realizing that we all primarily seek happiness, he set out to find
+							supreme and unending happiness. He saw that most people try to achieve
+							happiness through three primary avenues:
+						</Text>
+						<List>
+							<li>wealth</li>
+							<li>popularity</li>
+							<li>sensual pleasure</li>
+						</List>
+						<Text>
+							Noticing that these avenues do not lead to happiness, he sought and found a
+							path that did lead to happiness and detailed it in his Ethics. His method
+							was meticulously logical and didn’t depend on spirits, mystery, or wishful
+							thinking. It depended on understanding the true nature of things.
+						</Text>
+						<a href="https://www.youtube.com/watch?v=mSm2le8mDFM">Source</a>
+					</section>
 					<h2>Ultimate Tree - Pivot on Ethics to ultimate answer</h2>
 					<UltimateTree articles={ArticlesTree} />
 					<h4>Be my feedback loop</h4>

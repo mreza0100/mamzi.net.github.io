@@ -101,6 +101,11 @@ const LayoutStyles = styled.div(props => {
 			fontSize: "1.1rem",
 			textAlign: "center",
 		},
+		section: {
+			padding: "10px",
+			margin: "10px",
+			boxShadow: "10px 10px 5px lightblue",
+		},
 	};
 });
 
