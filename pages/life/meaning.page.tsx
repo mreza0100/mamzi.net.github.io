@@ -246,9 +246,8 @@ We do what everyone before us did, making our own meaning,
   don't wait for the world to give you a meaning for existence.
 In order for something for us to make meaning out of,
   it has to act for the sake of an end in view,
-  but the world doesn't act by the sake of an end in view,
-  nether seams if there is any kind of will behind it,
-  so it make sense not to wait for it.
+  but the world doesn't act for the sake of an end,
+  nether seams if there is any kind of will behind it.
 
 How do we find it?
 

@@ -1,12 +1,9 @@
-import classes from "./PageLayout.module.scss";
-import { combineClasses, getArticleDetails } from "../../utils/utils";
-import {
-	ArticlesTree,
-	SORTED_ARTICLES_BY_DATE,
-} from "../../../BLOG_CONSTANTS/_ARTICLES_LIST";
-import ArticleHeader from "../../components/ArticleHeader";
+import { SORTED_ARTICLES_BY_DATE } from "../../../BLOG_CONSTANTS/_ARTICLES_LIST";
 import ArticleMoreFromAuthor from "../../components/Misc/ArticleMoreFromAuthor";
+import { combineClasses, getArticleDetails } from "../../utils/utils";
+import ArticleHeader from "../../components/ArticleHeader";
 import UltimateTree from "../../components/Tree";
+import classes from "./PageLayout.module.scss";
 import { List } from "../../components";
 
 const Titles = ({ titles }: { titles?: string[] }) => {

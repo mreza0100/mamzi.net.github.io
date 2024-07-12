@@ -5,6 +5,7 @@ import React from "react";
 import RenderMD from "markdown-to-jsx";
 import LinkTo from "../LinkTo";
 import Banner from "../Banner";
+import List from "../List";
 
 type Child = React.ReactElement<IProps> | string;
 
@@ -19,14 +20,9 @@ export function collectTitles(md: string): string[] {
 	return md.split("\n").filter(line => line.startsWith("#"));
 }
 
-// const H1 = ({ children, ...rest }: { children: string }) => {
-// 	// console.log(rest);
-// 	return <h1 id="awd">{children}</h1>;
-// };
-
 const Markdown = ({ children, className }: IProps) => {
 	children = Array.isArray(children) ? children : [children];
-	const overrides = { img: Image, a: LinkTo, Banner };
+	const overrides = { img: Image, a: LinkTo, Banner, ul: List };
 
 	return (
 		<div className={combineClasses("pl-1", className)}>

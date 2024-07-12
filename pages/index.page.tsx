@@ -60,7 +60,7 @@ const Home = () => {
 						scientific and based on facts. its the book of mental state and happiness that
 						comes with a deep peace.
 					</Text>
-					<h3>The ultimate answer and its story</h3>
+					<h3>The ultimate answer</h3>
 					<div>
 						But about the ultimate answer, it's coming from{" "}
 						<a href="https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy">
@@ -82,7 +82,7 @@ const Home = () => {
 						{/*  */}
 						The computational matrix was called Earth! made by people in hyperspace(the
 						world of improbability) to find the answer of how and why life began. Because
-						it's only possible in a deterministic world to form life.
+						it's only possible in a deterministic world to form life!?
 						<h4>
 							<strong>Does it ring a bell for you?</strong>
 						</h4>

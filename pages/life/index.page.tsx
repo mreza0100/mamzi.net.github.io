@@ -89,8 +89,7 @@ We are not free, but necessary causes of our actions, and our will is not free, 
 ### To demonstrate this:
 
 When we look at animals in the wild world eating each other, we don't feel pity or interrupt, because we know about the cycle of life and how it works between animals and in nature. We accepted that animals do not have free will and act based on there instincts and needs.
-But we have not accepted this for matter for ourselves since we believe that we have the ability of thinking and we gain free will because of it, but that's not the case, since all living beings are part of nature and governed by its laws, and we are governed by nature, so we can never be free. Now with this point of view, consider world events and how people act, and you will see that it's all part of the general order of nature and everything is necessary.
-
+But we have not accepted this matter for ourselves since we believe that we have the ability of thinking/reasoning which give us free-will, but that's not the case, since all living beings are part of nature and governed by its laws, so we can never be ultimately free. Now with this point of view, consider world events and how people act, and you will see that it's all part of the general order of nature and everything is necessary.
 `;
 
 const Article = () => {
