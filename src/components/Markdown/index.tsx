@@ -1,11 +1,12 @@
-import { Image } from "../../../src/components";
 import { combineClasses } from "../../utils/utils";
-import styled from "styled-components";
-import React from "react";
+import { Image } from "../../../src/components";
 import RenderMD from "markdown-to-jsx";
+import Youtube from "../Video/youtube";
+import styled from "styled-components";
 import LinkTo from "../LinkTo";
 import Banner from "../Banner";
 import List from "../List";
+import React from "react";
 
 type Child = React.ReactElement<IProps> | string;
 
@@ -22,7 +23,7 @@ export function collectTitles(md: string): string[] {
 
 const Markdown = ({ children, className }: IProps) => {
 	children = Array.isArray(children) ? children : [children];
-	const overrides = { img: Image, a: LinkTo, Banner, ul: List };
+	const overrides = { img: Image, a: LinkTo, Banner, ul: List, youtube: Youtube };
 
 	return (
 		<div className={combineClasses("pl-1", className)}>

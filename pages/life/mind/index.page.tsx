@@ -284,7 +284,6 @@ Adequate idea must lead to driven nature(aerodynamics) and understanding it by e
 
 #### 1.Knowledge of the first kind:
 
-He did not liked this kind at all
 Also called as procedural knowledge, because it's the knowledge that we get from the procedures of the past, and it's the knowledge that we get from the past experiences.
 
 > [2P41](https://ethica.bc.edu/#/element/2P41): Knowledge of the first kind is the only source of falsity, knowledge of the second and third kinds is necessarily true.

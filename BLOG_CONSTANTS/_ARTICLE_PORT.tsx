@@ -19,8 +19,6 @@ export enum ArticlesKeys {
 	Ethics = "Ethics",
 	EmotionCausality = "Emotional Causality",
 	Freewill = "Freewill",
-	KnowledgeFirst = "First kind of knowledge",
-	KnowledgeSecond = "Second kind of knowledge",
-	KnowledgeThird = "Third kind of knowledge",
+	Knowledge = "knowledge",
 	// Ethics = "Ethics",
 }

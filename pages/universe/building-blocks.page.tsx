@@ -19,6 +19,9 @@ export const BuildingBlocksMetadata = {
 };
 
 const content = `
+
+<youtube videoId="leoBccWOZfo" />
+
 ## Building blocks of God or Nature or Universe
 
 It's important to understand what he was trying to do first.

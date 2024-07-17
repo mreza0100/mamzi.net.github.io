@@ -209,6 +209,7 @@ Almost everything else you have in mind about God, is the same with Spinoza's Go
 
 - God is **not** a separate entity from the nature, it's the nature itself.
 - God is **not** a intelligent agent, it's the cause of everything.
+- God doesn't know good and bad, it knows necessity.
 
 ## References
 

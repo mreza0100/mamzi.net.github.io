@@ -18,6 +18,7 @@ import { MAMZI } from "./_BLOG_SETUP";
 import _ from "lodash";
 import { MemoryMetadata } from "../pages/life/mind/emotions/memory.page";
 import { EthicsMetadata } from "../pages/everything/ethics.draft";
+import { KnowledgeMetadata } from "../pages/life/mind/knowledge/index.page";
 
 export type ArticleParam = Partial<iArticle & iArticle["preview"]>;
 
@@ -86,6 +87,26 @@ export const ArticlesTree: IArticlesTree = [
 									ArticlesKeys.EmotionalMemory,
 								],
 							},
+							{
+								key: ArticlesKeys.Knowledge,
+								children: [
+									{
+										key: ArticlesKeys.Knowledge,
+										title: "First kind of knowledge",
+										id: "first",
+									},
+									{
+										key: ArticlesKeys.Knowledge,
+										title: "Second kind of knowledge",
+										id: "second",
+									},
+									{
+										key: ArticlesKeys.Knowledge,
+										title: "Third kind of knowledge",
+										id: "third",
+									},
+								],
+							},
 						],
 					},
 					ArticlesKeys.Body,
@@ -130,6 +151,7 @@ const LIFE: iArticle[] = [
 	importArticle(BodyMetadata),
 	importArticle(MindMetadata),
 	importArticle(MemoryMetadata),
+	importArticle(KnowledgeMetadata),
 
 	importArticle(EmotionsMetadata),
 	importArticle(EmotionsDefinitionsMetadata),
