@@ -4,17 +4,17 @@ import Markdown from "../../../src/components/Markdown";
 import { ImageSize } from "../../../src/shared/enums";
 import { EthSts } from "../../../src/utils/markdown";
 
-export const MemoryMetadata = {
+export const FreewillMetadata = {
 	key: ArticlesKeys.Freewill,
 	url: "/life/mind/freewill",
 	path: "/pages/life/mind/freewill.tsx",
-	featureArticle: true,
+	featureArticle: false,
 	isPublished: false,
-	date: "Jun 14 2024",
-	articleTitle: "Memory",
-	tags: "Memory mind",
-	thumbnail: "/public/images/spinoza-ethics.jpg", // TODO
-	shortIntro: "", // TODO
+	date: "July 21 2024",
+	articleTitle: "Freewill and Freedom",
+	tags: "Freewill, free, will, freedom, spinoza, ethics, human mind",
+	thumbnail: "/public/images/spinoza-ethics.jpg",
+	shortIntro: "",
 	category: "Life",
 };
 
