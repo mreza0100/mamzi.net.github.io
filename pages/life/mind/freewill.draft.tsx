@@ -68,6 +68,17 @@ const content = [
 ## How to write your own reality
 
 
+## Reflection of free-will assumption
+
+
+## Good, bad and meaning
+
+
+### Judgment
+
+
+
+
      `,
 ];
 

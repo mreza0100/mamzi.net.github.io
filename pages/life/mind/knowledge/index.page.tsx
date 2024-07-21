@@ -188,6 +188,17 @@ Now that there life has faced challenges which they believe follow from there ow
 I think I have shown enough how our rationality is in service to our first kind of knowledge,
   and how we are in illusion of making decision by our reasons, which are in service to our passions.
 
+##### Rationality and assumption overlap
+
+Rational assumption means reason in service to passion.
+
+In a way that the assumptions connected to each other by something that looks like reason.
+The truth might or might not be in the conclusion,
+  error of mind arise as the time that this data considered truthy,
+  meanwhile we know that assumptions are the source of falsity and opposite of second kind of knowledge.
+That's how they reason and assumption merge,
+  the produced error will be considering false idea as truth which result in distancing from reality.
+
 
 
 <h2 id="third"> 3.Knowledge of the third kind (intuition): </h2>

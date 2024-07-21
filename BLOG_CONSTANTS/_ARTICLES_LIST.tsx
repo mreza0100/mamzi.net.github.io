@@ -5,7 +5,7 @@ import { EmotionsMetadata } from "../pages/life/mind/emotions/index.page";
 import { CausalityMetadata } from "../pages/universe/causality.page";
 import { MiraclesMetadata } from "../pages/universe/miracles.page";
 import { iArticle, IArticlesTree } from "../src/shared/interfaces";
-import { PerfectionMetadata } from "../pages/universe/perfection";
+import { PerfectionMetadata } from "../pages/universe/perfection.page";
 import { UniverseMetadata } from "../pages/universe/index.page";
 import { MindMetadata } from "../pages/life/mind/index.page";
 import { MeaningMetadata } from "../pages/life/meaning.page";
