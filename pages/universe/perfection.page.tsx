@@ -58,7 +58,7 @@ For example the point that bullet end up in the space within the game if we say 
 
 Now let's talk about what happen when we shoot a bullet in nature.
 The bullet that we shoot, the calculations of it will happen infinity accurate as [10.2381239812038...][20.56891273918723...].
-This is what is called infinite necessity of accuracy.
+This is what is called infinite necessity or infinite accuracy.
 The point is that everything else in nature, calculates infinity and happens exactly as it should.
 This necessity is what makes everything possible exactly as it should.
 

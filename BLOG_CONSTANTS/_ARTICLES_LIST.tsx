@@ -69,7 +69,16 @@ export const ArticlesTree: IArticlesTree = [
 					},
 					ArticlesKeys.Causality,
 					ArticlesKeys.Miracles,
-					ArticlesKeys.Perfection,
+					{
+						key: ArticlesKeys.Perfection,
+						children: [
+							{
+								key: ArticlesKeys.Perfection,
+								id: "necessity",
+								title: "Necessity",
+							},
+						],
+					},
 				],
 			},
 			{
