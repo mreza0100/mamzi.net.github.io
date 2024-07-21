@@ -5,4 +5,4 @@ publish:
 	npm run deploy
 	git add -A
 	git commit -m "update - publish - format"
-	git push origin react-gh-pages
+	git push origin main

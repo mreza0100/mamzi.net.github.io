@@ -69,6 +69,7 @@ export const ArticlesTree: IArticlesTree = [
 					},
 					ArticlesKeys.Causality,
 					ArticlesKeys.Miracles,
+					ArticlesKeys.Perfection,
 				],
 			},
 			{
