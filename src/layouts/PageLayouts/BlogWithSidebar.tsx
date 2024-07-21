@@ -5,6 +5,8 @@ import ArticleHeader from "../../components/ArticleHeader";
 import UltimateTree from "../../components/Tree";
 import classes from "./PageLayout.module.scss";
 import { List } from "../../components";
+import styled from "styled-components";
+import { BiPencil } from "react-icons/bi";
 
 const Titles = ({ titles }: { titles?: string[] }) => {
 	if (!titles) return null;
@@ -24,6 +26,30 @@ const Titles = ({ titles }: { titles?: string[] }) => {
 		</>
 	);
 };
+
+function EditThisPage() {
+	const ARTICLE_DETAILS = getArticleDetails();
+
+	const filePath = ARTICLE_DETAILS.path.replace(".tsx", ".page.tsx");
+	const href = `https://github.com/mreza0100/mamzi.net.github.io/edit/main/${filePath}`;
+	return (
+		<EditButton>
+			<BiPencil />
+			<a href={href}>Edit this page</a>
+		</EditButton>
+	);
+}
+const EditButton = styled.div(props => {
+	return {
+		display: "flex",
+		justifyContent: "left",
+		alignItems: "center",
+		padding: "25px",
+		a: {
+			paddingLeft: "10px",
+		},
+	};
+});
 
 const WithSidebar = ({
 	children,
@@ -55,6 +81,7 @@ const WithSidebar = ({
 						)}>
 						<ArticleHeader ARTICLE_DETAILS={ARTICLE_DETAILS} />
 						{children}
+						<EditThisPage />
 					</article>
 					<div className={classes.article_sidebar_wrapper}>
 						<ArticleMoreFromAuthor author={author} relatedArticles={relatedArticles} />
